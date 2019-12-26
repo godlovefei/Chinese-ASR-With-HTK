@@ -1,0 +1,84 @@
+WARNING: no script file global.ded
+WARNING: no script file dict/lexicon_sp.ded
+WARNING: no script file dict/lexicon1_sp.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+  lexicon_sp     47065       5333      48240       5541
+ lexicon1_sp      8872       7196       9224       7494
+       dict1     12529       7196      13035       1729
+
+7196 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. ii    :  1214
+  2. i     :  1074
+  3. sp    :  7270
+  4. uu    :   734
+  5. uan   :   320
+  6. d     :   746
+  7. uo    :   405
+  8. x     :   772
+  9. ia    :   230
+ 10. z     :   400
+ 11. iy    :   259
+ 12. l     :   750
+ 13. iang  :   309
+ 14. g     :   597
+ 15. e     :   482
+ 16. r     :   313
+ 17. en    :   370
+ 18. b     :   668
+ 19. an    :   637
+ 20. vv    :   507
+ 21. ve    :   204
+ 22. m     :   504
+ 23. in    :   378
+ 24. u     :  1038
+ 25. ch    :   505
+ 26. j     :   898
+ 27. v     :   407
+ 28. iu    :   330
+ 29. ee    :   185
+ 30. er    :   145
+ 31. n     :   338
+ 32. ian   :   637
+ 33. s     :   360
+ 34. ie    :   314
+ 35. ai    :   510
+ 36. h     :   639
+ 37. ui    :   458
+ 38. t     :   507
+ 39. q     :   554
+ 40. ao    :   488
+ 41. ong   :   476
+ 42. sh    :   916
+ 43. ix    :   546
+ 44. zh    :   794
+ 45. ing   :   570
+ 46. k     :   323
+ 47. uai   :   127
+ 48. eng   :   439
+ 49. ou    :   359
+ 50. iao   :   352
+ 51. f     :   386
+ 52. uang  :   251
+ 53. p     :   290
+ 54. iong  :   102
+ 55. ang   :   486
+ 56. un    :   250
+ 57. ei    :   225
+ 58. c     :   251
+ 59. a     :   430
+ 60. vn    :   157
+ 61. van   :   254
+ 62. iz    :    37
+ 63. o     :   114
+ 64. aa    :   147
+ 65. ua    :   138
+ 66. oo    :    14
+ 67. ueng  :     6
+
+Dictionary dict/dict1 created

@@ -1,0 +1,1973 @@
+QS 'R_NonBoundary' { "*+*" }
+QS 'R_Stop' { "*+g","*+kd","*+k","*+dd","*+d","*+td","*+t","*+b","*+pd","*+p" }
+QS 'R_Nasal' { "*+ng","*+en","*+n","*+m" }
+QS 'R_Fricative' { "*+dh","*+th","*+jh","*+ch","*+v","*+f","*+z","*+sh","*+s" }
+QS 'R_Liquid' { "*+hh","*+y","*+w","*+r","*+el","*+l" }
+QS 'R_Vowel' { "*+ow","*+iy","*+ey","*+oy","*+ay","*+er","*+ax","*+ah","*+uw","*+aa","*+ao","*+ih","*+eh" }
+QS 'R_C-Front' { "*+w","*+v","*+f","*+m","*+b","*+pd","*+p" }
+QS 'R_C-Central' { "*+r","*+el","*+l","*+dh","*+th","*+sh","*+z","*+s","*+n","*+en","*+dd","*+d","*+td","*+t" }
+QS 'R_C-Back' { "*+hh","*+ng","*+g","*+kd","*+k","*+y","*+jh","*+ch","*+sh" }
+QS 'R_V-Front' { "*+eh","*+ih","*+iy" }
+QS 'R_V-Central' { "*+ao","*+er","*+aa","*+eh" }
+QS 'R_V-Back' { "*+uh","*+ax","*+aa","*+uw" }
+QS 'R_Front' { "*+eh","*+ih","*+iy","*+w","*+v","*+f","*+m","*+b","*+pd","*+p" }
+QS 'R_Central' { "*+ao","*+er","*+aa","*+eh","*+r","*+el","*+l","*+dh","*+th","*+sh","*+z","*+s","*+n","*+en","*+dd","*+d","*+td","*+t" }
+QS 'R_Back' { "*+uh","*+ax","*+uw","*+aa","*+hh","*+ng","*+g","*+kd","*+k","*+y","*+jh","*+ch","*+sh" }
+QS 'R_Fortis' { "*+ch","*+sh","*+s","*+th","*+f","*+kd","*+k","*+td","*+t","*+pd","*+p" }
+QS 'R_Lenis' { "*+jh","*+sh","*+z","*+dh","*+v","*+g","*+dd","*+d","*+b" }
+QS 'R_UnFortLenis' { "*+w","*+y","*+r","*+el","*+l","*+hh","*+ng","*+en","*+n","*+m" }
+QS 'R_Coronal' { "*+r","*+el","*+l","*+jh","*+ch","*+sh","*+z","*+s","*+dh","*+th","*+en","*+n","*+dd","*+d","*+td","*+t" }
+QS 'R_NonCoronal' { "*+w","*+y","*+hh","*+v","*+f","*+ng","*+g","*+kd","*+k","*+m","*+b","*+pd","*+p" }
+QS 'R_Anterior' { "*+w","*+el","*+l","*+z","*+s","*+dh","*+th","*+v","*+f","*+en","*+n","*+dd","*+d","*+td","*+t","*+m","*+b","*+pd","*+p" }
+QS 'R_NonAnterior' { "*+y","*+r","*+jh","*+ch","*+hh","*+sh","*+ng","*+g","*+kd","*+k" }
+QS 'R_Continuent' { "*+w","*+y","*+r","*+el","*+l","*+hh","*+sh","*+z","*+s","*+dh","*+th","*+v","*+f","*+ng","*+en","*+n","*+m" }
+QS 'R_NonContinuent' { "*+jh","*+ch","*+g","*+kd","*+k","*+dd","*+d","*+td","*+t","*+b","*+pd","*+p" }
+QS 'R_Strident' { "*+jh","*+ch","*+sh","*+z","*+s" }
+QS 'R_NonStrident' { "*+hh","*+dh","*+th","*+v","*+f" }
+QS 'R_UnStrident' { "*+w","*+y","*+r","*+el","*+l","*+ng","*+g","*+kd","*+k","*+en","*+n","*+dd","*+d","*+td","*+t","*+m","*+b","*+pd","*+p" }
+QS 'R_Glide' { "*+w","*+y","*+r","*+el","*+l","*+hh" }
+QS 'R_Syllabic' { "*+er","*+el","*+l","*+m","*+en" }
+QS 'R_Unvoiced-Cons' { "*+ch","*+hh","*+th","*+f","*+sh","*+s","*+kd","*+k","*+td","*+t","*+pd","*+p" }
+QS 'R_Voiced-Cons' { "*+z","*+w","*+v","*+r","*+ng","*+en","*+n","*+m","*+el","*+l","*+y","*+g","*+dh","*+dd","*+d","*+b","*+jh" }
+QS 'R_Unvoiced-All' { "*+sil","*+ch","*+hh","*+th","*+f","*+sh","*+s","*+kd","*+k","*+td","*+t","*+pd","*+p" }
+QS 'R_Long' { "*+el","*+l","*+m","*+en","*+uw","*+ao","*+ow","*+aa","*+iy" }
+QS 'R_Short' { "*+uh","*+ax","*+ah","*+oy","*+ay","*+ih","*+aa","*+ey","*+eh" }
+QS 'R_Dipthong' { "*+el","*+l","*+m","*+en","*+er","*+aa","*+oy","*+ay","*+ey" }
+QS 'R_Front-Start' { "*+er","*+aa","*+ey" }
+QS 'R_High' { "*+iy","*+ax","*+aa","*+uw","*+ih" }
+QS 'R_Medium' { "*+el","*+l","*+m","*+en","*+eh","*+ax","*+aa","*+er","*+ey" }
+QS 'R_Low' { "*+oy","*+ao","*+aw","*+aa","*+ay","*+eh" }
+QS 'R_Rounded' { "*+w","*+oy","*+ax","*+aa","*+uw","*+ao" }
+QS 'R_Unrounded' { "*+y","*+r","*+el","*+l","*+hh","*+m","*+en","*+ax","*+ah","*+aw","*+iy","*+ey","*+ay","*+er","*+aa","*+ih","*+eh" }
+QS 'R_NonAffricate' { "*+dh","*+th","*+v","*+f","*+z","*+sh","*+s" }
+QS 'R_Affricate' { "*+jh","*+ch" }
+QS 'R_IVowel' { "*+iy","*+ih" }
+QS 'R_AVowel' { "*+aw","*+ay","*+er","*+aa","*+eh" }
+QS 'R_OVowel' { "*+aa","*+oy","*+ao" }
+QS 'R_UVowel' { "*+uw","*+el","*+l","*+m","*+en","*+ax","*+aa" }
+QS 'R_Voiced-Stop' { "*+g","*+dd","*+d","*+b" }
+QS 'R_Unvoiced-Stop' { "*+kd","*+k","*+td","*+t","*+pd","*+p" }
+QS 'R_Front-Stop' { "*+b","*+pd","*+p" }
+QS 'R_Central-Stop' { "*+dd","*+d","*+td","*+t" }
+QS 'R_Back-Stop' { "*+g","*+kd","*+k" }
+QS 'R_Voiced-Fric' { "*+v","*+ch","*+dh","*+sh","*+z" }
+QS 'R_Unvoiced-Fric' { "*+ch","*+f","*+th","*+sh","*+s" }
+QS 'R_Front-Fric' { "*+v","*+f" }
+QS 'R_Central-Fric' { "*+dh","*+th","*+z","*+s" }
+QS 'R_Back-Fric' { "*+jh","*+ch","*+sh" }
+QS 'R_aa' { "*+aa" }
+QS 'R_ao' { "*+ao" }
+QS 'R_b' { "*+b" }
+QS 'R_ch' { "*+ch" }
+QS 'R_d' { "*+d" }
+QS 'R_en' { "*+en" }
+QS 'R_er' { "*+er" }
+QS 'R_f' { "*+f" }
+QS 'R_g' { "*+g" }
+QS 'R_iy' { "*+iy" }
+QS 'R_k' { "*+k" }
+QS 'R_l' { "*+l" }
+QS 'R_m' { "*+m" }
+QS 'R_n' { "*+n" }
+QS 'R_p' { "*+p" }
+QS 'R_r' { "*+r" }
+QS 'R_s' { "*+s" }
+QS 'R_sh' { "*+sh" }
+QS 'R_t' { "*+t" }
+QS 'R_v' { "*+v" }
+QS 'R_z' { "*+z" }
+
+ii[2]
+   "ii_s21"
+
+i[2]
+{
+   0          'R_NonBoundary'    "i_s21"      -1    
+  -1                    'R_g'      -2       "i_s28" 
+  -2                 'R_Long'      -3         -7    
+  -3                    'R_t'      -4       "i_s25" 
+  -4            'R_Back-Fric'      -5       "i_s24" 
+  -5                    'R_s'      -6       "i_s23" 
+  -6           'R_NonCoronal'      -8       "i_s26" 
+  -7               'R_Liquid'    "i_s26"    "i_s27" 
+  -8                'R_Nasal'    "i_s22"    "i_s24" 
+}
+
+sp[2]
+   "sp_s21"
+
+uu[2]
+   "uu_s21"
+
+uan[2]
+{
+   0          'R_NonBoundary'  "uan_s21"      -1    
+  -1                 'R_Stop'      -2         -4    
+  -2          'R_Voiced-Cons'      -6         -3    
+  -3                    'R_n'  "uan_s22"  "uan_s23" 
+  -4                    'R_b'      -5     "uan_s26" 
+  -5                    'R_d'  "uan_s24"  "uan_s25" 
+  -6             'R_Anterior'  "uan_s26"  "uan_s25" 
+}
+
+d[2]
+{
+   0                'R_Vowel'    "d_s21"    "d_s22" 
+}
+
+uo[2]
+{
+   0                'R_Nasal'      -2         -1    
+  -1              'R_C-Front'   "uo_s28"   "uo_s29" 
+  -2           'R_Continuent'      -3         -8    
+  -3          'R_NonBoundary'   "uo_s22"      -4    
+  -4                    'R_p'      -5      "uo_s25" 
+  -5        'R_NonContinuent'   "uo_s24"      -6    
+  -6                    'R_k'      -7      "uo_s28" 
+  -7                 'R_Stop'   "uo_s21"      -9    
+  -8               'R_C-Back'   "uo_s26"   "uo_s27" 
+  -9                    'R_d'     -10      "uo_s24" 
+ -10            'R_C-Central'   "uo_s22"   "uo_s23" 
+}
+
+x[2]
+{
+   0            'R_Fricative'    "x_s21"    "x_s22" 
+}
+
+ia[2]
+{
+   0          'R_NonBoundary'   "ia_s21"      -1    
+  -1        'R_Unvoiced-Fric'   "ia_s22"   "ia_s23" 
+}
+
+z[2]
+{
+   0              'R_V-Front'      -1       "z_s23" 
+  -1              'R_Central'    "z_s21"    "z_s22" 
+}
+
+iy[2]
+{
+   0          'R_NonBoundary'   "iy_s21"      -1    
+  -1          'R_Voiced-Cons'   "iy_s22"      -2    
+  -2            'R_C-Central'   "iy_s22"   "iy_s23" 
+}
+
+l[2]
+{
+   0                'R_Vowel'      -1       "l_s23" 
+  -1            'R_Fricative'    "l_s21"    "l_s22" 
+}
+
+iang[2]
+{
+   0          'R_NonBoundary'  "iang_s21"      -1    
+  -1              'R_Central'  "iang_s22"      -2    
+  -2         'R_Central-Fric'      -3     "iang_s24" 
+  -3        'R_Unvoiced-Stop'      -4     "iang_s24" 
+  -4                'R_Lenis'  "iang_s22"  "iang_s23" 
+}
+
+g[2]
+{
+   0              'R_Central'    "g_s21"      -1    
+  -1                'R_Nasal'    "g_s22"    "g_s23" 
+}
+
+e[2]
+{
+   0          'R_NonBoundary'    "e_s21"      -1    
+  -1             'R_Anterior'      -2         -3    
+  -2              'R_Central'      -4         -5    
+  -3               'R_Liquid'      -6       "e_s28" 
+  -4                'R_Lenis'    "e_s22"    "e_s23" 
+  -5               'R_Liquid'    "e_s26"    "e_s24" 
+  -6          'R_Voiced-Stop'      -7       "e_s27" 
+  -7                    'R_n'      -8       "e_s26" 
+  -8              'R_C-Front'    "e_s25"    "e_s27" 
+}
+
+r[2]
+{
+   0                'R_Nasal'      -1       "r_s23" 
+  -1                'R_Vowel'    "r_s21"    "r_s22" 
+}
+
+en[2]
+{
+   0           'R_NonCoronal'      -1         -3    
+  -1          'R_NonBoundary'   "en_s21"      -2    
+  -2          'R_Voiced-Cons'      -4        -10    
+  -3                'R_Nasal'      -5     "en_s211" 
+  -4                'R_Lenis'      -7      "en_s24" 
+  -5              'R_C-Front'      -8         -6    
+  -6                 'R_Stop'   "en_s29"      -9    
+  -7        'R_NonContinuent'   "en_s22"   "en_s23" 
+  -8               'R_Fortis'   "en_s27"   "en_s28" 
+  -9               'R_Fortis'  "en_s210"  "en_s211" 
+ -10             'R_Syllabic'     -11      "en_s26" 
+ -11                 'R_Stop'   "en_s25"   "en_s26" 
+}
+
+b[2]
+{
+   0                'R_Vowel'      -1       "b_s23" 
+  -1                'R_Nasal'    "b_s21"    "b_s22" 
+}
+
+an[2]
+{
+   0          'R_NonBoundary'   "an_s21"      -1    
+  -1             'R_Strident'      -2         -4    
+  -2                    'R_p'      -3      "an_s24" 
+  -3                    'R_g'      -5      "an_s27" 
+  -4               'R_Fortis'   "an_s25"      -7    
+  -5                    'R_l'      -6      "an_s26" 
+  -6           'R_Continuent'      -8         -9    
+  -7            'R_C-Central'   "an_s26"   "an_s27" 
+  -8           'R_NonCoronal'   "an_s23"   "an_s22" 
+  -9            'R_Unrounded'   "an_s25"   "an_s23" 
+}
+
+vv[2]
+{
+   0            'R_Fricative'   "vv_s21"   "vv_s22" 
+}
+
+ve[2]
+{
+   0               'R_Liquid'      -1      "ve_s25" 
+  -1          'R_NonBoundary'   "ve_s21"      -2    
+  -2                    'R_b'      -3      "ve_s24" 
+  -3            'R_C-Central'      -4      "ve_s23" 
+  -4           'R_NonCoronal'   "ve_s22"   "ve_s23" 
+}
+
+m[2]
+{
+   0                'R_Nasal'      -1       "m_s23" 
+  -1                'R_Vowel'    "m_s21"    "m_s22" 
+}
+
+in[2]
+{
+   0          'R_NonBoundary'   "in_s21"      -1    
+  -1        'R_Unvoiced-Stop'      -2         -4    
+  -2                'R_Lenis'      -3         -6    
+  -3           'R_Continuent'      -5      "in_s23" 
+  -4              'R_C-Front'   "in_s25"   "in_s26" 
+  -5            'R_Fricative'   "in_s24"   "in_s26" 
+  -6         'R_Central-Stop'      -7      "in_s24" 
+  -7               'R_Fortis'   "in_s22"   "in_s23" 
+}
+
+u[2]
+{
+   0          'R_NonBoundary'    "u_s21"      -1    
+  -1           'R_NonCoronal'      -3         -2    
+  -2           'R_Front-Stop'      -4      "u_s211" 
+  -3                'R_Nasal'      -5       "u_s27" 
+  -4        'R_Unvoiced-Stop'      -8      "u_s210" 
+  -5                 'R_Long'      -6        -10    
+  -6                 'R_Stop'      -7       "u_s24" 
+  -7                   'R_sh'      -9       "u_s24" 
+  -8                 'R_Stop'    "u_s28"    "u_s29" 
+  -9                    'R_s'     -11       "u_s25" 
+ -10               'R_Liquid'    "u_s25"    "u_s26" 
+ -11               'R_Liquid'    "u_s22"    "u_s23" 
+}
+
+ch[2]
+{
+   0              'R_Central'   "ch_s21"   "ch_s22" 
+}
+
+j[2]
+{
+   0            'R_Fricative'    "j_s21"    "j_s22" 
+}
+
+v[2]
+{
+   0                    'R_n'      -1       "v_s28" 
+  -1        'R_Unvoiced-Fric'      -2         -4    
+  -2               'R_Liquid'      -3       "v_s27" 
+  -3          'R_NonBoundary'    "v_s21"      -5    
+  -4            'R_C-Central'    "v_s26"    "v_s27" 
+  -5                'R_Lenis'      -6       "v_s25" 
+  -6                 'R_Back'      -7       "v_s24" 
+  -7              'R_C-Front'    "v_s22"    "v_s23" 
+}
+
+iu[2]
+{
+   0         'R_NonAffricate'      -1      "iu_s26" 
+  -1          'R_Voiced-Cons'      -3         -2    
+  -2             'R_Syllabic'   "iu_s25"   "iu_s26" 
+  -3          'R_NonBoundary'   "iu_s21"      -4    
+  -4            'R_Back-Stop'      -5      "iu_s24" 
+  -5                 'R_Stop'   "iu_s22"   "iu_s23" 
+}
+
+ee[2]
+{
+   0              'R_Central'   "ee_s21"      -1    
+  -1                'R_Nasal'   "ee_s22"   "ee_s23" 
+}
+
+er[2]
+{
+   0          'R_NonBoundary'   "er_s24"      -1    
+  -1                   'R_sh'      -2      "er_s25" 
+  -2          'R_Voiced-Cons'   "er_s21"      -3    
+  -3            'R_Fricative'      -4      "er_s24" 
+  -4               'R_C-Back'   "er_s22"   "er_s23" 
+}
+
+n[2]
+{
+   0             'R_Anterior'      -1         -2    
+  -1                'R_Vowel'    "n_s21"    "n_s23" 
+  -2                'R_Nasal'    "n_s22"    "n_s23" 
+}
+
+ian[2]
+{
+   0          'R_NonBoundary'  "ian_s24"      -1    
+  -1                    'R_s'      -2     "ian_s26" 
+  -2             'R_Anterior'      -4         -3    
+  -3                    'R_b'      -6     "ian_s25" 
+  -4                'R_Vowel'      -5     "ian_s25" 
+  -5         'R_NonAffricate'      -7     "ian_s22" 
+  -6             'R_Syllabic'  "ian_s23"  "ian_s24" 
+  -7            'R_Fricative'  "ian_s21"  "ian_s26" 
+}
+
+s[2]
+{
+   0                 'R_Long'    "s_s21"    "s_s22" 
+}
+
+ie[2]
+{
+   0           'R_UnStrident'      -1         -3    
+  -1               'R_Fortis'      -2      "ie_s22" 
+  -2          'R_NonBoundary'   "ie_s24"   "ie_s21" 
+  -3                    'R_b'      -4      "ie_s24" 
+  -4                'R_Lenis'   "ie_s22"   "ie_s23" 
+}
+
+ai[2]
+{
+   0          'R_NonBoundary'   "ai_s21"      -1    
+  -1          'R_Voiced-Fric'      -2         -8    
+  -2             'R_Strident'      -3      "ai_s26" 
+  -3              'R_C-Front'      -4         -6    
+  -4              'R_Central'   "ai_s22"      -5    
+  -5                    'R_l'      -7      "ai_s24" 
+  -6                'R_Lenis'   "ai_s27"   "ai_s25" 
+  -7          'R_Voiced-Cons'      -9      "ai_s23" 
+  -8               'R_C-Back'   "ai_s27"   "ai_s28" 
+  -9             'R_Syllabic'   "ai_s25"   "ai_s23" 
+}
+
+h[2]
+{
+   0              'R_Central'    "h_s21"      -1    
+  -1                'R_Nasal'    "h_s22"    "h_s23" 
+}
+
+ui[2]
+{
+   0          'R_NonBoundary'   "ui_s21"      -1    
+  -1              'R_Central'      -3         -2    
+  -2                    'R_r'      -4      "ui_s26" 
+  -3        'R_NonContinuent'      -5      "ui_s26" 
+  -4                 'R_Long'      -6      "ui_s25" 
+  -5              'R_C-Front'   "ui_s22"   "ui_s24" 
+  -6          'R_Voiced-Stop'   "ui_s23"   "ui_s24" 
+}
+
+t[2]
+   "t_s21"
+
+q[2]
+{
+   0            'R_Fricative'    "q_s21"    "q_s22" 
+}
+
+ao[2]
+{
+   0          'R_NonBoundary'   "ao_s26"      -1    
+  -1                    'R_z'      -2      "ao_s27" 
+  -2                    'R_l'      -3      "ao_s26" 
+  -3          'R_UnFortLenis'      -4      "ao_s25" 
+  -4                    'R_p'      -5      "ao_s24" 
+  -5        'R_Unvoiced-Stop'      -6      "ao_s23" 
+  -6             'R_Anterior'   "ao_s21"   "ao_s22" 
+}
+
+ong[2]
+{
+   0          'R_NonBoundary'  "ong_s21"      -1    
+  -1             'R_Strident'      -2         -4    
+  -2                    'R_m'      -3     "ong_s25" 
+  -3                'R_Lenis'      -7         -5    
+  -4                'R_Lenis'  "ong_s26"      -6    
+  -5              'R_C-Front'  "ong_s24"  "ong_s28" 
+  -6               'R_C-Back'  "ong_s27"  "ong_s28" 
+  -7                'R_Vowel'      -8     "ong_s23" 
+  -8             'R_Anterior'  "ong_s22"  "ong_s27" 
+}
+
+sh[2]
+{
+   0                'R_Nasal'   "sh_s21"   "sh_s22" 
+}
+
+ix[2]
+{
+   0             'R_Anterior'      -1         -3    
+  -1               'R_Liquid'      -2      "ix_s22" 
+  -2          'R_NonBoundary'   "ix_s21"      -4    
+  -3               'R_Fortis'   "ix_s23"      -5    
+  -4            'R_Fricative'   "ix_s24"   "ix_s23" 
+  -5             'R_Strident'   "ix_s24"   "ix_s25" 
+}
+
+zh[2]
+{
+   0                'R_Nasal'   "zh_s21"   "zh_s22" 
+}
+
+ing[2]
+{
+   0          'R_NonBoundary'  "ing_s21"      -1    
+  -1             'R_Strident'      -2         -8    
+  -2              'R_C-Front'      -3         -5    
+  -3                    'R_g'      -4     "ing_s24" 
+  -4          'R_NonAnterior'      -6         -7    
+  -5                'R_Lenis'  "ing_s25"  "ing_s26" 
+  -6                'R_Nasal'  "ing_s22"  "ing_s25" 
+  -7                 'R_Stop'  "ing_s23"  "ing_s28" 
+  -8          'R_Voiced-Fric'  "ing_s27"  "ing_s28" 
+}
+
+k[2]
+{
+   0              'R_Central'    "k_s21"    "k_s22" 
+}
+
+uai[2]
+{
+   0          'R_NonBoundary'  "uai_s21"      -1    
+  -1                    'R_l'      -2     "uai_s24" 
+  -2            'R_Back-Stop'      -3     "uai_s23" 
+  -3                    'R_z'  "uai_s22"  "uai_s23" 
+}
+
+eng[2]
+{
+   0          'R_NonBoundary'  "eng_s24"      -1    
+  -1           'R_UnStrident'      -6         -2    
+  -2                    'R_m'      -3     "eng_s27" 
+  -3                'R_Nasal'      -4     "eng_s26" 
+  -4         'R_Central-Stop'      -5     "eng_s25" 
+  -5                    'R_r'      -8     "eng_s24" 
+  -6              'R_Central'      -7     "eng_s22" 
+  -7               'R_C-Back'  "eng_s27"  "eng_s21" 
+  -8                    'R_b'      -9     "eng_s25" 
+  -9               'R_Fortis'  "eng_s23"  "eng_s26" 
+}
+
+ou[2]
+{
+   0          'R_NonBoundary'   "ou_s21"      -1    
+  -1                'R_Vowel'      -2      "ou_s29" 
+  -2             'R_Anterior'      -3         -5    
+  -3        'R_Unvoiced-Stop'      -4      "ou_s24" 
+  -4              'R_Coronal'   "ou_s22"      -8    
+  -5                'R_Nasal'      -6      "ou_s28" 
+  -6               'R_Fortis'      -7         -9    
+  -7               'R_Liquid'   "ou_s25"   "ou_s26" 
+  -8                'R_Lenis'   "ou_s27"   "ou_s23" 
+  -9           'R_Front-Stop'   "ou_s28"   "ou_s27" 
+}
+
+iao[2]
+{
+   0          'R_NonBoundary'  "iao_s21"      -1    
+  -1                'R_Nasal'      -2     "iao_s24" 
+  -2                 'R_Long'  "iao_s22"  "iao_s23" 
+}
+
+f[2]
+{
+   0                'R_Nasal'    "f_s21"    "f_s22" 
+}
+
+uang[2]
+{
+   0          'R_NonBoundary'  "uang_s21"      -1    
+  -1         'R_NonAffricate'      -2     "uang_s24" 
+  -2                    'R_g'      -3     "uang_s23" 
+  -3        'R_Unvoiced-Stop'  "uang_s22"  "uang_s23" 
+}
+
+p[2]
+{
+   0                'R_Nasal'    "p_s21"    "p_s22" 
+}
+
+iong[2]
+{
+   0            'R_C-Central'      -1         -2    
+  -1        'R_NonContinuent'  "iong_s23"  "iong_s21" 
+  -2               'R_Liquid'  "iong_s22"  "iong_s23" 
+}
+
+ang[2]
+{
+   0          'R_NonBoundary'  "ang_s21"      -1    
+  -1            'R_Back-Stop'      -2     "ang_s27" 
+  -2          'R_NonStrident'      -3     "ang_s26" 
+  -3            'R_Affricate'      -4     "ang_s25" 
+  -4          'R_NonAnterior'      -5     "ang_s24" 
+  -5               'R_Liquid'      -6     "ang_s23" 
+  -6            'R_C-Central'  "ang_s22"      -7    
+  -7        'R_Unvoiced-Fric'  "ang_s24"  "ang_s27" 
+}
+
+un[2]
+{
+   0            'R_Back-Fric'      -1      "un_s28" 
+  -1           'R_Front-Stop'      -2      "un_s27" 
+  -2          'R_NonBoundary'   "un_s21"      -3    
+  -3                 'R_Back'      -4      "un_s26" 
+  -4           'R_Continuent'      -7         -5    
+  -5             'R_Anterior'   "un_s25"      -6    
+  -6                    'R_m'   "un_s24"   "un_s25" 
+  -7                 'R_Stop'   "un_s22"   "un_s23" 
+}
+
+ei[2]
+{
+   0          'R_NonBoundary'   "ei_s21"      -1    
+  -1            'R_Back-Stop'      -2      "ei_s25" 
+  -2                    'R_r'      -3      "ei_s25" 
+  -3            'R_Affricate'      -4      "ei_s24" 
+  -4           'R_Front-Stop'      -5      "ei_s24" 
+  -5                    'R_m'   "ei_s22"   "ei_s23" 
+}
+
+c[2]
+{
+   0              'R_V-Front'      -1       "c_s23" 
+  -1                'R_Vowel'    "c_s21"    "c_s22" 
+}
+
+a[2]
+{
+   0          'R_NonBoundary'    "a_s21"      -1    
+  -1                    'R_m'      -2       "a_s26" 
+  -2         'R_Central-Stop'      -3       "a_s25" 
+  -3        'R_Unvoiced-Stop'      -4       "a_s24" 
+  -4                'R_Vowel'      -5       "a_s24" 
+  -5            'R_Back-Stop'      -6       "a_s25" 
+  -6                'R_Lenis'    "a_s22"    "a_s23" 
+}
+
+vn[2]
+{
+   0          'R_Voiced-Stop'      -1      "vn_s24" 
+  -1          'R_NonBoundary'   "vn_s21"      -2    
+  -2                'R_Nasal'      -3      "vn_s24" 
+  -3          'R_Voiced-Cons'   "vn_s22"   "vn_s23" 
+}
+
+van[2]
+{
+   0          'R_NonBoundary'  "van_s22"      -1    
+  -1                 'R_Stop'      -2         -4    
+  -2                    'R_l'      -3     "van_s22" 
+  -3          'R_UnFortLenis'  "van_s21"  "van_s25" 
+  -4            'R_C-Central'      -5     "van_s25" 
+  -5               'R_Fortis'  "van_s23"  "van_s24" 
+}
+
+iz[2]
+{
+   0          'R_NonBoundary'   "iz_s21"      -1    
+  -1            'R_C-Central'   "iz_s22"   "iz_s23" 
+}
+
+o[2]
+{
+   0         'R_Central-Fric'      -1         -3    
+  -1          'R_NonBoundary'    "o_s21"      -2    
+  -2          'R_NonStrident'      -4       "o_s25" 
+  -3               'R_Fortis'    "o_s24"    "o_s25" 
+  -4                    'R_g'      -5       "o_s23" 
+  -5          'R_UnFortLenis'    "o_s22"    "o_s23" 
+}
+
+aa[2]
+{
+   0                'R_Vowel'   "aa_s21"   "aa_s22" 
+}
+
+ua[2]
+{
+   0            'R_Back-Fric'      -1      "ua_s23" 
+  -1           'R_UnStrident'   "ua_s21"   "ua_s22" 
+}
+
+oo[2]
+   "oo_s21"
+
+ueng[2]
+   "ueng_s21"
+
+sil[2]
+   "sil_s21"
+
+ii[3]
+   "ii_s31"
+
+i[3]
+{
+   0          'R_NonBoundary'    "i_s31"      -1    
+  -1           'R_UnStrident'      -2         -3    
+  -2            'R_Fricative'      -8         -6    
+  -3                    'R_r'      -4      "i_s316" 
+  -4               'R_C-Back'      -5      "i_s315" 
+  -5               'R_Liquid'      -7      "i_s314" 
+  -6               'R_C-Back'     -11       "i_s37" 
+  -7              'R_C-Front'     -10         -9    
+  -8                'R_Vowel'    "i_s32"    "i_s33" 
+  -9                'R_Lenis'     -13      "i_s313" 
+ -10               'R_Fortis'     -12      "i_s310" 
+ -11                    'R_s'     -14       "i_s36" 
+ -12                 'R_Stop'    "i_s38"    "i_s39" 
+ -13                 'R_Stop'   "i_s311"   "i_s312" 
+ -14              'R_C-Front'    "i_s34"    "i_s35" 
+}
+
+sp[3]
+   "sp_s31"
+
+uu[3]
+   "uu_s31"
+
+uan[3]
+{
+   0          'R_NonBoundary'  "uan_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2               'R_Liquid'      -3     "uan_s36" 
+  -3                 'R_Stop'      -6     "uan_s35" 
+  -4                 'R_Stop'      -7         -5    
+  -5              'R_C-Front'  "uan_s39"  "uan_s310" 
+  -6              'R_Coronal'  "uan_s32"      -8    
+  -7                'R_Nasal'  "uan_s37"  "uan_s38" 
+  -8                'R_Nasal'  "uan_s33"  "uan_s34" 
+}
+
+d[3]
+{
+   0                'R_Vowel'    "d_s31"    "d_s32" 
+}
+
+uo[3]
+{
+   0          'R_NonBoundary'   "uo_s31"      -1    
+  -1           'R_NonCoronal'      -3         -2    
+  -2                'R_Nasal'      -4     "uo_s311" 
+  -3         'R_NonAffricate'      -5         -8    
+  -4              'R_C-Front'   "uo_s38"     -10    
+  -5        'R_NonContinuent'      -6         -9    
+  -6                'R_Nasal'      -7      "uo_s34" 
+  -7             'R_Anterior'   "uo_s32"   "uo_s33" 
+  -8               'R_C-Back'  "uo_s310"   "uo_s37" 
+  -9                 'R_Stop'   "uo_s35"   "uo_s36" 
+ -10        'R_Unvoiced-Stop'   "uo_s39"  "uo_s310" 
+}
+
+x[3]
+{
+   0            'R_Fricative'    "x_s31"    "x_s32" 
+}
+
+ia[3]
+{
+   0          'R_NonBoundary'   "ia_s31"      -1    
+  -1        'R_Unvoiced-Fric'   "ia_s32"   "ia_s33" 
+}
+
+z[3]
+{
+   0              'R_V-Front'      -1       "z_s33" 
+  -1              'R_Central'    "z_s31"    "z_s32" 
+}
+
+iy[3]
+{
+   0          'R_NonBoundary'   "iy_s31"      -1    
+  -1              'R_Coronal'      -2         -3    
+  -2           'R_NonCoronal'   "iy_s32"   "iy_s34" 
+  -3             'R_Anterior'   "iy_s33"   "iy_s34" 
+}
+
+l[3]
+{
+   0                'R_Vowel'      -1       "l_s33" 
+  -1            'R_Fricative'    "l_s31"    "l_s32" 
+}
+
+iang[3]
+{
+   0          'R_NonBoundary'  "iang_s34"      -1    
+  -1              'R_Central'      -2     "iang_s34" 
+  -2        'R_NonContinuent'      -3     "iang_s33" 
+  -3              'R_C-Front'  "iang_s31"  "iang_s32" 
+}
+
+g[3]
+{
+   0              'R_Central'    "g_s31"      -1    
+  -1                'R_Nasal'    "g_s32"    "g_s33" 
+}
+
+e[3]
+{
+   0          'R_NonBoundary'    "e_s31"      -1    
+  -1           'R_NonCoronal'      -2         -5    
+  -2             'R_Anterior'      -3         -4    
+  -3              'R_Coronal'    "e_s32"      -6    
+  -4               'R_Liquid'      -7       "e_s39" 
+  -5              'R_C-Front'   "e_s310"   "e_s311" 
+  -6            'R_Fricative'    "e_s33"    "e_s34" 
+  -7                'R_Nasal'      -8       "e_s38" 
+  -8          'R_Voiced-Stop'      -9       "e_s37" 
+  -9                 'R_Stop'    "e_s35"    "e_s36" 
+}
+
+r[3]
+{
+   0                'R_Nasal'      -1       "r_s33" 
+  -1                'R_Vowel'    "r_s31"    "r_s32" 
+}
+
+en[3]
+{
+   0           'R_UnStrident'      -1         -2    
+  -1          'R_NonBoundary'   "en_s31"      -3    
+  -2            'R_C-Central'      -6         -4    
+  -3                   'R_sh'      -5      "en_s36" 
+  -4               'R_Liquid'  "en_s310"     -10    
+  -5              'R_C-Front'      -8      "en_s35" 
+  -6              'R_C-Front'   "en_s37"      -7    
+  -7                 'R_Stop'   "en_s38"   "en_s39" 
+  -8          'R_Voiced-Fric'      -9      "en_s34" 
+  -9            'R_Fricative'   "en_s32"   "en_s33" 
+ -10             'R_Anterior'  "en_s311"  "en_s312" 
+}
+
+b[3]
+{
+   0                'R_Vowel'      -1       "b_s33" 
+  -1                'R_Nasal'    "b_s31"    "b_s32" 
+}
+
+an[3]
+{
+   0          'R_NonBoundary'   "an_s31"      -1    
+  -1                 'R_Stop'      -2         -3    
+  -2          'R_NonAnterior'      -4         -7    
+  -3               'R_C-Back'      -6     "an_s314" 
+  -4               'R_Fortis'      -5         -9    
+  -5                 'R_Long'      -8        -12    
+  -6              'R_C-Front'  "an_s311"     -11    
+  -7            'R_C-Central'   "an_s38"     -10    
+  -8            'R_C-Central'   "an_s32"     -13    
+  -9              'R_C-Front'   "an_s36"   "an_s37" 
+ -10            'R_Fricative'   "an_s39"  "an_s310" 
+ -11               'R_Fortis'  "an_s312"  "an_s313" 
+ -12                'R_Vowel'   "an_s35"   "an_s37" 
+ -13                'R_Nasal'   "an_s33"   "an_s34" 
+}
+
+vv[3]
+{
+   0            'R_Fricative'   "vv_s31"   "vv_s32" 
+}
+
+ve[3]
+{
+   0          'R_NonBoundary'   "ve_s31"      -1    
+  -1               'R_Liquid'      -2      "ve_s37" 
+  -2           'R_NonCoronal'      -3         -5    
+  -3              'R_Central'   "ve_s32"      -4    
+  -4          'R_Voiced-Stop'   "ve_s33"   "ve_s34" 
+  -5                    'R_b'   "ve_s35"   "ve_s36" 
+}
+
+m[3]
+{
+   0              'R_Central'    "m_s31"      -1    
+  -1                'R_Nasal'    "m_s32"    "m_s33" 
+}
+
+in[3]
+{
+   0           'R_UnStrident'      -1         -2    
+  -1          'R_NonBoundary'   "in_s31"      -4    
+  -2                    'R_r'      -3     "in_s313" 
+  -3              'R_C-Front'      -6         -8    
+  -4               'R_Fortis'      -9         -5    
+  -5            'R_C-Central'     -11        -10    
+  -6               'R_Liquid'      -7     "in_s310" 
+  -7            'R_C-Central'     -13        -12    
+  -8                'R_Lenis'  "in_s311"  "in_s312" 
+  -9            'R_Fricative'   "in_s32"   "in_s36" 
+ -10               'R_C-Back'   "in_s34"   "in_s35" 
+ -11              'R_C-Front'  "in_s312"   "in_s33" 
+ -12                'R_Lenis'   "in_s38"   "in_s39" 
+ -13               'R_Fortis'   "in_s36"   "in_s37" 
+}
+
+u[3]
+{
+   0          'R_NonBoundary'    "u_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2            'R_Unrounded'      -3         -8    
+  -3          'R_Voiced-Cons'      -5         -7    
+  -4                    'R_g'      -6      "u_s315" 
+  -5               'R_C-Back'      -9       "u_s34" 
+  -6                 'R_Stop'     -12        -10    
+  -7                'R_Nasal'     -14       "u_s37" 
+  -8               'R_Liquid'    "u_s38"     -11    
+  -9            'R_C-Central'    "u_s32"     -13    
+ -10              'R_C-Front'   "u_s313"   "u_s314" 
+ -11             'R_Anterior'    "u_s39"   "u_s310" 
+ -12                'R_Nasal'   "u_s311"   "u_s312" 
+ -13                 'R_Stop'    "u_s33"    "u_s36" 
+ -14                 'R_Stop'    "u_s35"    "u_s36" 
+}
+
+ch[3]
+{
+   0              'R_Central'   "ch_s31"      -1    
+  -1                'R_Nasal'   "ch_s32"   "ch_s33" 
+}
+
+j[3]
+{
+   0            'R_Fricative'    "j_s31"    "j_s32" 
+}
+
+v[3]
+{
+   0          'R_NonBoundary'    "v_s31"      -1    
+  -1                    'R_n'      -2      "v_s310" 
+  -2              'R_C-Front'      -3         -6    
+  -3              'R_Coronal'      -7         -4    
+  -4               'R_Liquid'      -5       "v_s37" 
+  -5                   'R_sh'      -8       "v_s36" 
+  -6                'R_Lenis'    "v_s38"    "v_s39" 
+  -7               'R_Fortis'    "v_s32"    "v_s33" 
+  -8           'R_Continuent'    "v_s34"    "v_s35" 
+}
+
+iu[3]
+{
+   0          'R_NonBoundary'   "iu_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2           'R_Continuent'   "iu_s32"      -3    
+  -3                    'R_r'   "iu_s33"   "iu_s34" 
+  -4              'R_C-Front'   "iu_s35"   "iu_s36" 
+}
+
+ee[3]
+{
+   0              'R_Central'   "ee_s31"      -1    
+  -1                'R_Nasal'   "ee_s32"   "ee_s33" 
+}
+
+er[3]
+{
+   0          'R_NonBoundary'   "er_s31"      -1    
+  -1                   'R_sh'      -2      "er_s37" 
+  -2           'R_NonCoronal'      -3         -5    
+  -3               'R_Liquid'      -4      "er_s34" 
+  -4          'R_Voiced-Fric'      -6      "er_s33" 
+  -5              'R_C-Front'   "er_s35"   "er_s36" 
+  -6        'R_Unvoiced-Stop'   "er_s32"   "er_s34" 
+}
+
+n[3]
+{
+   0            'R_Fricative'      -1       "n_s34" 
+  -1              'R_Central'    "n_s31"      -2    
+  -2                'R_Nasal'    "n_s32"    "n_s33" 
+}
+
+ian[3]
+{
+   0          'R_NonBoundary'  "ian_s31"      -1    
+  -1             'R_Anterior'      -2         -3    
+  -2              'R_Central'      -4         -6    
+  -3                    'R_s'      -5     "ian_s312" 
+  -4               'R_C-Back'  "ian_s32"      -7    
+  -5              'R_C-Front'      -8         -9    
+  -6                'R_Vowel'     -11     "ian_s36" 
+  -7                 'R_Stop'  "ian_s33"  "ian_s310" 
+  -8               'R_Liquid'  "ian_s37"  "ian_s38" 
+  -9            'R_Fricative'     -10     "ian_s311" 
+ -10               'R_Fortis'  "ian_s39"  "ian_s310" 
+ -11            'R_Fricative'  "ian_s34"  "ian_s35" 
+}
+
+s[3]
+{
+   0              'R_V-Front'      -1       "s_s33" 
+  -1              'R_Central'    "s_s31"    "s_s32" 
+}
+
+ie[3]
+{
+   0          'R_NonBoundary'   "ie_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2        'R_Unvoiced-Fric'      -3      "ie_s34" 
+  -3            'R_C-Central'   "ie_s33"      -5    
+  -4                    'R_g'   "ie_s35"   "ie_s36" 
+  -5               'R_Liquid'   "ie_s32"   "ie_s33" 
+}
+
+ai[3]
+{
+   0          'R_NonBoundary'   "ai_s31"      -1    
+  -1                    'R_l'      -2      "ai_s38" 
+  -2            'R_Back-Fric'      -3      "ai_s37" 
+  -3           'R_Continuent'      -4         -5    
+  -4                'R_Vowel'      -6      "ai_s33" 
+  -5              'R_C-Front'      -7      "ai_s36" 
+  -6                 'R_Stop'   "ai_s32"   "ai_s35" 
+  -7                'R_Lenis'   "ai_s34"   "ai_s35" 
+}
+
+h[3]
+{
+   0              'R_Central'    "h_s31"      -1    
+  -1                'R_Nasal'    "h_s32"    "h_s33" 
+}
+
+ui[3]
+{
+   0          'R_NonBoundary'   "ui_s31"      -1    
+  -1              'R_Central'      -3         -2    
+  -2                    'R_r'      -4      "ui_s36" 
+  -3        'R_NonContinuent'      -6      "ui_s36" 
+  -4               'R_Liquid'      -5      "ui_s35" 
+  -5          'R_Voiced-Stop'   "ui_s33"   "ui_s34" 
+  -6                'R_Nasal'   "ui_s32"   "ui_s35" 
+}
+
+t[3]
+{
+   0                'R_Vowel'    "t_s31"    "t_s32" 
+}
+
+q[3]
+{
+   0            'R_Fricative'    "q_s31"    "q_s32" 
+}
+
+ao[3]
+{
+   0          'R_NonBoundary'   "ao_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2               'R_Liquid'      -3      "ao_s35" 
+  -3             'R_Anterior'     -10         -6    
+  -4              'R_C-Front'   "ao_s36"      -5    
+  -5        'R_Unvoiced-Stop'      -9      "ao_s39" 
+  -6                'R_Nasal'      -7      "ao_s38" 
+  -7          'R_Voiced-Stop'      -8      "ao_s34" 
+  -8        'R_Unvoiced-Fric'   "ao_s32"   "ao_s33" 
+  -9                'R_Nasal'   "ao_s37"   "ao_s38" 
+ -10            'R_Fricative'   "ao_s34"   "ao_s39" 
+}
+
+ong[3]
+{
+   0          'R_NonBoundary'  "ong_s31"      -1    
+  -1             'R_Strident'      -2         -4    
+  -2               'R_C-Back'      -3     "ong_s33" 
+  -3                    'R_m'      -5     "ong_s32" 
+  -4                'R_Lenis'  "ong_s34"      -6    
+  -5              'R_C-Front'  "ong_s35"  "ong_s36" 
+  -6               'R_C-Back'  "ong_s35"  "ong_s36" 
+}
+
+sh[3]
+{
+   0                'R_Nasal'      -1      "sh_s33" 
+  -1                'R_Vowel'   "sh_s31"   "sh_s32" 
+}
+
+ix[3]
+{
+   0          'R_NonBoundary'   "ix_s33"      -1    
+  -1             'R_Anterior'      -2         -3    
+  -2              'R_Coronal'      -5      "ix_s32" 
+  -3                    'R_b'      -4      "ix_s35" 
+  -4                    'R_s'   "ix_s33"   "ix_s34" 
+  -5                'R_Lenis'   "ix_s31"   "ix_s35" 
+}
+
+zh[3]
+{
+   0              'R_Central'   "zh_s31"      -1    
+  -1                'R_Nasal'   "zh_s32"   "zh_s33" 
+}
+
+ing[3]
+{
+   0          'R_NonBoundary'  "ing_s31"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2          'R_NonAnterior'      -3         -5    
+  -3            'R_C-Central'  "ing_s32"      -4    
+  -4               'R_Liquid'      -7     "ing_s34" 
+  -5            'R_Fricative'  "ing_s35"  "ing_s36" 
+  -6        'R_Unvoiced-Stop'  "ing_s37"  "ing_s38" 
+  -7            'R_Fricative'  "ing_s33"  "ing_s38" 
+}
+
+k[3]
+{
+   0              'R_Central'    "k_s31"      -1    
+  -1                'R_Nasal'    "k_s32"    "k_s33" 
+}
+
+uai[3]
+{
+   0          'R_NonBoundary'  "uai_s32"      -1    
+  -1                    'R_l'      -2     "uai_s33" 
+  -2                   'R_sh'  "uai_s31"  "uai_s32" 
+}
+
+eng[3]
+{
+   0          'R_NonBoundary'  "eng_s31"      -1    
+  -1           'R_NonCoronal'      -2         -3    
+  -2            'R_Unrounded'      -4         -7    
+  -3                 'R_Stop'  "eng_s310"      -8    
+  -4               'R_C-Back'      -5         -9    
+  -5                'R_Nasal'      -6     "eng_s34" 
+  -6                 'R_Stop'  "eng_s32"  "eng_s33" 
+  -7          'R_NonAnterior'  "eng_s37"  "eng_s38" 
+  -8                    'R_b'  "eng_s39"  "eng_s310" 
+  -9            'R_C-Central'  "eng_s35"  "eng_s36" 
+}
+
+ou[3]
+{
+   0          'R_NonBoundary'   "ou_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2                 'R_Long'      -3         -6    
+  -3          'R_NonAnterior'      -5      "ou_s34" 
+  -4                'R_Nasal'      -7      "ou_s39" 
+  -5                'R_Lenis'      -8      "ou_s33" 
+  -6               'R_Liquid'   "ou_s35"   "ou_s36" 
+  -7                    'R_b'   "ou_s37"   "ou_s38" 
+  -8           'R_Continuent'   "ou_s32"   "ou_s36" 
+}
+
+iao[3]
+{
+   0          'R_NonBoundary'  "iao_s31"      -1    
+  -1                'R_Nasal'      -2     "iao_s35" 
+  -2             'R_Syllabic'      -3     "iao_s34" 
+  -3                 'R_Back'  "iao_s32"  "iao_s33" 
+}
+
+f[3]
+{
+   0                'R_Nasal'    "f_s31"    "f_s32" 
+}
+
+uang[3]
+{
+   0          'R_NonBoundary'  "uang_s32"      -1    
+  -1           'R_NonCoronal'      -4         -2    
+  -2                    'R_g'      -3     "uang_s35" 
+  -3            'R_Fricative'  "uang_s33"  "uang_s34" 
+  -4         'R_Central-Fric'      -5     "uang_s34" 
+  -5               'R_Liquid'  "uang_s31"  "uang_s32" 
+}
+
+p[3]
+{
+   0              'R_Central'    "p_s31"      -1    
+  -1                'R_Nasal'    "p_s32"    "p_s33" 
+}
+
+iong[3]
+{
+   0          'R_NonBoundary'  "iong_s31"  "iong_s32" 
+}
+
+ang[3]
+{
+   0          'R_NonBoundary'  "ang_s31"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2            'R_Unrounded'      -3     "ang_s35" 
+  -3            'R_Affricate'      -5     "ang_s34" 
+  -4              'R_C-Front'  "ang_s36"      -6    
+  -5             'R_Anterior'  "ang_s32"  "ang_s33" 
+  -6                 'R_Stop'  "ang_s37"  "ang_s38" 
+}
+
+un[3]
+{
+   0          'R_NonBoundary'   "un_s31"      -1    
+  -1             'R_Anterior'      -2         -3    
+  -2              'R_Coronal'      -5         -8    
+  -3         'R_Central-Stop'      -4     "un_s311" 
+  -4               'R_Fortis'      -6     "un_s310" 
+  -5                 'R_Stop'   "un_s32"   "un_s33" 
+  -6                 'R_Stop'      -7      "un_s39" 
+  -7             'R_Syllabic'   "un_s36"      -9    
+  -8            'R_Fricative'   "un_s34"   "un_s35" 
+  -9                'R_Nasal'   "un_s37"   "un_s38" 
+}
+
+ei[3]
+{
+   0          'R_NonBoundary'   "ei_s31"      -1    
+  -1            'R_Unrounded'      -2         -5    
+  -2           'R_NonCoronal'      -4         -3    
+  -3              'R_C-Front'   "ei_s35"   "ei_s36" 
+  -4               'R_Fortis'      -6      "ei_s34" 
+  -5          'R_NonAnterior'      -7      "ei_s39" 
+  -6                'R_Nasal'   "ei_s32"   "ei_s33" 
+  -7                'R_Nasal'   "ei_s37"   "ei_s38" 
+}
+
+c[3]
+{
+   0              'R_V-Front'      -1       "c_s33" 
+  -1                'R_Vowel'    "c_s31"    "c_s32" 
+}
+
+a[3]
+{
+   0          'R_NonBoundary'    "a_s38"      -1    
+  -1                    'R_m'      -2      "a_s312" 
+  -2                'R_Vowel'      -3      "a_s311" 
+  -3           'R_NonCoronal'      -4         -8    
+  -4             'R_Anterior'      -6         -5    
+  -5            'R_Fricative'      -7         -9    
+  -6              'R_Coronal'    "a_s31"     -10    
+  -7                 'R_Stop'    "a_s34"    "a_s35" 
+  -8           'R_Front-Stop'     -11      "a_s310" 
+  -9               'R_Fortis'    "a_s36"    "a_s37" 
+ -10                'R_Lenis'    "a_s32"    "a_s33" 
+ -11                 'R_Stop'    "a_s38"    "a_s39" 
+}
+
+vn[3]
+{
+   0             'R_Anterior'      -1         -2    
+  -1          'R_NonBoundary'   "vn_s31"      -3    
+  -2            'R_Fricative'      -4      "vn_s36" 
+  -3            'R_C-Central'   "vn_s32"   "vn_s33" 
+  -4             'R_Syllabic'   "vn_s34"   "vn_s35" 
+}
+
+van[3]
+{
+   0          'R_NonBoundary'  "van_s31"      -1    
+  -1           'R_NonCoronal'      -2         -5    
+  -2             'R_Anterior'      -3         -4    
+  -3            'R_C-Central'      -7     "van_s34" 
+  -4               'R_Liquid'      -6     "van_s37" 
+  -5                 'R_Stop'     -10         -8    
+  -6            'R_Fricative'  "van_s35"  "van_s36" 
+  -7                'R_Vowel'      -9     "van_s33" 
+  -8              'R_C-Front'  "van_s39"  "van_s310" 
+  -9            'R_Fricative'  "van_s32"  "van_s35" 
+ -10                'R_Nasal'  "van_s38"  "van_s310" 
+}
+
+iz[3]
+{
+   0          'R_NonBoundary'   "iz_s31"      -1    
+  -1            'R_C-Central'      -2      "iz_s34" 
+  -2              'R_C-Front'   "iz_s32"   "iz_s33" 
+}
+
+o[3]
+{
+   0          'R_NonBoundary'    "o_s31"      -1    
+  -1           'R_NonCoronal'      -2         -3    
+  -2                    'R_z'      -4       "o_s35" 
+  -3                 'R_Stop'    "o_s36"    "o_s37" 
+  -4         'R_Central-Fric'      -5       "o_s34" 
+  -5              'R_Coronal'    "o_s32"    "o_s33" 
+}
+
+aa[3]
+{
+   0                'R_Vowel'   "aa_s31"   "aa_s32" 
+}
+
+ua[3]
+{
+   0          'R_NonBoundary'   "ua_s31"      -1    
+  -1            'R_Back-Fric'      -2      "ua_s36" 
+  -2                 'R_Back'      -3      "ua_s35" 
+  -3        'R_Unvoiced-Fric'      -4      "ua_s34" 
+  -4                    'R_d'   "ua_s32"   "ua_s33" 
+}
+
+oo[3]
+   "oo_s31"
+
+ueng[3]
+   "ueng_s31"
+
+sil[3]
+   "sil_s31"
+
+ii[4]
+   "ii_s41"
+
+i[4]
+{
+   0            'R_Fricative'      -1         -5    
+  -1                 'R_Stop'      -2         -4    
+  -2          'R_NonBoundary'    "i_s41"      -3    
+  -3            'R_Unrounded'      -8         -6    
+  -4               'R_C-Back'      -9        -15    
+  -5                   'R_sh'     -11      "i_s418" 
+  -6                'R_Vowel'      -7       "i_s47" 
+  -7                'R_Nasal'     -10       "i_s46" 
+  -8                'R_Nasal'    "i_s42"    "i_s43" 
+  -9              'R_C-Front'     -14        -16    
+ -10             'R_Anterior'    "i_s44"    "i_s45" 
+ -11                    'R_s'     -12      "i_s417" 
+ -12               'R_C-Back'     -13      "i_s416" 
+ -13              'R_C-Front'   "i_s414"   "i_s415" 
+ -14               'R_Fortis'    "i_s48"    "i_s49" 
+ -15               'R_Fortis'   "i_s412"   "i_s413" 
+ -16               'R_Fortis'   "i_s410"   "i_s411" 
+}
+
+sp[4]
+   "sp_s41"
+
+uu[4]
+   "uu_s41"
+
+uan[4]
+{
+   0          'R_NonBoundary'  "uan_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2              'R_Coronal'  "uan_s42"      -3    
+  -3           'R_Continuent'      -8         -5    
+  -4              'R_C-Front'  "uan_s49"      -6    
+  -5             'R_Anterior'     -10         -7    
+  -6            'R_Fricative'      -9     "uan_s412" 
+  -7                'R_Nasal'  "uan_s47"  "uan_s48" 
+  -8                 'R_Stop'  "uan_s43"  "uan_s44" 
+  -9                 'R_Stop'  "uan_s410"  "uan_s411" 
+ -10            'R_Fricative'  "uan_s45"  "uan_s46" 
+}
+
+d[4]
+{
+   0                'R_Vowel'    "d_s41"    "d_s42" 
+}
+
+uo[4]
+{
+   0           'R_NonCoronal'      -1         -3    
+  -1          'R_NonBoundary'   "uo_s41"      -2    
+  -2             'R_Anterior'      -4         -5    
+  -3              'R_C-Front'  "uo_s411"      -6    
+  -4              'R_Coronal'   "uo_s42"      -9    
+  -5          'R_UnFortLenis'      -7         -8    
+  -6                'R_Nasal'     -10     "uo_s414" 
+  -7                 'R_Stop'     -12      "uo_s48" 
+  -8                'R_Nasal'   "uo_s49"  "uo_s410" 
+  -9                'R_Lenis'     -11      "uo_s45" 
+ -10                 'R_Stop'  "uo_s412"  "uo_s413" 
+ -11            'R_Fricative'   "uo_s43"   "uo_s44" 
+ -12               'R_Fortis'   "uo_s46"   "uo_s47" 
+}
+
+x[4]
+{
+   0            'R_Fricative'    "x_s41"    "x_s42" 
+}
+
+ia[4]
+{
+   0          'R_NonBoundary'   "ia_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2             'R_Anterior'      -6         -3    
+  -3               'R_Liquid'      -5      "ia_s47" 
+  -4                'R_Lenis'   "ia_s48"   "ia_s49" 
+  -5        'R_Unvoiced-Fric'      -8      "ia_s46" 
+  -6               'R_Liquid'      -7      "ia_s47" 
+  -7            'R_Fricative'   "ia_s42"   "ia_s43" 
+  -8            'R_Fricative'   "ia_s44"   "ia_s45" 
+}
+
+z[4]
+{
+   0              'R_V-Front'      -1       "z_s44" 
+  -1                'R_Vowel'      -2       "z_s43" 
+  -2                'R_Nasal'    "z_s41"    "z_s42" 
+}
+
+iy[4]
+{
+   0          'R_NonBoundary'   "iy_s41"      -1    
+  -1                 'R_Stop'      -2         -6    
+  -2              'R_Coronal'      -3         -4    
+  -3              'R_C-Front'   "iy_s42"      -7    
+  -4                    'R_r'      -5      "iy_s48" 
+  -5               'R_C-Back'      -8         -9    
+  -6              'R_C-Front'   "iy_s49"  "iy_s410" 
+  -7                'R_Nasal'   "iy_s43"   "iy_s44" 
+  -8               'R_Liquid'   "iy_s46"   "iy_s45" 
+  -9            'R_C-Central'   "iy_s46"   "iy_s47" 
+}
+
+l[4]
+{
+   0                'R_Vowel'      -1       "l_s43" 
+  -1            'R_Fricative'    "l_s41"    "l_s42" 
+}
+
+iang[4]
+{
+   0          'R_NonBoundary'  "iang_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2                 'R_Stop'      -3     "iang_s47" 
+  -3          'R_NonAnterior'      -7         -5    
+  -4              'R_C-Front'  "iang_s48"      -8    
+  -5            'R_Fricative'  "iang_s44"      -6    
+  -6            'R_C-Central'  "iang_s45"  "iang_s46" 
+  -7            'R_Fricative'      -9     "iang_s43" 
+  -8                 'R_Stop'  "iang_s49"  "iang_s410" 
+  -9                 'R_Long'  "iang_s42"  "iang_s46" 
+}
+
+g[4]
+{
+   0              'R_Central'    "g_s41"      -1    
+  -1                'R_Nasal'    "g_s42"    "g_s43" 
+}
+
+e[4]
+{
+   0          'R_NonBoundary'    "e_s41"      -1    
+  -1           'R_NonCoronal'      -2         -5    
+  -2          'R_UnFortLenis'      -3         -6    
+  -3        'R_Unvoiced-Fric'      -4         -7    
+  -4            'R_C-Central'    "e_s42"    "e_s43" 
+  -5              'R_C-Front'    "e_s49"      -9    
+  -6             'R_Anterior'    "e_s46"      -8    
+  -7               'R_C-Back'    "e_s44"    "e_s45" 
+  -8                'R_Nasal'    "e_s47"    "e_s48" 
+  -9                'R_Nasal'   "e_s410"   "e_s411" 
+}
+
+r[4]
+{
+   0                'R_Nasal'      -1       "r_s43" 
+  -1                'R_Vowel'    "r_s41"    "r_s42" 
+}
+
+en[4]
+{
+   0          'R_NonBoundary'   "en_s41"      -1    
+  -1        'R_NonContinuent'      -2         -4    
+  -2          'R_NonAnterior'      -3         -8    
+  -3              'R_C-Front'      -6         -7    
+  -4            'R_Back-Stop'      -5     "en_s414" 
+  -5              'R_C-Front'     -10        -11    
+  -6          'R_UnFortLenis'      -9        -12    
+  -7                'R_Nasal'   "en_s46"   "en_s47" 
+  -8            'R_Fricative'   "en_s48"   "en_s49" 
+  -9            'R_Fricative'   "en_s42"     -13    
+ -10               'R_Fortis'  "en_s410"  "en_s411" 
+ -11               'R_Fortis'  "en_s412"  "en_s413" 
+ -12                'R_Nasal'   "en_s44"   "en_s45" 
+ -13               'R_Fortis'  "en_s411"   "en_s43" 
+}
+
+b[4]
+{
+   0              'R_Central'    "b_s41"      -1    
+  -1                'R_Nasal'    "b_s42"    "b_s43" 
+}
+
+an[4]
+{
+   0          'R_NonBoundary'   "an_s41"      -1    
+  -1                 'R_Stop'      -2         -3    
+  -2                   'R_sh'      -4     "an_s411" 
+  -3               'R_C-Back'      -7     "an_s415" 
+  -4                    'R_r'      -5     "an_s410" 
+  -5             'R_Anterior'      -8         -6    
+  -6                'R_Nasal'      -9        -11    
+  -7              'R_C-Front'  "an_s412"     -12    
+  -8            'R_Fricative'   "an_s42"   "an_s43" 
+  -9                'R_Lenis'     -10      "an_s47" 
+ -10            'R_Fricative'   "an_s44"     -13    
+ -11              'R_C-Front'   "an_s48"   "an_s49" 
+ -12               'R_Fortis'  "an_s413"  "an_s414" 
+ -13              'R_C-Front'   "an_s45"   "an_s46" 
+}
+
+vv[4]
+{
+   0            'R_Fricative'   "vv_s41"   "vv_s42" 
+}
+
+ve[4]
+{
+   0          'R_NonBoundary'   "ve_s41"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2            'R_Unrounded'      -3      "ve_s46" 
+  -3             'R_Anterior'      -4         -5    
+  -4            'R_Fricative'   "ve_s42"   "ve_s43" 
+  -5            'R_Fricative'   "ve_s44"   "ve_s45" 
+  -6                    'R_g'      -7     "ve_s410" 
+  -7           'R_Front-Stop'      -8      "ve_s49" 
+  -8            'R_Fricative'   "ve_s47"   "ve_s48" 
+}
+
+m[4]
+{
+   0              'R_Central'    "m_s41"      -1    
+  -1                'R_Nasal'    "m_s42"    "m_s43" 
+}
+
+in[4]
+{
+   0          'R_NonBoundary'   "in_s41"      -1    
+  -1        'R_NonContinuent'      -2         -3    
+  -2          'R_NonAnterior'      -4         -8    
+  -3              'R_C-Front'      -5     "in_s414" 
+  -4             'R_Anterior'   "in_s42"      -6    
+  -5              'R_Coronal'  "in_s410"     -10    
+  -6               'R_Fortis'      -7        -12    
+  -7             'R_Syllabic'      -9      "in_s45" 
+  -8            'R_Fricative'   "in_s48"   "in_s49" 
+  -9                'R_Nasal'   "in_s43"   "in_s44" 
+ -10        'R_Unvoiced-Stop'     -11     "in_s413" 
+ -11                 'R_Stop'  "in_s411"  "in_s412" 
+ -12              'R_C-Front'   "in_s46"   "in_s47" 
+}
+
+u[4]
+{
+   0          'R_NonBoundary'    "u_s41"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2            'R_Unrounded'      -3         -5    
+  -3        'R_Unvoiced-Fric'      -4         -7    
+  -4            'R_C-Central'    "u_s42"      -8    
+  -5               'R_Liquid'   "u_s410"     -14    
+  -6              'R_C-Front'     -12        -10    
+  -7               'R_C-Back'    "u_s47"      -9    
+  -8                'R_Nasal'     -13       "u_s46" 
+  -9            'R_C-Central'    "u_s48"    "u_s49" 
+ -10            'R_Fricative'     -11      "u_s417" 
+ -11                 'R_Stop'   "u_s415"   "u_s416" 
+ -12               'R_Fortis'   "u_s413"   "u_s414" 
+ -13                 'R_Stop'    "u_s43"     -15    
+ -14             'R_Anterior'   "u_s411"   "u_s412" 
+ -15               'R_Fortis'    "u_s44"    "u_s45" 
+}
+
+ch[4]
+{
+   0                'R_Nasal'      -1      "ch_s43" 
+  -1                'R_Vowel'   "ch_s41"   "ch_s42" 
+}
+
+j[4]
+{
+   0            'R_Fricative'    "j_s41"    "j_s42" 
+}
+
+v[4]
+{
+   0          'R_NonBoundary'    "v_s41"      -1    
+  -1           'R_UnStrident'      -4         -2    
+  -2                    'R_n'      -3      "v_s411" 
+  -3         'R_Central-Stop'      -5      "v_s410" 
+  -4               'R_Fortis'    "v_s42"      -8    
+  -5              'R_C-Front'      -7         -6    
+  -6                 'R_Stop'    "v_s48"    "v_s49" 
+  -7                 'R_Stop'    "v_s46"    "v_s47" 
+  -8         'R_Central-Fric'      -9       "v_s45" 
+  -9              'R_C-Front'    "v_s43"    "v_s44" 
+}
+
+iu[4]
+{
+   0          'R_NonBoundary'   "iu_s41"      -1    
+  -1           'R_NonCoronal'      -2         -5    
+  -2            'R_Unrounded'      -3        -10    
+  -3        'R_Unvoiced-Fric'      -6         -4    
+  -4               'R_C-Back'   "iu_s45"      -8    
+  -5              'R_C-Front'  "iu_s410"      -7    
+  -6            'R_C-Central'   "iu_s42"      -9    
+  -7                 'R_Stop'  "iu_s411"  "iu_s412" 
+  -8            'R_C-Central'   "iu_s46"   "iu_s47" 
+  -9                'R_Nasal'   "iu_s43"   "iu_s44" 
+ -10          'R_NonAnterior'   "iu_s48"   "iu_s49" 
+}
+
+ee[4]
+{
+   0              'R_Central'   "ee_s41"      -1    
+  -1                'R_Nasal'   "ee_s42"   "ee_s43" 
+}
+
+er[4]
+{
+   0                   'R_sh'      -1      "er_s48" 
+  -1           'R_NonCoronal'      -2         -5    
+  -2          'R_NonBoundary'   "er_s41"      -3    
+  -3               'R_Liquid'      -4      "er_s45" 
+  -4              'R_Coronal'   "er_s42"      -6    
+  -5              'R_C-Front'   "er_s46"   "er_s47" 
+  -6            'R_Fricative'      -7      "er_s44" 
+  -7               'R_Fortis'   "er_s43"   "er_s44" 
+}
+
+n[4]
+{
+   0            'R_Fricative'      -1       "n_s44" 
+  -1              'R_Central'    "n_s41"      -2    
+  -2                'R_Nasal'    "n_s42"    "n_s43" 
+}
+
+ian[4]
+{
+   0          'R_NonBoundary'  "ian_s41"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2                   'R_sh'      -3     "ian_s410" 
+  -3              'R_Coronal'     -10         -4    
+  -4                    'R_s'      -5     "ian_s49" 
+  -5                    'R_r'      -8     "ian_s48" 
+  -6              'R_C-Front'  "ian_s411"      -7    
+  -7            'R_Fricative'     -11     "ian_s414" 
+  -8            'R_C-Central'  "ian_s44"      -9    
+  -9               'R_Liquid'     -12     "ian_s47" 
+ -10                'R_Vowel'  "ian_s42"  "ian_s43" 
+ -11                 'R_Stop'  "ian_s412"  "ian_s413" 
+ -12                'R_Nasal'  "ian_s45"  "ian_s46" 
+}
+
+s[4]
+{
+   0              'R_V-Front'      -1       "s_s44" 
+  -1                'R_Vowel'      -2       "s_s43" 
+  -2                'R_Nasal'    "s_s41"    "s_s42" 
+}
+
+ie[4]
+{
+   0          'R_NonBoundary'   "ie_s41"      -1    
+  -1                   'R_sh'      -2     "ie_s412" 
+  -2           'R_NonCoronal'      -3         -5    
+  -3             'R_Anterior'      -6         -4    
+  -4          'R_UnFortLenis'      -7        -10    
+  -5              'R_C-Front'   "ie_s49"      -9    
+  -6               'R_Liquid'      -8      "ie_s44" 
+  -7                 'R_Stop'   "ie_s45"   "ie_s46" 
+  -8            'R_Fricative'   "ie_s42"   "ie_s43" 
+  -9                'R_Nasal'  "ie_s410"  "ie_s411" 
+ -10                'R_Nasal'   "ie_s47"   "ie_s48" 
+}
+
+ai[4]
+{
+   0          'R_NonBoundary'   "ai_s41"      -1    
+  -1           'R_UnStrident'      -2         -3    
+  -2            'R_Fricative'      -4         -5    
+  -3               'R_Liquid'      -6         -9    
+  -4                'R_Vowel'   "ai_s42"   "ai_s43" 
+  -5                   'R_sh'      -7      "ai_s47" 
+  -6                 'R_Stop'     -13         -8    
+  -7          'R_Voiced-Fric'     -12        -11    
+  -8              'R_C-Front'     -10     "ai_s412" 
+  -9             'R_Anterior'  "ai_s413"  "ai_s414" 
+ -10            'R_C-Central'  "ai_s410"  "ai_s411" 
+ -11            'R_C-Central'   "ai_s46"  "ai_s411" 
+ -12              'R_C-Front'   "ai_s44"   "ai_s45" 
+ -13              'R_C-Front'   "ai_s48"   "ai_s49" 
+}
+
+h[4]
+{
+   0                'R_Vowel'      -1       "h_s43" 
+  -1                'R_Nasal'    "h_s41"    "h_s42" 
+}
+
+ui[4]
+{
+   0          'R_NonBoundary'   "ui_s41"      -1    
+  -1                 'R_Stop'      -2         -7    
+  -2            'R_Unrounded'      -3         -4    
+  -3            'R_Fricative'      -9         -6    
+  -4          'R_NonAnterior'      -5      "ui_s49" 
+  -5               'R_Liquid'   "ui_s47"   "ui_s48" 
+  -6               'R_C-Back'      -8        -11    
+  -7               'R_C-Back'     -10     "ui_s412" 
+  -8              'R_C-Front'   "ui_s43"   "ui_s44" 
+  -9                'R_Nasal'   "ui_s42"   "ui_s47" 
+ -10              'R_C-Front'  "ui_s410"  "ui_s411" 
+ -11            'R_C-Central'   "ui_s45"   "ui_s46" 
+}
+
+t[4]
+{
+   0                'R_Vowel'    "t_s41"    "t_s42" 
+}
+
+q[4]
+{
+   0            'R_Fricative'    "q_s41"    "q_s42" 
+}
+
+ao[4]
+{
+   0          'R_NonBoundary'   "ao_s41"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2            'R_Unrounded'      -3         -9    
+  -3             'R_Anterior'      -4         -5    
+  -4            'R_Fricative'   "ao_s42"     -10    
+  -5                'R_Nasal'      -7      "ao_s48" 
+  -6              'R_C-Front'  "ao_s411"      -8    
+  -7        'R_Unvoiced-Fric'     -12      "ao_s47" 
+  -8                 'R_Stop'     -11     "ao_s414" 
+  -9          'R_NonAnterior'   "ao_s49"  "ao_s410" 
+ -10            'R_C-Central'   "ao_s43"   "ao_s44" 
+ -11                'R_Nasal'  "ao_s412"  "ao_s413" 
+ -12          'R_Voiced-Stop'   "ao_s45"   "ao_s46" 
+}
+
+ong[4]
+{
+   0          'R_NonBoundary'  "ong_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2           'R_Continuent'      -6         -3    
+  -3         'R_Central-Fric'      -7         -5    
+  -4              'R_C-Front'  "ong_s411"      -9    
+  -5               'R_Fortis'  "ong_s49"  "ong_s410" 
+  -6              'R_Coronal'      -8        -11    
+  -7                'R_Nasal'     -10     "ong_s48" 
+  -8                'R_Vowel'  "ong_s42"  "ong_s43" 
+  -9                'R_Nasal'     -12     "ong_s415" 
+ -10            'R_Fricative'     -14     "ong_s47" 
+ -11                 'R_Stop'  "ong_s44"  "ong_s414" 
+ -12                 'R_Stop'  "ong_s412"     -13    
+ -13               'R_Fortis'  "ong_s413"  "ong_s414" 
+ -14             'R_Anterior'  "ong_s45"  "ong_s46" 
+}
+
+sh[4]
+{
+   0              'R_Central'   "sh_s41"      -1    
+  -1                'R_Nasal'   "sh_s42"   "sh_s43" 
+}
+
+ix[4]
+{
+   0          'R_NonBoundary'   "ix_s41"      -1    
+  -1           'R_NonCoronal'      -2         -7    
+  -2              'R_Coronal'   "ix_s42"      -3    
+  -3             'R_Anterior'      -5         -4    
+  -4        'R_Unvoiced-Fric'      -6      "ix_s49" 
+  -5            'R_C-Central'   "ix_s43"     -10    
+  -6               'R_Liquid'     -11      "ix_s48" 
+  -7                    'R_p'      -8     "ix_s413" 
+  -8            'R_Fricative'      -9     "ix_s412" 
+  -9              'R_C-Front'  "ix_s410"  "ix_s411" 
+ -10            'R_Fricative'   "ix_s44"   "ix_s45" 
+ -11            'R_Fricative'   "ix_s46"   "ix_s47" 
+}
+
+zh[4]
+{
+   0                'R_Nasal'      -1      "zh_s43" 
+  -1                'R_Vowel'   "zh_s41"   "zh_s42" 
+}
+
+ing[4]
+{
+   0          'R_NonBoundary'  "ing_s41"      -1    
+  -1        'R_NonContinuent'      -2         -4    
+  -2          'R_NonAnterior'      -3         -6    
+  -3          'R_UnFortLenis'      -5         -8    
+  -4              'R_Coronal'      -7     "ing_s413" 
+  -5            'R_Fricative'  "ing_s42"      -9    
+  -6            'R_Fricative'  "ing_s48"  "ing_s49" 
+  -7              'R_C-Front'     -11     "ing_s412" 
+  -8                'R_Nasal'  "ing_s45"     -10    
+  -9               'R_Fortis'  "ing_s43"  "ing_s44" 
+ -10              'R_C-Front'  "ing_s46"  "ing_s47" 
+ -11               'R_Fortis'  "ing_s410"  "ing_s411" 
+}
+
+k[4]
+{
+   0                'R_Vowel'      -1       "k_s43" 
+  -1                'R_Nasal'    "k_s41"    "k_s42" 
+}
+
+uai[4]
+{
+   0          'R_NonBoundary'  "uai_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2             'R_Anterior'      -3         -5    
+  -3              'R_Central'  "uai_s42"      -6    
+  -4           'R_Front-Stop'      -7     "uai_s48" 
+  -5               'R_Liquid'  "uai_s45"  "uai_s46" 
+  -6               'R_Liquid'  "uai_s43"  "uai_s44" 
+  -7                 'R_Stop'  "uai_s46"  "uai_s47" 
+}
+
+eng[4]
+{
+   0          'R_NonBoundary'  "eng_s41"      -1    
+  -1                 'R_Stop'      -2         -5    
+  -2            'R_Unrounded'      -3         -8    
+  -3              'R_C-Front'      -4     "eng_s47" 
+  -4              'R_Coronal'  "eng_s42"      -7    
+  -5               'R_C-Back'      -6     "eng_s415" 
+  -6              'R_C-Front'  "eng_s412"     -13    
+  -7                'R_Nasal'      -9     "eng_s46" 
+  -8          'R_NonAnterior'     -10     "eng_s411" 
+  -9                   'R_sh'     -12     "eng_s45" 
+ -10                'R_Vowel'     -11     "eng_s410" 
+ -11                'R_Nasal'  "eng_s48"  "eng_s49" 
+ -12          'R_Voiced-Fric'  "eng_s43"     -14    
+ -13               'R_Fortis'  "eng_s413"  "eng_s414" 
+ -14            'R_C-Central'  "eng_s44"  "eng_s412" 
+}
+
+ou[4]
+{
+   0          'R_NonBoundary'   "ou_s41"      -1    
+  -1           'R_NonCoronal'      -2         -6    
+  -2            'R_Unrounded'      -3         -5    
+  -3               'R_C-Back'      -4         -9    
+  -4            'R_C-Central'   "ou_s42"      -7    
+  -5               'R_Liquid'   "ou_s47"      -8    
+  -6                'R_Nasal'     -10     "ou_s413" 
+  -7            'R_Fricative'   "ou_s43"   "ou_s44" 
+  -8             'R_Anterior'   "ou_s48"   "ou_s49" 
+  -9            'R_C-Central'   "ou_s45"   "ou_s46" 
+ -10           'R_Front-Stop'     -11     "ou_s412" 
+ -11                 'R_Stop'  "ou_s410"  "ou_s411" 
+}
+
+iao[4]
+{
+   0          'R_NonBoundary'  "iao_s41"      -1    
+  -1           'R_NonCoronal'      -2         -5    
+  -2          'R_NonAnterior'      -3         -7    
+  -3                 'R_Long'      -4     "iao_s46" 
+  -4            'R_C-Central'  "iao_s42"      -6    
+  -5                'R_Nasal'      -8     "iao_s413" 
+  -6                'R_Nasal'      -9     "iao_s45" 
+  -7            'R_Fricative'  "iao_s47"     -11    
+  -8           'R_Front-Stop'     -10     "iao_s412" 
+  -9          'R_Voiced-Stop'  "iao_s43"  "iao_s44" 
+ -10                 'R_Stop'  "iao_s410"  "iao_s411" 
+ -11            'R_C-Central'  "iao_s48"  "iao_s49" 
+}
+
+f[4]
+{
+   0                'R_Nasal'    "f_s41"    "f_s42" 
+}
+
+uang[4]
+{
+   0          'R_NonBoundary'  "uang_s41"      -1    
+  -1           'R_NonCoronal'      -3         -2    
+  -2              'R_C-Front'      -8         -5    
+  -3            'R_Unrounded'      -4         -7    
+  -4             'R_Anterior'      -6     "uang_s43" 
+  -5                 'R_Stop'  "uang_s48"  "uang_s49" 
+  -6            'R_C-Central'  "uang_s42"  "uang_s44" 
+  -7             'R_Anterior'  "uang_s44"  "uang_s45" 
+  -8               'R_Fortis'  "uang_s46"  "uang_s47" 
+}
+
+p[4]
+{
+   0              'R_Central'    "p_s41"      -1    
+  -1                'R_Nasal'    "p_s42"    "p_s43" 
+}
+
+iong[4]
+{
+   0          'R_NonBoundary'  "iong_s41"      -1    
+  -1           'R_NonCoronal'      -2     "iong_s46" 
+  -2        'R_NonContinuent'      -3     "iong_s45" 
+  -3          'R_NonAnterior'      -4     "iong_s44" 
+  -4                'R_Nasal'  "iong_s42"  "iong_s43" 
+}
+
+ang[4]
+{
+   0          'R_NonBoundary'  "ang_s41"      -1    
+  -1           'R_NonCoronal'      -2         -4    
+  -2            'R_Unrounded'      -3         -6    
+  -3             'R_Anterior'      -7        -10    
+  -4              'R_C-Front'  "ang_s410"      -5    
+  -5            'R_Fricative'     -11     "ang_s413" 
+  -6               'R_Liquid'  "ang_s47"      -8    
+  -7            'R_Fricative'  "ang_s42"      -9    
+  -8             'R_Anterior'  "ang_s48"  "ang_s49" 
+  -9            'R_C-Central'  "ang_s43"  "ang_s44" 
+ -10        'R_Unvoiced-Fric'  "ang_s45"  "ang_s46" 
+ -11                 'R_Stop'  "ang_s411"  "ang_s412" 
+}
+
+un[4]
+{
+   0          'R_NonBoundary'   "un_s41"      -1    
+  -1             'R_Anterior'      -2         -3    
+  -2            'R_C-Central'      -5         -9    
+  -3         'R_Central-Stop'      -4     "un_s411" 
+  -4          'R_UnFortLenis'      -6         -7    
+  -5                 'R_Stop'     -10      "un_s43" 
+  -6                 'R_Stop'      -8      "un_s48" 
+  -7                'R_Nasal'   "un_s49"  "un_s410" 
+  -8               'R_Fortis'   "un_s46"   "un_s47" 
+  -9            'R_Fricative'   "un_s44"   "un_s45" 
+ -10            'R_Fricative'   "un_s42"  "un_s411" 
+}
+
+ei[4]
+{
+   0           'R_UnStrident'      -1         -2    
+  -1          'R_NonBoundary'   "ei_s41"      -3    
+  -2            'R_Unrounded'      -4         -6    
+  -3               'R_Fortis'      -9         -8    
+  -4                 'R_Stop'   "ei_s47"      -5    
+  -5               'R_C-Back'      -7     "ei_s410" 
+  -6                'R_Nasal'     -10     "ei_s413" 
+  -7              'R_C-Front'   "ei_s48"   "ei_s49" 
+  -8              'R_C-Front'     -11      "ei_s46" 
+  -9              'R_Central'   "ei_s42"   "ei_s43" 
+ -10             'R_Anterior'  "ei_s411"  "ei_s412" 
+ -11            'R_C-Central'   "ei_s44"   "ei_s45" 
+}
+
+c[4]
+{
+   0              'R_V-Front'      -1       "c_s43" 
+  -1                'R_Vowel'    "c_s41"    "c_s42" 
+}
+
+a[4]
+{
+   0           'R_NonCoronal'      -1         -5    
+  -1          'R_NonBoundary'    "a_s41"      -2    
+  -2        'R_Unvoiced-Fric'      -3         -7    
+  -3            'R_Unrounded'      -4         -8    
+  -4            'R_C-Central'    "a_s42"     -11    
+  -5                'R_Nasal'      -6      "a_s416" 
+  -6                 'R_Stop'   "a_s412"     -10    
+  -7            'R_C-Central'    "a_s49"      -9    
+  -8          'R_NonAnterior'    "a_s47"    "a_s48" 
+  -9               'R_C-Back'   "a_s410"   "a_s411" 
+ -10              'R_C-Front'     -14      "a_s415" 
+ -11               'R_Fortis'     -12       "a_s46" 
+ -12                 'R_Stop'     -13       "a_s45" 
+ -13                'R_Nasal'    "a_s43"    "a_s44" 
+ -14               'R_Fortis'   "a_s413"   "a_s414" 
+}
+
+vn[4]
+{
+   0          'R_NonBoundary'   "vn_s41"      -1    
+  -1        'R_NonContinuent'      -2      "vn_s46" 
+  -2          'R_NonAnterior'      -3      "vn_s45" 
+  -3            'R_Fricative'      -5         -4    
+  -4              'R_C-Front'   "vn_s43"   "vn_s44" 
+  -5                    'R_n'   "vn_s42"   "vn_s46" 
+}
+
+van[4]
+{
+   0          'R_NonBoundary'  "van_s41"      -1    
+  -1           'R_NonCoronal'      -2         -3    
+  -2                   'R_sh'      -4     "van_s47" 
+  -3              'R_C-Front'  "van_s48"      -7    
+  -4         'R_NonAffricate'      -5     "van_s46" 
+  -5            'R_Unrounded'      -6         -9    
+  -6              'R_Coronal'  "van_s42"  "van_s43" 
+  -7                 'R_Stop'      -8     "van_s411" 
+  -8                'R_Nasal'  "van_s49"  "van_s410" 
+  -9          'R_NonAnterior'  "van_s44"  "van_s45" 
+}
+
+iz[4]
+{
+   0          'R_NonBoundary'   "iz_s41"      -1    
+  -1              'R_C-Front'      -2      "iz_s45" 
+  -2                'R_Lenis'   "iz_s42"      -3    
+  -3                 'R_Stop'   "iz_s43"   "iz_s44" 
+}
+
+o[4]
+{
+   0           'R_NonCoronal'      -1         -4    
+  -1          'R_NonBoundary'    "o_s41"      -2    
+  -2          'R_UnFortLenis'      -3       "o_s45" 
+  -3               'R_C-Back'      -5       "o_s44" 
+  -4                 'R_Stop'    "o_s46"      -6    
+  -5        'R_Unvoiced-Fric'    "o_s42"    "o_s43" 
+  -6              'R_C-Front'    "o_s47"    "o_s48" 
+}
+
+aa[4]
+{
+   0                'R_Vowel'   "aa_s41"   "aa_s42" 
+}
+
+ua[4]
+{
+   0          'R_NonBoundary'   "ua_s41"      -1    
+  -1                 'R_Stop'      -2         -4    
+  -2               'R_C-Back'      -3      "ua_s44" 
+  -3            'R_Fricative'      -5      "ua_s46" 
+  -4               'R_C-Back'      -6      "ua_s47" 
+  -5               'R_Liquid'   "ua_s42"   "ua_s43" 
+  -6              'R_C-Front'   "ua_s45"   "ua_s46" 
+}
+
+oo[4]
+   "oo_s41"
+
+ueng[4]
+   "ueng_s41"
+
+sil[4]
+   "sil_s41"
+

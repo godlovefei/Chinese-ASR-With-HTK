@@ -1,0 +1,9225 @@
+bSIL sil\
+b<SPOKEN_NOISE> sil\
+b啊 aa a\
+b啊 aa a\
+b啊 aa a\
+b啊 aa a\
+b啊啊啊 aa a aa a aa a\
+b啊啊啊 aa a aa a aa a\
+b阿 aa a\
+b阿 ee e\
+b阿尔 aa a ee er\
+b阿根廷 aa a g en t ing\
+b阿九 aa a j iu\
+b阿克 aa a k e\
+b阿拉伯数字 aa a l a b o sh u z iy\
+b阿拉法特 aa a l a f a t e\
+b阿拉木图 aa a l a m u t u\
+b阿婆 aa a p o\
+b阿文 aa a uu un\
+b阿亚 aa a ii ia\
+b阿亚 aa a ii ia\
+b阿育王 aa a vv v uu uang\
+b阿扎尔 aa a zh a ee er\
+b阿兹特克 aa a z iy t e k e\
+b埃 aa ai\
+b埃米尔 aa ai m i ee er\
+b埃塞俄比亚 aa ai s ai ee e b i ii ia\
+b埃斯 aa ai s iy\
+b挨 aa ai\
+b挨 aa ai\
+b挨斗 aa ai d ou\
+b挨斗 aa ai d ou\
+b挨罚 aa ai f a\
+b挨罚 aa ai f a\
+b唉 aa ai\
+b唉 aa ai\
+b哀 aa ai\
+b哀思 aa ai s iy\
+b癌 aa ai\
+b癌症 aa ai zh eng\
+b矮 aa ai\
+b矮小 aa ai x iao\
+b艾 aa ai\
+b艾迪 aa ai d i\
+b艾森豪威尔 aa ai s en h ao uu ui ee er\
+b艾滋病 aa ai z iy b ing\
+b爱 aa ai\
+b爱吃 aa ai ch ix\
+b爱达 aa ai d a\
+b爱尔兰 aa ai ee er l an\
+b爱岗 aa ai g ang\
+b爱国 aa ai g uo\
+b爱国主义 aa ai g uo zh u ii i\
+b爱好者 aa ai h ao zh e\
+b爱花 aa ai h ua\
+b爱乐 aa ai l e\
+b爱情 aa ai q ing\
+b爱玩 aa ai uu uan\
+b爱惜 aa ai x i\
+b爱子 aa ai z iy\
+b爱祖国 aa ai z u g uo\
+b爱妃 aa ai f ei\
+b隘 aa ai\
+b安 aa an\
+b安保 aa an b ao\
+b安达市 aa an d a sh ix\
+b安第斯 aa an d i s iy\
+b安东 aa an d ong\
+b安哥拉 aa an g e l a\
+b安好 aa an h ao\
+b安静 aa an j ing\
+b安民 aa an m in\
+b安宁 aa an n ing\
+b安排 aa an p ai\
+b安全 aa an q van\
+b安全模式 aa an q van m o sh ix\
+b安全生产 aa an q van sh eng ch an\
+b安然 aa an r an\
+b安慰 aa an uu ui\
+b安息 aa an x i\
+b安详 aa an x iang\
+b安心 aa an x in\
+b安岳县 aa an vv ve x ian\
+b安葬 aa an z ang\
+b安装 aa an zh uang\
+b按 aa an\
+b按计划 aa an j i h ua\
+b按喇叭 aa an l a b a\
+b按年 aa an n ian\
+b按压 aa an ii ia\
+b按照 aa an zh ao\
+b暗 aa an\
+b暗号 aa an h ao\
+b暗盒 aa an h e\
+b暗红色 aa an h ong s e\
+b暗中 aa an zh ong\
+b岸 aa an\
+b岸边 aa an b ian\
+b案 aa an\
+b案发 aa an f a\
+b案犯 aa an f an\
+b肮脏 aa ang z ang\
+b昂首 aa ang sh ou\
+b昂首阔步 aa ang sh ou k uo b u\
+b昂扬 aa ang ii iang\
+b盎然 aa ang r an\
+b敖 aa ao\
+b熬 aa ao\
+b傲雪 aa ao x ve\
+b奥 aa ao\
+b奥地利 aa ao d i l i\
+b奥尔 aa ao ee er\
+b奥尼尔 aa ao n i ee er\
+b奥斯卡 aa ao s iy k a\
+b奥斯维辛 aa ao s iy uu ui x in\
+b奥运 aa ao vv vn\
+b奥运会 aa ao vv vn h ui\
+b懊丧 aa ao s ang\
+b澳 aa ao\
+b澳大利亚 aa ao d a l i ii ia\
+b澳门 aa ao m en\
+b芭蕾舞团 b a l ei uu u t uan\
+b扒 b a\
+b八 b a\
+b八百 b a b ai\
+b八度 b a d u\
+b八段 b a d uan\
+b八二年 b a ee er n ian\
+b八路军 b a l u j vn\
+b八旗 b a q i\
+b八千 b a q ian\
+b八强 b a q iang\
+b八日 b a r iz\
+b八十 b a sh ix\
+b八十分 b a sh ix f en\
+b八十分 b a sh ix f en\
+b八十年代 b a sh ix n ian d ai\
+b八十五 b a sh ix uu u\
+b八十五 b a sh ix uu u\
+b八四年 b a s iy n ian\
+b八位 b a uu ui\
+b八一 b a ii i\
+b八月 b a vv ve\
+b八卦 b a g ua\
+b巴 b a\
+b巴尔 b a ee er\
+b巴拿马 b a n a m a\
+b巴中 b a zh ong\
+b拔牙 b a ii ia\
+b把 b a\
+b把玩 b a uu uan\
+b坝 b a\
+b霸王 b a uu uang\
+b罢了 b a l e\
+b爸 b a\
+b白 b ai\
+b白白 b ai b ai\
+b白帆 b ai f an\
+b白宫 b ai g ong\
+b白骨 b ai g u\
+b白棉 b ai m ian\
+b白求恩 b ai q iu ee en\
+b白色 b ai s e\
+b白薯 b ai sh u\
+b白藤 b ai t eng\
+b白天 b ai t ian\
+b白银 b ai ii in\
+b白玉 b ai vv v\
+b白云 b ai vv vn\
+b白昼 b ai zh ou\
+b柏林 b o l in\
+b柏油 b ai ii iu\
+b百般 b ai b an\
+b百变 b ai b ian\
+b百草园 b ai c ao vv van\
+b百出 b ai ch u\
+b百分点 b ai f en d ian\
+b百分之二十 b ai f en zh ix ee er sh ix\
+b百合 b ai h e\
+b百花 b ai h ua\
+b百米 b ai m i\
+b百年 b ai n ian\
+b百人 b ai r en\
+b百万富翁 b ai uu uan f u uu ueng\
+b百姓 b ai x ing\
+b百业 b ai ii ie\
+b百余 b ai vv v\
+b摆 b ai\
+b败家 b ai j ia\
+b稗 b ai\
+b斑块 b an k uai\
+b班 b an\
+b班房 b an f ang\
+b班子 b an z iy\
+b班组 b an z u\
+b搬迁 b an q ian\
+b搬运工 b an vv vn g ong\
+b般 b an\
+b颁布 b an b u\
+b板 b an\
+b版 b an\
+b拌 b an\
+b拌菜 b an c ai\
+b伴 b an\
+b半 b an\
+b半点 b an d ian\
+b半个 b an g e\
+b半个 b an g e\
+b半截 b an j ie\
+b半年 b an n ian\
+b半小时 b an x iao sh ix\
+b半夜 b an ii ie\
+b办 b an\
+b办案 b an aa an\
+b办法 b an f a\
+b办起 b an q i\
+b邦 b ang\
+b帮 b ang\
+b帮助 b ang zh u\
+b榜首 b ang sh ou\
+b榜样 b ang ii iang\
+b棒 b ang\
+b棒冰 b ang b ing\
+b蚌 b ang\
+b傍 b ang\
+b傍晚 b ang uu uan\
+b包 b ao\
+b包庇 b ao b i\
+b包袱 b ao f u\
+b包括 b ao k uo\
+b包罗万象 b ao l uo uu uan x iang\
+b包头 b ao t ou\
+b包围 b ao uu ui\
+b包装 b ao zh uang\
+b包装物 b ao zh uang uu u\
+b褒 b ao\
+b薄 b ao\
+b薄 b o\
+b薄 b o\
+b薄板 b ao b an\
+b保 b ao\
+b保长 b ao zh ang\
+b保持 b ao ch ix\
+b保存 b ao c un\
+b保存在 b ao c un z ai\
+b保定市 b ao d ing sh ix\
+b保护 b ao h u\
+b保护伞 b ao h u s an\
+b保留 b ao l iu\
+b保税区 b ao sh ui q v\
+b保险 b ao x ian\
+b保养 b ao ii iang\
+b保障 b ao zh ang\
+b保证 b ao zh eng\
+b保重 b ao zh ong\
+b饱 b ao\
+b宝 b ao\
+b宝贝 b ao b ei\
+b抱 b ao\
+b抱住 b ao zh u\
+b抱着 b ao zh e\
+b报 b ao\
+b报道 b ao d ao\
+b报复 b ao f u\
+b报告 b ao g ao\
+b报社 b ao sh e\
+b报时 b ao sh ix\
+b报纸 b ao zh ix\
+b暴躁 b ao z ao\
+b鲍鱼 b ao vv v\
+b爆炸 b ao zh a\
+b杯 b ei\
+b碑 b ei\
+b悲伤 b ei sh ang\
+b悲壮 b ei zh uang\
+b卑鄙无耻 b ei b i uu u ch ix\
+b北 b ei\
+b北爱尔兰 b ei aa ai ee er l an\
+b北冰洋 b ei b ing ii iang\
+b北部 b ei b u\
+b北城 b ei ch eng\
+b北方 b ei f ang\
+b北京 b ei j ing\
+b北纬 b ei uu ui\
+b北园 b ei vv van\
+b北约 b ei vv ve\
+b背 b ei\
+b背后 b ei h ou\
+b背面 b ei m ian\
+b贝 b ei\
+b贝类 b ei l ei\
+b倍 b ei\
+b备 b ei\
+b备战 b ei zh an\
+b被 b ei\
+b被单 b ei d an\
+b被告 b ei g ao\
+b被埋 b ei m ai\
+b被套 b ei t ao\
+b被子 b ei z iy\
+b奔波 b en b o\
+b奔跑 b en p ao\
+b奔去 b en q v\
+b奔向 b en x iang\
+b奔走 b en z ou\
+b本 b en\
+b本版 b en b an\
+b本厂 b en ch ang\
+b本地 b en d i\
+b本队 b en d ui\
+b本该 b en g ai\
+b本国 b en g uo\
+b本届 b en j ie\
+b本来 b en l ai\
+b本来面目 b en l ai m ian m u\
+b本人 b en r en\
+b本色 b en s e\
+b本社 b en sh e\
+b本身 b en sh en\
+b本书 b en sh u\
+b本土 b en t u\
+b本月 b en vv ve\
+b笨 b en\
+b崩 b eng\
+b崩溃 b eng k ui\
+b绷 b eng\
+b泵 b eng\
+b蹦 b eng\
+b蹦蹦 b eng b eng\
+b逼 b i\
+b逼迫 b i p o\
+b鼻梁 b i l iang\
+b鼻子 b i z iy\
+b比 b i\
+b比昂 b i aa ang\
+b比比 b i b i\
+b比较 b i j iao\
+b比例 b i l i\
+b比如 b i r u\
+b比赛 b i s ai\
+b笔墨 b i m o\
+b笔下 b i x ia\
+b笔直 b i zh ix\
+b彼 b i\
+b毕 b i\
+b毕业后 b i ii ie h ou\
+b币 b i\
+b闭 b i\
+b闭经 b i j ing\
+b闭塞 b i s e\
+b必 b i\
+b必能 b i n eng\
+b必须 b i x v\
+b壁 b i\
+b避 b i\
+b避开 b i k ai\
+b避雷 b i l ei\
+b避免 b i m ian\
+b避雨 b i vv v\
+b避孕 b i vv vn\
+b避孕药 b i vv vn ii iao\
+b陛下 b i x ia\
+b边 b ian\
+b边防 b ian f ang\
+b边疆 b ian j iang\
+b边区 b ian q v\
+b边远 b ian vv van\
+b编导 b ian d ao\
+b编剧 b ian j v\
+b编委会 b ian uu ui h ui\
+b编演 b ian ii ian\
+b便 b ian\
+b便民 b ian m in\
+b变 b ian\
+b变本加厉 b ian b en j ia l i\
+b变成 b ian ch eng\
+b变得 b ian d e\
+b变化 b ian h ua\
+b变相 b ian x iang\
+b变质 b ian zh ix\
+b遍 b ian\
+b遍及 b ian j i\
+b标的 b iao d i\
+b标语 b iao vv v\
+b标志 b iao zh ix\
+b标准 b iao zh un\
+b表 b iao\
+b表决 b iao j ve\
+b表明 b iao m ing\
+b表示 b iao sh ix\
+b表示支持 b iao sh ix zh ix ch ix\
+b表现 b iao x ian\
+b表现性 b iao x ian x ing\
+b表兄弟 b iao x iong d i\
+b表演 b iao ii ian\
+b别 b ie\
+b别的 b ie d e\
+b别国 b ie g uo\
+b别具一格 b ie j v ii i g e\
+b别人 b ie r en\
+b别是 b ie sh ix\
+b别墅 b ie sh u\
+b别太 b ie t ai\
+b别小看 b ie x iao k an\
+b别样 b ie ii iang\
+b别有用心 b ie ii iu ii iong x in\
+b别致 b ie zh ix\
+b别着急 b ie zh ao j i\
+b彬 b in\
+b彬彬有礼 b in b in ii iu l i\
+b濒 b in\
+b滨 b in\
+b宾 b in\
+b冰 b ing\
+b冰柜 b ing g ui\
+b冰凉 b ing l iang\
+b柄 b ing\
+b饼干 b ing g an\
+b炳 b ing\
+b病 b ing\
+b病毒 b ing d u\
+b病房里 b ing f ang l i\
+b病理 b ing l i\
+b病人 b ing r en\
+b病因 b ing ii in\
+b病愈 b ing vv v\
+b并 b ing\
+b并不 b ing b u\
+b并称 b ing ch eng\
+b并非 b ing f ei\
+b并没有 b ing m ei ii iu\
+b并未 b ing uu ui\
+b并用 b ing ii iong\
+b玻利维亚 b o l i uu ui ii ia\
+b玻璃纸 b o l i zh ix\
+b播 b o\
+b播种 b o zh ong\
+b拨 b o\
+b拨动 b o d ong\
+b拨给 b o g ei\
+b拨款 b o k uan\
+b波 b o\
+b波恩 b o ee en\
+b波尔 b o ee er\
+b波黑 b o h ei\
+b波兰 b o l an\
+b波浪 b o l ang\
+b波涛 b o t ao\
+b博 b o\
+b博览会 b o l an h ui\
+b博物馆 b o uu u g uan\
+b勃勃 b o b o\
+b搏 b o\
+b伯 b o\
+b脖子 b o z iy\
+b捕获 b u h uo\
+b捕捞 b u l ao\
+b捕杀 b u sh a\
+b捕捉 b u zh uo\
+b卜 b u\
+b补考 b u k ao\
+b不 b u\
+b不 b u\
+b不安 b u aa an\
+b不比 b u b i\
+b不必 b u b i\
+b不必担心 b u b i d an x in\
+b不便 b u b ian\
+b不成 b u ch eng\
+b不吃 b u ch ix\
+b不穿 b u ch uan\
+b不错 b u c uo\
+b不大 b u d a\
+b不但 b u d an\
+b不当 b u d ang\
+b不到 b u d ao\
+b不得 b u d e\
+b不得而知 b u d e ee er zh ix\
+b不动 b u d ong\
+b不断 b u d uan\
+b不断地 b u d uan d e\
+b不对 b u d ui\
+b不对称 b u d ui ch en\
+b不符合 b u f u h e\
+b不符合 b u f u h e\
+b不敢 b u g an\
+b不够 b u g ou\
+b不顾 b u g u\
+b不过 b u g uo\
+b不好 b u h ao\
+b不喝 b u h e\
+b不会 b u h ui\
+b不会说话 b u h ui sh uo h ua\
+b不及 b u j i\
+b不记得 b u j i d e\
+b不佳 b u j ia\
+b不见 b u j ian\
+b不仅 b u j in\
+b不景气 b u j ing q i\
+b不久 b u j iu\
+b不看 b u k an\
+b不可 b u k e\
+b不可少 b u k e sh ao\
+b不可思议 b u k e s iy ii i\
+b不肯 b u k en\
+b不利 b u l i\
+b不料 b u l iao\
+b不露 b u l u\
+b不论怎样 b u l un z en ii iang\
+b不满 b u m an\
+b不灭 b u m ie\
+b不能 b u n eng\
+b不能不 b u n eng b u\
+b不怕 b u p a\
+b不平衡 b u p ing h eng\
+b不弃 b u q i\
+b不少 b u sh ao\
+b不少地方 b u sh ao d i f ang\
+b不胜枚举 b u sh eng m ei j v\
+b不是 b u sh ix\
+b不是我 b u sh ix uu uo\
+b不受 b u sh ou\
+b不舒服 b u sh u f u\
+b不衰 b u sh uai\
+b不说 b u sh uo\
+b不算 b u s uan\
+b不同 b u t ong\
+b不外乎 b u uu uai h u\
+b不忘 b u uu uang\
+b不畏 b u uu ui\
+b不文明 b u uu un m ing\
+b不闻 b u uu un\
+b不稳定 b u uu un d ing\
+b不喜 b u x i\
+b不休 b u x iu\
+b不朽 b u x iu\
+b不许 b u x v\
+b不亚于 b u ii ia vv v\
+b不要 b u ii iao\
+b不要忽视 b u ii iao h u sh ix\
+b不易 b u ii i\
+b不用 b u ii iong\
+b不用问 b u ii iong uu un\
+b不远处 b u vv van ch u\
+b不愿 b u vv van\
+b不再 b u z ai\
+b不再爱你 b u z ai aa ai n i\
+b不在 b u z ai\
+b不赞成 b u z an ch eng\
+b不曾 b u c eng\
+b不知 b u zh ix\
+b不知道 b u zh ix d ao\
+b不住 b u zh u\
+b不准 b u zh un\
+b不足 b u z u\
+b布 b u\
+b布置 b u zh ix\
+b步伐 b u f a\
+b步履 b u l v\
+b步行 b u x ing\
+b步云 b u vv vn\
+b部 b u\
+b部长 b u zh ang\
+b部队 b u d ui\
+b部分 b u f en\
+b部门 b u m en\
+b怖 b u\
+b擦 c a\
+b擦掉 c a d iao\
+b擦亮 c a l iang\
+b擦去 c a q v\
+b擦拭 c a sh ix\
+b擦嘴 c a z ui\
+b裁减 c ai j ian\
+b裁军 c ai j vn\
+b材 c ai\
+b材料 c ai l iao\
+b才 c ai\
+b才华 c ai h ua\
+b才会 c ai h ui\
+b才能 c ai n eng\
+b财神爷 c ai sh en ii ie\
+b财务 c ai uu u\
+b财务会计 c ai uu u k uai j i\
+b财政 c ai zh eng\
+b踩着 c ai zh e\
+b采 c ai\
+b采访 c ai f ang\
+b采购 c ai g ou\
+b采矿 c ai k uang\
+b采区 c ai q v\
+b采取 c ai q v\
+b采用 c ai ii iong\
+b采油 c ai ii iu\
+b采油厂 c ai ii iu ch ang\
+b彩蝶 c ai d ie\
+b彩旗 c ai q i\
+b彩色 c ai s e\
+b彩印厂 c ai ii in ch ang\
+b彩云 c ai vv vn\
+b菜 c ai\
+b菜农 c ai n ong\
+b蔡 c ai\
+b餐 c an\
+b餐巾 c an j in\
+b参 c an\
+b参 sh en\
+b参加 c an j ia\
+b参赛 c an s ai\
+b参事 c an sh ix\
+b参议院 c an ii i vv van\
+b参与 c an vv v\
+b蚕 c an\
+b蚕茧 c an j ian\
+b残 c an\
+b残缺 c an q ve\
+b惭愧 c an k ui\
+b苍 c ang\
+b苍苍 c ang c ang\
+b苍天 c ang t ian\
+b苍蝇 c ang ii ing\
+b舱 c ang\
+b仓 c ang\
+b仓皇 c ang h uang\
+b仓库 c ang k u\
+b沧源 c ang vv van\
+b藏 c ang\
+b藏 z ang\
+b藏龙卧虎 c ang l ong uu uo h u\
+b藏起来 c ang q i l ai\
+b藏起来 c ang q i l ai\
+b藏文 z ang uu un\
+b藏着 c ang zh e\
+b藏族 z ang z u\
+b操 c ao\
+b操纵 c ao z ong\
+b操作 c ao z uo\
+b糙 c ao\
+b槽 c ao\
+b曹 c ao\
+b曹禺 c ao vv v\
+b草 c ao\
+b草草 c ao c ao\
+b草场 c ao ch ang\
+b草帽 c ao m ao\
+b草木 c ao m u\
+b草拟 c ao n i\
+b草酸 c ao s uan\
+b草图 c ao t u\
+b草药 c ao ii iao\
+b厕所 c e s uo\
+b侧 c e\
+b侧面 c e m ian\
+b册 c e\
+b层 c eng\
+b层层 c eng c eng\
+b蹭 c eng\
+b插 ch a\
+b叉 ch a\
+b叉 ch a\
+b叉 ch a\
+b茬 ch a\
+b茶 ch a\
+b茶馆 ch a g uan\
+b茶人 ch a r en\
+b茶食 ch a sh ix\
+b查 ch a\
+b查出 ch a ch u\
+b查获 ch a h uo\
+b查扣 ch a k ou\
+b查明 ch a m ing\
+b查完 ch a uu uan\
+b查阅 ch a vv ve\
+b查找 ch a zh ao\
+b察觉 ch a j ve\
+b察看 ch a k an\
+b差 ch a\
+b差 ch a\
+b差 ch ai\
+b差 c iy\
+b差别 ch a b ie\
+b差异 ch a ii i\
+b拆 ch ai\
+b柴 ch ai\
+b掺 ch an\
+b缠 ch an\
+b缠住 ch an zh u\
+b产 ch an\
+b产出 ch an ch u\
+b产妇 ch an f u\
+b产粮 ch an l iang\
+b产量 ch an l iang\
+b产品 ch an p in\
+b产品质量 ch an p in zh ix l iang\
+b产权 ch an q van\
+b产生 ch an sh eng\
+b产销 ch an x iao\
+b颤 ch an\
+b颤音 ch an ii in\
+b昌 ch ang\
+b场 ch ang\
+b场面 ch ang m ian\
+b场内 ch ang n ei\
+b场上 ch ang sh ang\
+b场所 ch ang s uo\
+b场院 ch ang vv van\
+b常 ch ang\
+b常常 ch ang ch ang\
+b常吃 ch ang ch ix\
+b常规 ch ang g ui\
+b常青 ch ang q ing\
+b常温 ch ang uu un\
+b长 ch ang\
+b长 zh ang\
+b长安 ch ang aa an\
+b长长的 ch ang ch ang d e\
+b长达 ch ang d a\
+b长江 ch ang j iang\
+b长年 ch ang n ian\
+b长期 ch ang q i\
+b长沙 ch ang sh a\
+b长寿 ch ang sh ou\
+b长远 ch ang vv van\
+b厂 ch ang\
+b厂长 ch ang zh ang\
+b厂房 ch ang f ang\
+b厂家 ch ang j ia\
+b厂里 ch ang l i\
+b厂区 ch ang q v\
+b厂子 ch ang z iy\
+b敞 ch ang\
+b畅快 ch ang k uai\
+b唱片 ch ang p ian\
+b唱片 ch ang p ian\
+b倡议 ch ang ii i\
+b超 ch ao\
+b超产 ch ao ch an\
+b超过 ch ao g uo\
+b超前 ch ao q ian\
+b超脱 ch ao t uo\
+b钞票 ch ao p iao\
+b朝 ch ao\
+b朝外 ch ao uu uai\
+b朝鲜 ch ao x ian\
+b朝云 zh ao vv vn\
+b朝政 ch ao zh eng\
+b嘲弄 ch ao n ong\
+b潮流 ch ao l iu\
+b潮湿 ch ao sh ix\
+b吵 ch ao\
+b吵闹 ch ao n ao\
+b炒 ch ao\
+b炒股 ch ao g u\
+b炒鸡蛋 ch ao j i d an\
+b炒肉丝 ch ao r ou s iy\
+b车 ch e\
+b车把 ch e b a\
+b车边 ch e b ian\
+b车流 ch e l iu\
+b车站附近 ch e zh an f u j in\
+b车子 ch e z iy\
+b扯 ch e\
+b撤 ch e\
+b撤军 ch e j vn\
+b撤离 ch e l i\
+b撤销 ch e x iao\
+b彻底 ch e d i\
+b彻夜未眠 ch e ii ie uu ui m ian\
+b辰 ch en\
+b晨 ch en\
+b沉 ch en\
+b沉没 ch en m o\
+b沉默寡言 ch en m o g ua ii ian\
+b沉重 ch en zh ong\
+b陈 ch en\
+b陈独秀 ch en d u x iu\
+b陈列柜 ch en l ie g ui\
+b陈云 ch en vv vn\
+b撑 ch eng\
+b称 ch eng\
+b称号 ch eng h ao\
+b称为 ch eng uu ui\
+b称誉 ch eng vv v\
+b称赞 ch eng z an\
+b城 ch eng\
+b城里 ch eng l i\
+b城内 ch eng n ei\
+b城市 ch eng sh ix\
+b城县 ch eng x ian\
+b成 ch eng\
+b成本 ch eng b en\
+b成不了 ch eng b u l iao\
+b成不了 ch eng b u l iao\
+b成长 ch eng zh ang\
+b成都 ch eng d u\
+b成堆 ch eng d ui\
+b成对 ch eng d ui\
+b成分 ch eng f en\
+b成凤 ch eng f eng\
+b成功 ch eng g ong\
+b成果 ch eng g uo\
+b成绩 ch eng j i\
+b成家 ch eng j ia\
+b成了 ch eng l e\
+b成片 ch eng p ian\
+b成群结队 ch eng q vn j ie d ui\
+b成熟 ch eng sh u\
+b成为 ch eng uu ui\
+b成一 ch eng ii i\
+b成员 ch eng vv van\
+b呈 ch eng\
+b呈贡 ch eng g ong\
+b乘 ch eng\
+b乘车 ch eng ch e\
+b乘机 ch eng j i\
+b乘凉 ch eng l iang\
+b乘员 ch eng vv van\
+b程 ch eng\
+b程度 ch eng d u\
+b程控 ch eng k ong\
+b澄 ch eng\
+b诚然 ch eng r an\
+b诚意 ch eng ii i\
+b承 ch eng\
+b承包 ch eng b ao\
+b承兑 ch eng d ui\
+b承运人 ch eng vv vn r en\
+b吃 ch ix\
+b吃不下 ch ix b u x ia\
+b吃掉 ch ix d iao\
+b吃饭 ch ix f an\
+b吃喝 ch ix h e\
+b吃紧 ch ix j in\
+b吃苦 ch ix k u\
+b吃完 ch ix uu uan\
+b吃药 ch ix ii iao\
+b吃月饼 ch ix vv ve b ing\
+b痴 ch ix\
+b持 ch ix\
+b持家 ch ix j ia\
+b持枪 ch ix q iang\
+b池 ch ix\
+b迟 ch ix\
+b迟浩田 ch ix h ao t ian\
+b驰骋 ch ix ch eng\
+b驰名 ch ix m ing\
+b驰名中外 ch ix m ing zh ong uu uai\
+b齿 ch ix\
+b尺寸 ch ix c un\
+b尺子 ch ix z iy\
+b赤 ch ix\
+b赤铁矿 ch ix t ie k uang\
+b斥责 ch ix z e\
+b充 ch ong\
+b充分发挥 ch ong f en f a h ui\
+b充满 ch ong m an\
+b充溢 ch ong ii i\
+b冲 ch ong\
+b冲减 ch ong j ian\
+b冲进 ch ong j in\
+b冲突 ch ong t u\
+b冲向 ch ong x iang\
+b崇高 ch ong g ao\
+b崇武 ch ong uu u\
+b崇祯 ch ong zh en\
+b宠爱 ch ong aa ai\
+b宠儿 ch ong ee er\
+b抽 ch ou\
+b抽掉 ch ou d iao\
+b抽水 ch ou sh ui\
+b抽烟 ch ou ii ian\
+b抽样 ch ou ii iang\
+b酬谢 ch ou x ie\
+b畴 ch ou\
+b筹 ch ou\
+b筹办 ch ou b an\
+b筹备 ch ou b ei\
+b筹措 ch ou c uo\
+b筹款 ch ou k uan\
+b筹资 ch ou z iy\
+b仇 ch ou\
+b绸 ch ou\
+b丑 ch ou\
+b丑陋 ch ou l ou\
+b臭 ch ou\
+b臭名昭著 ch ou m ing zh ao zh u\
+b初 ch u\
+b初二 ch u ee er\
+b初期 ch u q i\
+b出 ch u\
+b出版 ch u b an\
+b出版社 ch u b an sh e\
+b出场 ch u ch ang\
+b出场费 ch u ch ang f ei\
+b出发 ch u f a\
+b出阁 ch u g e\
+b出海 ch u h ai\
+b出局 ch u j v\
+b出口 ch u k ou\
+b出来 ch u l ai\
+b出门 ch u m en\
+b出面 ch u m ian\
+b出去 ch u q v\
+b出生 ch u sh eng\
+b出外 ch u uu uai\
+b出席 ch u x i\
+b出现 ch u x ian\
+b出洋 ch u ii iang\
+b出于 ch u vv v\
+b厨 ch u\
+b厨子 ch u z iy\
+b雏鹰 ch u ii ing\
+b除 ch u\
+b除此之外 ch u c iy zh ix uu uai\
+b除了 ch u l e\
+b除夕夜 ch u x i ii ie\
+b储备 ch u b ei\
+b触犯 ch u f an\
+b触角 ch u j iao\
+b处 ch u\
+b处 ch u\
+b处理 ch u l i\
+b处理 ch u l i\
+b处于 ch u vv v\
+b处于 ch u vv v\
+b揣着 ch uai zh e\
+b川岛芳子 ch uan d ao f ang z iy\
+b穿 ch uan\
+b穿过 ch uan g uo\
+b穿梭 ch uan s uo\
+b穿着 ch uan zh e\
+b穿着 ch uan zh uo\
+b传 ch uan\
+b传 zh uan\
+b传承 ch uan ch eng\
+b传递 ch uan d i\
+b传开 ch uan k ai\
+b传来 ch uan l ai\
+b传神 ch uan sh en\
+b传授 ch uan sh ou\
+b传统 ch uan t ong\
+b船 ch uan\
+b串 ch uan\
+b窗口 ch uang k ou\
+b窗上 ch uang sh ang\
+b窗外 ch uang uu uai\
+b窗子 ch uang z iy\
+b床 ch uang\
+b床单 ch uang d an\
+b床铺 ch uang p u\
+b床上 ch uang sh ang\
+b床上 ch uang sh ang\
+b床罩 ch uang zh ao\
+b闯将 ch uang j iang\
+b创 ch uang\
+b创 ch uang\
+b创办 ch uang b an\
+b创建 ch uang j ian\
+b创利 ch uang l i\
+b创业 ch uang ii ie\
+b创造 ch uang z ao\
+b创作 ch uang z uo\
+b吹 ch ui\
+b吹吹 ch ui ch ui\
+b吹吹 ch ui ch ui\
+b吹到 ch ui d ao\
+b吹牛 ch ui n iu\
+b吹散 ch ui s an\
+b炊事员 ch ui sh ix vv van\
+b炊烟 ch ui ii ian\
+b春 ch un\
+b春草 ch un c ao\
+b春分 ch un f en\
+b春风 ch un f eng\
+b春风吹 ch un f eng ch ui\
+b春耕 ch un g eng\
+b春节前 ch un j ie q ian\
+b春秋战国 ch un q iu zh an g uo\
+b春色 ch un s e\
+b春山 ch un sh an\
+b春天 ch un t ian\
+b春意 ch un ii i\
+b春运 ch un vv vn\
+b醇 ch un\
+b唇 ch un\
+b纯 ch un\
+b纯粹 ch un c ui\
+b纯棉 ch un m ian\
+b纯音乐 ch un ii in vv ve\
+b纯真 ch un zh en\
+b戳 ch uo\
+b疵 c iy\
+b茨 c iy\
+b磁性 c iy x ing\
+b雌 c iy\
+b辞 c iy\
+b辞职 c iy zh ix\
+b瓷 c iy\
+b词条 c iy t iao\
+b此 c iy\
+b此案 c iy aa an\
+b此次 c iy c iy\
+b此次活动 c iy c iy h uo d ong\
+b此后 c iy h ou\
+b此间 c iy j ian\
+b此刻 c iy k e\
+b此时 c iy sh ix\
+b此外 c iy uu uai\
+b刺 c iy\
+b刺伤 c iy sh ang\
+b赐 c iy\
+b次 c iy\
+b次第 c iy d i\
+b次日 c iy r iz\
+b聪儿 c ong ee er\
+b聪明反被聪明误 c ong m ing f an b ei c ong m ing uu u\
+b葱绿 c ong l v\
+b葱茏 c ong l ong\
+b从 c ong\
+b从此 c ong c iy\
+b从而 c ong ee er\
+b从古到今 c ong g u d ao j in\
+b从教 c ong j iao\
+b从来 c ong l ai\
+b从零开始 c ong l ing k ai sh ix\
+b从前 c ong q ian\
+b从容 c ong r ong\
+b从事 c ong sh ix\
+b从未 c ong uu ui\
+b从小 c ong x iao\
+b从业人员 c ong ii ie r en vv van\
+b从中 c ong zh ong\
+b丛 c ong\
+b凑 c ou\
+b凑合 c ou h e\
+b凑近 c ou j in\
+b凑热闹 c ou r e n ao\
+b粗 c u\
+b粗糙 c u c ao\
+b粗豪 c u h ao\
+b粗俗 c u s u\
+b粗细 c u x i\
+b醋 c u\
+b簇 c u\
+b促 c u\
+b窜 c uan\
+b窜改 c uan g ai\
+b摧毁 c ui h ui\
+b崔 c ui\
+b脆 c ui\
+b脆弱 c ui r uo\
+b翠 c ui\
+b村 c un\
+b村办 c un b an\
+b村长 c un zh ang\
+b村干部 c un g an b u\
+b村口 c un k ou\
+b村里 c un l i\
+b村民 c un m in\
+b村农民 c un n ong m in\
+b村委会 c un uu ui h ui\
+b村镇 c un zh en\
+b村子 c un z iy\
+b存 c un\
+b存根 c un g en\
+b存活 c un h uo\
+b存在 c un z ai\
+b磋商 c uo sh ang\
+b搓 c uo\
+b措 c uo\
+b措施 c uo sh ix\
+b错 c uo\
+b错落有致 c uo l uo ii iu zh ix\
+b错误 c uo uu u\
+b达 d a\
+b达成 d a ch eng\
+b达到 d a d ao\
+b答案 d a aa an\
+b答复 d a f u\
+b打 d a\
+b打工妹 d a g ong m ei\
+b打好 d a h ao\
+b打击 d a j i\
+b打酱油 d a j iang ii iu\
+b打结 d a j ie\
+b打开 d a k ai\
+b打来 d a l ai\
+b打油 d a ii iu\
+b大 d a\
+b大 d ai\
+b大别山 d a b ie sh an\
+b大部分 d a b u f en\
+b大臣 d a ch en\
+b大大 d a d a\
+b大胆 d a d an\
+b大道 d a d ao\
+b大地 d a d i\
+b大都 d a d ou\
+b大都 d a d u\
+b大多 d a d uo\
+b大多数 d a d uo sh u\
+b大夫 d ai f u\
+b大幅度 d a f u d u\
+b大概 d a g ai\
+b大搞 d a g ao\
+b大规模 d a g ui m o\
+b大海 d a h ai\
+b大汉 d a h an\
+b大红 d a h ong\
+b大户 d a h u\
+b大会 d a h ui\
+b大家 d a j ia\
+b大惊失色 d a j ing sh ix s e\
+b大块 d a k uai\
+b大连 d a l ian\
+b大量 d a l iang\
+b大陆 d a l u\
+b大马哈鱼 d a m a h a vv v\
+b大忙人 d a m ang r en\
+b大门 d a m en\
+b大棚 d a p eng\
+b大篷车 d a p eng ch e\
+b大平 d a p ing\
+b大企业 d a q i ii ie\
+b大群 d a q vn\
+b大嫂 d a s ao\
+b大声 d a sh eng\
+b大师 d a sh ix\
+b大使 d a sh ix\
+b大蒜 d a s uan\
+b大提琴 d a t i q in\
+b大田 d a t ian\
+b大厅 d a t ing\
+b大同 d a t ong\
+b大弯 d a uu uan\
+b大碗茶 d a uu uan ch a\
+b大小 d a x iao\
+b大型 d a x ing\
+b大选 d a x van\
+b大学 d a x ve\
+b大眼睛 d a ii ian j ing\
+b大勇 d a ii iong\
+b大约 d a vv ve\
+b大寨 d a zh ai\
+b大涨 d a zh ang\
+b大众 d a zh ong\
+b大宗 d a z ong\
+b呆 d ai\
+b呆呆 d ai d ai\
+b歹人 d ai r en\
+b歹徒 d ai t u\
+b戴 d ai\
+b戴维 d ai uu ui\
+b带 d ai\
+b带动 d ai d ong\
+b带回 d ai h ui\
+b带来 d ai l ai\
+b带领 d ai l ing\
+b带头 d ai t ou\
+b代 d ai\
+b代表 d ai b iao\
+b贷 d ai\
+b待 d ai\
+b待业 d ai ii ie\
+b担 d an\
+b担 d an\
+b担任 d an r en\
+b单 ch an\
+b单 d an\
+b单 sh an\
+b单词 d an c iy\
+b单独 d an d u\
+b单井 d an j ing\
+b单人 d an r en\
+b单位 d an uu ui\
+b单一 d an ii i\
+b但 d an\
+b但是 d an sh ix\
+b但愿 d an vv van\
+b淡 d an\
+b淡紫 d an z iy\
+b诞生 d an sh eng\
+b弹性 t an x ing\
+b弹药 d an ii iao\
+b弹指 t an zh ix\
+b当 d ang\
+b当 d ang\
+b当场 d ang ch ang\
+b当地 d ang d i\
+b当儿 d ang ee er\
+b当家 d ang j ia\
+b当今 d ang j in\
+b当年 d ang n ian\
+b当铺 d ang p u\
+b当前 d ang q ian\
+b当然 d ang r an\
+b当时 d ang sh ix\
+b当天 d ang t ian\
+b当中 d ang zh ong\
+b当做 d ang z uo\
+b挡住 d ang zh u\
+b党建 d ang j ian\
+b党人 d ang r en\
+b党支部 d ang zh ix b u\
+b党中央 d ang zh ong ii iang\
+b荡 d ang\
+b刀 d ao\
+b蹈 d ao\
+b倒 d ao\
+b倒 d ao\
+b倒出 d ao ch u\
+b倒塌 d ao t a\
+b倒下 d ao x ia\
+b岛 d ao\
+b岛上 d ao sh ang\
+b岛上 d ao sh ang\
+b导 d ao\
+b导演 d ao ii ian\
+b导致 d ao zh ix\
+b到 d ao\
+b到达 d ao d a\
+b到了 d ao l e\
+b到了晚上 d ao l e uu uan sh ang\
+b到期 d ao q i\
+b稻草 d ao c ao\
+b稻谷 d ao g u\
+b道 d ao\
+b道理 d ao l i\
+b道情 d ao q ing\
+b盗 d ao\
+b盗版 d ao b an\
+b盗墓 d ao m u\
+b盗窃 d ao q ie\
+b德 d e\
+b德国 d e g uo\
+b德勤 d e q in\
+b德意 d e ii i\
+b德育 d e vv v\
+b得 d e\
+b得 d e\
+b得 d ei\
+b得到 d e d ao\
+b得名 d e m ing\
+b得志 d e zh ix\
+b的 d e\
+b的 d i\
+b的 d i\
+b的确 d i q ve\
+b蹬 d eng\
+b灯 d eng\
+b登 d eng\
+b登记 d eng j i\
+b登山队 d eng sh an d ui\
+b登台 d eng t ai\
+b等 d eng\
+b等待 d eng d ai\
+b等等 d eng d eng\
+b等人 d eng r en\
+b等于 d eng vv v\
+b邓 d eng\
+b堤 d i\
+b低 d i\
+b低沉 d i ch en\
+b低平 d i p ing\
+b低温 d i uu un\
+b低于 d i vv v\
+b迪 d i\
+b敌后 d i h ou\
+b敌军 d i j vn\
+b敌人 d i r en\
+b敌占区 d i zh an q v\
+b翟 d i\
+b翟 zh ai\
+b嫡亲 d i q in\
+b抵 d i\
+b抵达 d i d a\
+b抵抗 d i k ang\
+b抵赖 d i l ai\
+b抵押 d i ii ia\
+b底 d i\
+b底儿 d i ee er\
+b底片 d i p ian\
+b底色 d i s e\
+b地 d e\
+b地 d i\
+b地处 d i ch u\
+b地点 d i d ian\
+b地方 d i f ang\
+b地瓜 d i g ua\
+b地壳 d i q iao\
+b地雷 d i l ei\
+b地理位置 d i l i uu ui zh ix\
+b地名 d i m ing\
+b地膜 d i m o\
+b地区 d i q v\
+b地上 d i sh ang\
+b地市 d i sh ix\
+b地说 d i sh uo\
+b地毯 d i t an\
+b地望 d i uu uang\
+b地位 d i uu ui\
+b地下 d i x ia\
+b地域 d i vv v\
+b蒂 d i\
+b第 d i\
+b第二 d i ee er\
+b第二次 d i ee er c iy\
+b第二阶段 d i ee er j ie d uan\
+b第二年 d i ee er n ian\
+b第六 d i l iu\
+b第三 d i s an\
+b第三名 d i s an m ing\
+b第四册 d i s iy c e\
+b第五 d i uu u\
+b第一 d i ii i\
+b第一大 d i ii i d a\
+b第一批 d i ii i p i\
+b第一线 d i ii i x ian\
+b帝 d i\
+b弟 d i\
+b弟兄 d i x iong\
+b递 d i\
+b缔造 d i z ao\
+b颠倒 d ian d ao\
+b颠簸 d ian b o\
+b点 d ian\
+b点点 d ian d ian\
+b点缀 d ian zh ui\
+b典范 d ian f an\
+b典礼 d ian l i\
+b靛 d ian\
+b电 d ian\
+b电厂 d ian ch ang\
+b电动 d ian d ong\
+b电话 d ian h ua\
+b电缆 d ian l an\
+b电力 d ian l i\
+b电炉 d ian l u\
+b电脑技术 d ian n ao j i sh u\
+b电热 d ian r e\
+b电视 d ian sh ix\
+b电网 d ian uu uang\
+b电线 d ian x ian\
+b电影 d ian ii ing\
+b电站 d ian zh an\
+b电子 d ian z iy\
+b惦 d ian\
+b奠定 d ian d ing\
+b雕琢 d iao zh uo\
+b凋谢 d iao x ie\
+b掉 d iao\
+b吊 d iao\
+b调 d iao\
+b调 t iao\
+b调查 d iao ch a\
+b调成 d iao ch eng\
+b调和 t iao h e\
+b调皮捣蛋 t iao p i d ao d an\
+b调入 d iao r u\
+b调整 t iao zh eng\
+b跌倒 d ie d ao\
+b爹 d ie\
+b蝶 d ie\
+b叠 d ie\
+b叠嶂 d ie zh ang\
+b丁 d ing\
+b叮当 d ing d ang\
+b叮咛 d ing n ing\
+b钉 d ing\
+b顶 d ing\
+b顶风 d ing f eng\
+b顶呱呱 d ing g ua g ua\
+b定 d ing\
+b定出 d ing ch u\
+b定慧 d ing h ui\
+b定力 d ing l i\
+b定时炸弹 d ing sh ix zh a d an\
+b定向 d ing x iang\
+b订 d ing\
+b订货会 d ing h uo h ui\
+b订价 d ing j ia\
+b丢 d iu\
+b丢了 d iu l e\
+b丢下 d iu x ia\
+b东 d ong\
+b东岸 d ong aa an\
+b东半球 d ong b an q iu\
+b东北部 d ong b ei b u\
+b东北军 d ong b ei j vn\
+b东奔西跑 d ong b en x i p ao\
+b东渡 d ong d u\
+b东方 d ong f ang\
+b东京 d ong j ing\
+b东经 d ong j ing\
+b东扩 d ong k uo\
+b东楼 d ong l ou\
+b东门外 d ong m en uu uai\
+b东南亚 d ong n an ii ia\
+b东三环 d ong s an h uan\
+b东山 d ong sh an\
+b东山区 d ong sh an q v\
+b东西方 d ong x i f ang\
+b东阳 d ong ii iang\
+b冬 d ong\
+b冬奥会 d ong aa ao h ui\
+b冬暖 d ong n uan\
+b董鄂 d ong ee e\
+b董事长 d ong sh ix zh ang\
+b董文华 d ong uu un h ua\
+b动 d ong\
+b动脉 d ong m ai\
+b动手 d ong sh ou\
+b动物 d ong uu u\
+b动用 d ong ii iong\
+b动作 d ong z uo\
+b栋 d ong\
+b洞 d ong\
+b洞悉 d ong x i\
+b洞穴 d ong x ve\
+b斗 d ou\
+b斗 d ou\
+b陡峭 d ou q iao\
+b陡然 d ou r an\
+b豆腐 d ou f u\
+b豆腐脑 d ou f u n ao\
+b都 d ou\
+b都 d u\
+b都是 d ou sh ix\
+b都一样 d ou ii i ii iang\
+b毒品 d u p in\
+b毒死 d u s iy\
+b独木桥 d u m u q iao\
+b读 d u\
+b读物 d u uu u\
+b读者 d u zh e\
+b堵住 d u zh u\
+b赌博 d u b o\
+b杜 d u\
+b度 d u\
+b度 d uo\
+b度过难关 d u g uo n an g uan\
+b度假 d u j ia\
+b端 d uan\
+b短 d uan\
+b短短 d uan d uan\
+b短篇小说 d uan p ian x iao sh uo\
+b短期 d uan q i\
+b短途 d uan t u\
+b短暂 d uan z an\
+b锻炼 d uan l ian\
+b段 d uan\
+b断 d uan\
+b堆 d ui\
+b兑现 d ui x ian\
+b队 d ui\
+b队长 d ui zh ang\
+b队友 d ui ii iu\
+b队员 d ui vv van\
+b对 d ui\
+b对此 d ui c iy\
+b对方 d ui f ang\
+b对话 d ui h ua\
+b对接 d ui j ie\
+b对口 d ui k ou\
+b对立 d ui l i\
+b对马 d ui m a\
+b对手 d ui sh ou\
+b对外 d ui uu uai\
+b对于 d ui vv v\
+b对於 d ui vv v\
+b墩 d un\
+b吨 d un\
+b敦煌 d un h uang\
+b顿 d un\
+b顿觉 d un j ve\
+b囤 d un\
+b囤 t un\
+b钝 d un\
+b多 d uo\
+b多半 d uo b an\
+b多次 d uo c iy\
+b多方 d uo f ang\
+b多个 d uo g e\
+b多怪 d uo g uai\
+b多吉 d uo j i\
+b多久 d uo j iu\
+b多来 d uo l ai\
+b多媒体 d uo m ei t i\
+b多美 d uo m ei\
+b多名 d uo m ing\
+b多少 d uo sh ao\
+b多数 d uo sh u\
+b多斯桑托斯 d uo s iy s ang t uo s iy\
+b多糖 d uo t ang\
+b多头 d uo t ou\
+b多万 d uo uu uan\
+b多味 d uo uu ui\
+b多样 d uo ii iang\
+b多余 d uo vv v\
+b多元 d uo vv van\
+b多种 d uo zh ong\
+b夺 d uo\
+b夺得 d uo d e\
+b夺走 d uo z ou\
+b躲 d uo\
+b朵 d uo\
+b蛾 ee e\
+b俄 ee e\
+b俄方 ee e f ang\
+b俄共 ee e g ong\
+b俄国 ee e g uo\
+b俄罗斯 ee e l uo s iy\
+b俄语 ee e vv v\
+b额 ee e\
+b额外 ee e uu uai\
+b恶 ee e\
+b恶 ee e\
+b恶 uu u\
+b恶毒 ee e d u\
+b恶劣 ee e l ie\
+b恶魔 ee e m o\
+b恶性循环 ee e x ing x vn h uan\
+b恶性肿瘤 ee e x ing zh ong l iu\
+b厄 ee e\
+b厄瓜多尔 ee e g ua d uo ee er\
+b扼制 ee e zh ix\
+b扼住 ee e zh u\
+b扼住 ee e zh u\
+b鄂 ee e\
+b饿 ee e\
+b恩 ee en\
+b恩波 ee en b o\
+b恩宠 ee en ch ong\
+b恩赐 ee en c iy\
+b而 ee er\
+b而成 ee er ch eng\
+b而今 ee er j in\
+b而论 ee er l un\
+b而且 ee er q ie\
+b而去 ee er q v\
+b而上 ee er sh ang\
+b而是 ee er sh ix\
+b而行 ee er x ing\
+b而已 ee er ii i\
+b而又 ee er ii iu\
+b儿 ee er\
+b儿女 ee er n v\
+b儿童 ee er t ong\
+b儿童玩具 ee er t ong uu uan j v\
+b儿媳 ee er x i\
+b儿子 ee er z iy\
+b耳 ee er\
+b耳塞 ee er s ai\
+b耳语 ee er vv v\
+b尔 ee er\
+b洱 ee er\
+b洱海 ee er h ai\
+b二 ee er\
+b二八 ee er b a\
+b二百 ee er b ai\
+b二百多 ee er b ai d uo\
+b二哥 ee er g e\
+b二个 ee er g e\
+b二话没说 ee er h ua m ei sh uo\
+b二连 ee er l ian\
+b二林 ee er l in\
+b二毛 ee er m ao\
+b二秒 ee er m iao\
+b二期 ee er q i\
+b二七 ee er q i\
+b二千 ee er q ian\
+b二人 ee er r en\
+b二嫂 ee er s ao\
+b二婶 ee er sh en\
+b二十 ee er sh ix\
+b二十八 ee er sh ix b a\
+b二十八日 ee er sh ix b a r iz\
+b二十八万 ee er sh ix b a uu uan\
+b二十八万 ee er sh ix b a uu uan\
+b二十二 ee er sh ix ee er\
+b二十九日 ee er sh ix j iu r iz\
+b二十九日 ee er sh ix j iu r iz\
+b二十六 ee er sh ix l iu\
+b二十六日 ee er sh ix l iu r iz\
+b二十六日 ee er sh ix l iu r iz\
+b二十七 ee er sh ix q i\
+b二十七日 ee er sh ix q i r iz\
+b二十七日 ee er sh ix q i r iz\
+b二十三 ee er sh ix s an\
+b二十三日 ee er sh ix s an r iz\
+b二十三日 ee er sh ix s an r iz\
+b二十四 ee er sh ix s iy\
+b二十万 ee er sh ix uu uan\
+b二十五 ee er sh ix uu u\
+b二十五日 ee er sh ix uu u r iz\
+b二十一 ee er sh ix ii i\
+b二十一日 ee er sh ix ii i r iz\
+b二十一日 ee er sh ix ii i r iz\
+b二十一世纪 ee er sh ix ii i sh ix j i\
+b二十一世纪 ee er sh ix ii i sh ix j i\
+b二团 ee er t uan\
+b二万 ee er uu uan\
+b二万多 ee er uu uan d uo\
+b二小姐 ee er x iao j ie\
+b二氧化硅 ee er ii iang h ua g ui\
+b二氧化硫 ee er ii iang h ua l iu\
+b二氧化碳 ee er ii iang h ua t an\
+b二元 ee er vv van\
+b二月 ee er vv ve\
+b发 f a\
+b发 f a\
+b发表 f a b iao\
+b发病 f a b ing\
+b发布 f a b u\
+b发财 f a c ai\
+b发出 f a ch u\
+b发电量 f a d ian l iang\
+b发动 f a d ong\
+b发动机 f a d ong j i\
+b发光 f a g uang\
+b发红 f a h ong\
+b发挥 f a h ui\
+b发掘 f a j ve\
+b发令枪 f a l ing q iang\
+b发明 f a m ing\
+b发烧 f a sh ao\
+b发射 f a sh e\
+b发生 f a sh eng\
+b发生意外 f a sh eng ii i uu uai\
+b发售 f a sh ou\
+b发下 f a x ia\
+b发现 f a x ian\
+b发行 f a x ing\
+b发芽 f a ii ia\
+b发烟 f a ii ian\
+b发言人 f a ii ian r en\
+b发音 f a ii in\
+b发育 f a vv v\
+b发展 f a zh an\
+b发作 f a z uo\
+b罚款 f a k uan\
+b法 f a\
+b法律 f a l v\
+b法西斯 f a x i s iy\
+b法医 f a ii i\
+b法院 f a vv van\
+b藩 f an\
+b番禺 p an vv v\
+b翻 f an\
+b翻腾 f an t eng\
+b翻阅 f an vv ve\
+b翻转 f an zh uan\
+b繁 f an\
+b繁忙 f an m ang\
+b繁殖 f an zh ix\
+b凡 f an\
+b反 f an\
+b反动派 f an d ong p ai\
+b反对 f an d ui\
+b反而 f an ee er\
+b反思 f an s iy\
+b反应 f an ii ing\
+b反映 f an ii ing\
+b反正 f an zh eng\
+b返 f an\
+b返工 f an g ong\
+b返回 f an h ui\
+b范 f an\
+b范围 f an uu ui\
+b贩运 f an vv vn\
+b犯 f an\
+b犯罪 f an z ui\
+b犯罪分子 f an z ui f en z iy\
+b饭 f an\
+b饭店 f an d ian\
+b饭后 f an h ou\
+b饭团 f an t uan\
+b饭香 f an x iang\
+b泛 f an\
+b芳 f ang\
+b方 f ang\
+b方案 f ang aa an\
+b方便 f ang b ian\
+b方法 f ang f a\
+b方方正正 f ang f ang zh eng zh eng\
+b方面 f ang m ian\
+b方式 f ang sh ix\
+b方圆 f ang vv van\
+b房间 f ang j ian\
+b房客 f ang k e\
+b房子 f ang z iy\
+b防 f ang\
+b防暴 f ang b ao\
+b防病 f ang b ing\
+b防弹 f ang d an\
+b防盗 f ang d ao\
+b防伪 f ang uu ui\
+b防疫 f ang ii i\
+b防止 f ang zh ix\
+b仿佛 f ang f u\
+b仿制 f ang zh ix\
+b访 f ang\
+b访华 f ang h ua\
+b访问 f ang uu un\
+b纺织 f ang zh ix\
+b放 f ang\
+b放回 f ang h ui\
+b放慢 f ang m an\
+b放弃 f ang q i\
+b放晴 f ang q ing\
+b放心 f ang x in\
+b放学后 f ang x ve h ou\
+b放眼 f ang ii ian\
+b放映 f ang ii ing\
+b放在 f ang z ai\
+b非 f ei\
+b非常 f ei ch ang\
+b非得 f ei d ei\
+b非法 f ei f a\
+b非同小可 f ei t ong x iao k e\
+b非洲 f ei zh ou\
+b啡 f ei\
+b飞 f ei\
+b飞虫 f ei ch ong\
+b飞蛾 f ei ee e\
+b飞蛾扑火 f ei ee e p u h uo\
+b飞机 f ei j i\
+b飞往 f ei uu uang\
+b飞舞 f ei uu u\
+b飞行 f ei x ing\
+b飞行物 f ei x ing uu u\
+b飞行员 f ei x ing vv van\
+b肥 f ei\
+b肥胖 f ei p ang\
+b肥嘟嘟 f ei d u d u\
+b诽谤 f ei b ang\
+b废 f ei\
+b废掉 f ei d iao\
+b废旧 f ei j iu\
+b废水 f ei sh ui\
+b沸沸扬扬 f ei f ei ii iang ii iang\
+b费 f ei\
+b费尽 f ei j in\
+b费孝通 f ei x iao t ong\
+b费用 f ei ii iong\
+b芬芳 f en f ang\
+b吩咐 f en f u\
+b分 f en\
+b分 f en\
+b分别 f en b ie\
+b分布 f en b u\
+b分厂 f en ch ang\
+b分获 f en h uo\
+b分钱 f en q ian\
+b分散 f en s an\
+b分手算了 f en sh ou s uan l e\
+b分摊 f en t an\
+b分外 f en uu uai\
+b分为 f en uu ui\
+b分心 f en x in\
+b分行 f en h ang\
+b纷纷 f en f en\
+b焚 f en\
+b粉 f en\
+b粉红 f en h ong\
+b粉末 f en m o\
+b粉碎 f en s ui\
+b粉状 f en zh uang\
+b奋斗 f en d ou\
+b奋起 f en q i\
+b奋勇 f en ii iong\
+b奋战 f en zh an\
+b份 f en\
+b愤 f en\
+b愤怒 f en n u\
+b丰碑 f eng b ei\
+b丰富 f eng f u\
+b丰功 f eng g ong\
+b丰收 f eng sh ou\
+b丰台区 f eng t ai q v\
+b封 f eng\
+b封闭 f eng b i\
+b封山育林 f eng sh an vv v l in\
+b蜂 f eng\
+b蜂拥 f eng ii iong\
+b风 f eng\
+b风吹 f eng ch ui\
+b风吹雨打 f eng ch ui vv v d a\
+b风格 f eng g e\
+b风骨 f eng g u\
+b风光 f eng g uang\
+b风化 f eng h ua\
+b风口 f eng k ou\
+b风浪 f eng l ang\
+b风雷 f eng l ei\
+b风平浪静 f eng p ing l ang j ing\
+b风情 f eng q ing\
+b风湿 f eng sh ix\
+b风物 f eng uu u\
+b风姿 f eng z iy\
+b疯狂 f eng k uang\
+b疯了 f eng l e\
+b疯牛病 f eng n iu b ing\
+b疯子 f eng z iy\
+b逢年过节 f eng n ian g uo j ie\
+b冯 f eng\
+b奉献 f eng x ian\
+b佛 f o\
+b佛法 f o f a\
+b佛光 f o g uang\
+b佛教 f o j iao\
+b佛手 f o sh ou\
+b否定 f ou d ing\
+b否决 f ou j ve\
+b否认 f ou r en\
+b否则 f ou z e\
+b夫 f u\
+b夫妇 f u f u\
+b夫人 f u r en\
+b肤色 f u s e\
+b孵卵 f u l uan\
+b扶 f u\
+b扶持 f u ch ix\
+b幅员 f u vv van\
+b氟 f u\
+b服 f u\
+b服兵役 f u b ing ii i\
+b服毒 f u d u\
+b服务 f u uu u\
+b服务项目 f u uu u x iang m u\
+b服用 f u ii iong\
+b浮标 f u b iao\
+b浮云 f u vv vn\
+b福 f u\
+b福安 f u aa an\
+b福临 f u l in\
+b福耀 f u ii iao\
+b弗 f u\
+b甫 f u\
+b抚养费 f u ii iang f ei\
+b俯卧 f u uu uo\
+b府 f u\
+b腐蚀 f u sh ix\
+b赴 f u\
+b副 f u\
+b副官 f u g uan\
+b副主席 f u zh u x i\
+b复赛 f u s ai\
+b复杂 f u z a\
+b傅 f u\
+b付给 f u g ei\
+b付与 f u vv v\
+b阜外 f u uu uai\
+b父 f u\
+b父母亲 f u m u q in\
+b父母亲 f u m u q in\
+b父亲 f u q in\
+b腹中 f u zh ong\
+b负 f u\
+b负担 f u d an\
+b负伤 f u sh ang\
+b负有 f u ii iu\
+b负责 f u z e\
+b负责制 f u z e zh ix\
+b负债 f u zh ai\
+b富 f u\
+b富贵 f u g ui\
+b富含 f u h an\
+b富裕 f u vv v\
+b富裕 f u vv v\
+b附 f u\
+b附庸风雅 f u ii iong f eng ii ia\
+b妇产科 f u ch an k e\
+b妇女 f u n v\
+b妇女儿童 f u n v ee er t ong\
+b妇人 f u r en\
+b嘎 g a\
+b该 g ai\
+b该厂 g ai ch ang\
+b该矿 g ai k uang\
+b该片 g ai p ian\
+b该片 g ai p ian\
+b该市 g ai sh ix\
+b该书 g ai sh u\
+b该院 g ai vv van\
+b该怎样 g ai z en ii iang\
+b该镇 g ai zh en\
+b该州 g ai zh ou\
+b改 g ai\
+b改变 g ai b ian\
+b改革 g ai g e\
+b改名 g ai m ing\
+b改任 g ai r en\
+b改为 g ai uu ui\
+b改选 g ai x van\
+b改造 g ai z ao\
+b改正 g ai zh eng\
+b概括 g ai k uo\
+b概述 g ai sh u\
+b概要 g ai ii iao\
+b盖 g ai\
+b盖儿 g ai ee er\
+b盖楼 g ai l ou\
+b盖上 g ai sh ang\
+b盖上 g ai sh ang\
+b盖亚 g ai ii ia\
+b盖亚 g ai ii ia\
+b干 g an\
+b干 g an\
+b干部 g an b u\
+b干脆 g an c ui\
+b干活 g an h uo\
+b干粮 g an l iang\
+b干粮 g an l iang\
+b干扰 g an r ao\
+b干线 g an x ian\
+b干预 g an vv v\
+b甘薯 g an sh u\
+b甘甜 g an t ian\
+b杆 g an\
+b杆 g an\
+b柑桔 g an j v\
+b肝癌 g an aa ai\
+b赶 g an\
+b赶紧 g an j in\
+b赶快 g an k uai\
+b赶来 g an l ai\
+b赶往 g an uu uang\
+b感 g an\
+b感触 g an ch u\
+b感到 g an d ao\
+b感激涕零 g an j i t i l ing\
+b感觉 g an j ve\
+b感冒 g an m ao\
+b感受 g an sh ou\
+b感叹 g an t an\
+b感谢 g an x ie\
+b感兴趣 g an x ing q v\
+b感应 g an ii ing\
+b敢 g an\
+b敢死队 g an s iy d ui\
+b敢于 g an vv v\
+b敢做 g an z uo\
+b赣 g an\
+b冈 g ang\
+b刚 g ang\
+b刚才 g ang c ai\
+b刚刚 g ang g ang\
+b刚巧 g ang q iao\
+b钢 g ang\
+b钢铁 g ang t ie\
+b钢渣 g ang zh a\
+b缸子 g ang z iy\
+b纲 g ang\
+b岗位 g ang uu ui\
+b港 g ang\
+b港澳 g ang aa ao\
+b港区 g ang q v\
+b高 g ao\
+b高层 g ao c eng\
+b高处 g ao ch u\
+b高达 g ao d a\
+b高低 g ao d i\
+b高额 g ao ee e\
+b高尔基 g ao ee er j i\
+b高寒 g ao h an\
+b高级 g ao j i\
+b高粱 g ao l iang\
+b高龄 g ao l ing\
+b高能 g ao n eng\
+b高墙 g ao q iang\
+b高僧 g ao s eng\
+b高手 g ao sh ou\
+b高速 g ao s u\
+b高温 g ao uu un\
+b高下 g ao x ia\
+b高校 g ao x iao\
+b高效率 g ao x iao l v\
+b高效率 g ao x iao l v\
+b高雅 g ao ii ia\
+b高扬 g ao ii iang\
+b高一 g ao ii i\
+b高于 g ao vv v\
+b高原 g ao vv van\
+b高远 g ao vv van\
+b高跷 g ao q iao\
+b搞 g ao\
+b搞错 g ao c uo\
+b稿子 g ao z iy\
+b告 g ao\
+b告老还乡 g ao l ao h uan x iang\
+b告诉 g ao s u\
+b告诉 g ao s u\
+b告知 g ao zh ix\
+b哥 g e\
+b哥伦比亚 g e l un b i ii ia\
+b歌 g e\
+b歌舞剧 g e uu u j v\
+b戈 g e\
+b胳膊 g e b o\
+b胳膊肘 g e b o zh ou\
+b革命 g e m ing\
+b革新 g e x in\
+b格 g e\
+b格尔 g e ee er\
+b格局 g e j v\
+b格林 g e l in\
+b格外 g e uu uai\
+b隔绝 g e j ve\
+b铬 g e\
+b个 g e\
+b个别 g e b ie\
+b个人 g e r en\
+b个数 g e sh u\
+b个数 g e sh u\
+b个体 g e t i\
+b各 g e\
+b各地 g e d i\
+b各级 g e j i\
+b各界 g e j ie\
+b各类 g e l ei\
+b各区 g e q v\
+b各人 g e r en\
+b各式 g e sh ix\
+b各种 g e zh ong\
+b各自 g e z iy\
+b给 g ei\
+b给 j i\
+b给女儿 g ei n v ee er\
+b给养 j i ii iang\
+b给予 j i vv v\
+b根 g en\
+b根本 g en b en\
+b根据 g en j v\
+b根据地 g en j v d i\
+b跟 g en\
+b跟随 g en s ui\
+b跟着 g en zh e\
+b耕 g eng\
+b耕地 g eng d i\
+b耕牛 g eng n iu\
+b耕耘 g eng vv vn\
+b更 g eng\
+b更 g eng\
+b更大 g eng d a\
+b更迭 g eng d ie\
+b更多 g eng d uo\
+b更加 g eng j ia\
+b更是 g eng sh ix\
+b更为 g eng uu ui\
+b更早 g eng z ao\
+b更正 g eng zh eng\
+b更重要 g eng zh ong ii iao\
+b羹 g eng\
+b工 g ong\
+b工厂 g ong ch ang\
+b工程 g ong ch eng\
+b工程量 g ong ch eng l iang\
+b工程院 g ong ch eng vv van\
+b工人 g ong r en\
+b工事 g ong sh ix\
+b工学 g ong x ve\
+b工业 g ong ii ie\
+b工业区 g ong ii ie q v\
+b工资 g ong z iy\
+b工作 g ong z uo\
+b工作面 g ong z uo m ian\
+b攻 g ong\
+b功 g ong\
+b功夫 g ong f u\
+b功力 g ong l i\
+b功能 g ong n eng\
+b龚 g ong\
+b供 g ong\
+b供 g ong\
+b供养 g ong ii iang\
+b供养 g ong ii iang\
+b供应 g ong ii ing\
+b供应 g ong ii ing\
+b公 g ong\
+b公安局 g ong aa an j v\
+b公安人员 g ong aa an r en vv van\
+b公安厅 g ong aa an t ing\
+b公报 g ong b ao\
+b公共 g ong g ong\
+b公斤 g ong j in\
+b公里 g ong l i\
+b公路 g ong l u\
+b公司 g ong s iy\
+b公寓 g ong vv v\
+b公元 g ong vv van\
+b公元前 g ong vv van q ian\
+b公约 g ong vv ve\
+b公主 g ong zh u\
+b宫 g ong\
+b弓 g ong\
+b弓弩 g ong n u\
+b巩 g ong\
+b贡山 g ong sh an\
+b贡献 g ong x ian\
+b共 g ong\
+b共产党员 g ong ch an d ang vv van\
+b共创 g ong ch uang\
+b共和 g ong h e\
+b共和党 g ong h e d ang\
+b共和国 g ong h e g uo\
+b共计 g ong j i\
+b共建 g ong j ian\
+b共生 g ong sh eng\
+b共识 g ong sh ix\
+b共同 g ong t ong\
+b共同努力 g ong t ong n u l i\
+b共同探讨 g ong t ong t an t ao\
+b共享 g ong x iang\
+b共有 g ong ii iu\
+b钩 g ou\
+b勾 g ou\
+b勾 g ou\
+b勾引 g ou ii in\
+b沟 g ou\
+b狗 g ou\
+b构思 g ou s iy\
+b构筑 g ou zh u\
+b购买 g ou m ai\
+b购物 g ou uu u\
+b购置 g ou zh ix\
+b够 g ou\
+b咕噜 g u l u\
+b咕噜 g u l u\
+b估计 g u j i\
+b孤单 g u d an\
+b姑娘 g u n iang\
+b姑嫂 g u s ao\
+b姑爷 g u ii ie\
+b鼓起勇气 g u q i ii iong q i\
+b古 g u\
+b古巴 g u b a\
+b古代 g u d ai\
+b古籍 g u j i\
+b古建筑 g u j ian zh u\
+b古罗马 g u l uo m a\
+b古朴 g u p u\
+b古希腊 g u x i l a\
+b古雅 g u ii ia\
+b骨 g u\
+b骨 g u\
+b骨灰盒 g u h ui h e\
+b骨折 g u zh e\
+b谷城 g u ch eng\
+b谷底 g u d i\
+b股 g u\
+b故 g u\
+b故去 g u q v\
+b故土 g u t u\
+b故友 g u ii iu\
+b顾 g u\
+b顾客 g u k e\
+b顾问 g u uu un\
+b固定汇率 g u d ing h ui l v\
+b固镇 g u zh en\
+b刮 g ua\
+b瓜 g ua\
+b寡不敌众 g ua b u d i zh ong\
+b挂 g ua\
+b挂钩 g ua g ou\
+b乖张 g uai zh ang\
+b拐卖 g uai m ai\
+b怪 g uai\
+b怪病 g uai b ing\
+b怪事 g uai sh ix\
+b怪物 g uai uu u\
+b关 g uan\
+b关闭 g uan b i\
+b关怀备至 g uan h uai b ei zh ix\
+b关进 g uan j in\
+b关税 g uan sh ui\
+b关系 g uan x i\
+b关心 g uan x in\
+b关于 g uan vv v\
+b关照 g uan zh ao\
+b关注 g uan zh u\
+b官 g uan\
+b官兵 g uan b ing\
+b官方 g uan f ang\
+b官军 g uan j vn\
+b官员 g uan vv van\
+b官邸 g uan d i\
+b冠军 g uan j vn\
+b观 g uan\
+b观察 g uan ch a\
+b观看 g uan k an\
+b观念 g uan n ian\
+b观赏 g uan sh ang\
+b观众 g uan zh ong\
+b管 g uan\
+b管理 g uan l i\
+b管理局 g uan l i j v\
+b管理条例 g uan l i t iao l i\
+b管制 g uan zh ix\
+b馆 g uan\
+b馆里 g uan l i\
+b馆内 g uan n ei\
+b馆员 g uan vv van\
+b罐头 g uan t ou\
+b惯 g uan\
+b灌区 g uan q v\
+b贯 g uan\
+b光 g uang\
+b光膀子 g uang b ang z iy\
+b光波 g uang b o\
+b光顾 g uang g u\
+b光棍 g uang g un\
+b光环 g uang h uan\
+b光洁 g uang j ie\
+b光洁度 g uang j ie d u\
+b光亮 g uang l iang\
+b光溜溜 g uang l iu l iu\
+b光芒 g uang m ang\
+b光盘 g uang p an\
+b光谱 g uang p u\
+b光荣 g uang r ong\
+b光耀 g uang ii iao\
+b光影 g uang ii ing\
+b广 g uang\
+b广播 g uang b o\
+b广场 g uang ch ang\
+b广大 g uang d a\
+b广岛 g uang d ao\
+b广东人 g uang d ong r en\
+b广泛 g uang f an\
+b广告 g uang g ao\
+b广告公司 g uang g ao g ong s iy\
+b广告业 g uang g ao ii ie\
+b广阔 g uang k uo\
+b广为 g uang uu ui\
+b广西 g uang x i\
+b广州 g uang zh ou\
+b广州队 g uang zh ou d ui\
+b规 g ui\
+b规定 g ui d ing\
+b规划 g ui h ua\
+b规模 g ui m o\
+b规整 g ui zh eng\
+b归 g ui\
+b归来 g ui l ai\
+b归属 g ui sh u\
+b鬼 g ui\
+b鬼谷 g ui g u\
+b鬼屋 g ui uu u\
+b桂 g ui\
+b桂冠 g ui g uan\
+b桂云 g ui vv vn\
+b柜台 g ui t ai\
+b贵 g ui\
+b贵阳 g ui ii iang\
+b贵州 g ui zh ou\
+b滚 g un\
+b滚动 g un d ong\
+b滚滚 g un g un\
+b滚雪球 g un x ve q iu\
+b滚圆 g un vv van\
+b棍 g un\
+b棍棒 g un b ang\
+b锅 g uo\
+b郭 g uo\
+b国 g uo\
+b国奥队 g uo aa ao d ui\
+b国产 g uo ch an\
+b国臣 g uo ch en\
+b国防大学 g uo f ang d a x ve\
+b国和 g uo h e\
+b国会 g uo h ui\
+b国籍 g uo j i\
+b国际 g uo j i\
+b国际市场 g uo j i sh ix ch ang\
+b国际形势 g uo j i x ing sh ix\
+b国家 g uo j ia\
+b国库 g uo k u\
+b国林 g uo l in\
+b国民党 g uo m in d ang\
+b国难 g uo n an\
+b国内 g uo n ei\
+b国内外 g uo n ei uu uai\
+b国平 g uo p ing\
+b国外 g uo uu uai\
+b国王 g uo uu uang\
+b国务委员 g uo uu u uu ui vv van\
+b国务院 g uo uu u vv van\
+b国新 g uo x in\
+b国有企业 g uo ii iu q i ii ie\
+b国政 g uo zh eng\
+b果 g uo\
+b果然 g uo r an\
+b果园 g uo vv van\
+b果汁 g uo zh ix\
+b过 g uo\
+b过程 g uo ch eng\
+b过度 g uo d u\
+b过后 g uo h ou\
+b过客 g uo k e\
+b过滤 g uo l v\
+b过年 g uo n ian\
+b过去 g uo q v\
+b过眼云烟 g uo ii ian vv vn ii ian\
+b过于 g uo vv v\
+b哈 h a\
+b哈格 h a g e\
+b哈利 h a l i\
+b哈梅 h a m ei\
+b孩子 h ai z iy\
+b孩子们 h ai z iy m en\
+b海 h ai\
+b海拔 h ai b a\
+b海边 h ai b ian\
+b海风 h ai f eng\
+b海疆 h ai j iang\
+b海口市 h ai k ou sh ix\
+b海阔天空 h ai k uo t ian k ong\
+b海民 h ai m in\
+b海内外 h ai n ei uu uai\
+b海上 h ai sh ang\
+b海水 h ai sh ui\
+b海外 h ai uu uai\
+b海湾战争 h ai uu uan zh an zh eng\
+b海文 h ai uu un\
+b海峡 h ai x ia\
+b海星 h ai x ing\
+b海洋 h ai ii iang\
+b海豚 h ai t un\
+b害 h ai\
+b害虫 h ai ch ong\
+b害怕 h ai p a\
+b憨憨 h an h an\
+b韩 h an\
+b韩国 h an g uo\
+b韩晶 h an j ing\
+b韩愈 h an vv v\
+b含 h an\
+b含笑九泉 h an x iao j iu q van\
+b含蓄 h an x v\
+b含有 h an ii iu\
+b寒 h an\
+b寒冷 h an l eng\
+b寒气 h an q i\
+b寒山寺 h an sh an s iy\
+b喊声 h an sh eng\
+b旱情 h an q ing\
+b旱烟 h an ii ian\
+b汗 h an\
+b汗 h an\
+b汗流满面 h an l iu m an m ian\
+b汉 h an\
+b汉口 h an k ou\
+b汉生 h an sh eng\
+b汉王 h an uu uang\
+b汉文 h an uu un\
+b汉阳 h an ii iang\
+b汉语拼音 h an vv v p in ii in\
+b汉正街 h an zh eng j ie\
+b杭城 h ang ch eng\
+b杭州 h ang zh ou\
+b航 h ang\
+b航道 h ang d ao\
+b航空 h ang k ong\
+b航空兵 h ang k ong b ing\
+b航空器 h ang k ong q i\
+b航务 h ang uu u\
+b壕 h ao\
+b豪情 h ao q ing\
+b豪言壮语 h ao ii ian zh uang vv v\
+b毫不 h ao b u\
+b毫米 h ao m i\
+b郝 h ao\
+b好 h ao\
+b好 h ao\
+b好处 h ao ch u\
+b好看 h ao k an\
+b好评 h ao p ing\
+b好人 h ao r en\
+b好容易 h ao r ong ii i\
+b好生 h ao sh eng\
+b好事 h ao sh ix\
+b好书 h ao sh u\
+b好玩 h ao uu uan\
+b好习惯 h ao x i g uan\
+b好像 h ao x iang\
+b好转 h ao zh uan\
+b号 h ao\
+b浩大 h ao d a\
+b呵呵 h e h e\
+b喝 h e\
+b喝 h e\
+b喝完 h e uu uan\
+b核 h e\
+b核算 h e s uan\
+b核桃 h e t ao\
+b核心 h e x in\
+b和 h e\
+b和 h e\
+b和 h u\
+b和 h uo\
+b和 h uo\
+b和成 h e ch eng\
+b和平区 h e p ing q v\
+b和煦 h e x v\
+b何 h e\
+b何地 h e d i\
+b何某 h e m ou\
+b何物 h e uu u\
+b合 h e\
+b合编 h e b ian\
+b合并 h e b ing\
+b合肥 h e f ei\
+b合家欢 h e j ia h uan\
+b合理 h e l i\
+b合力 h e l i\
+b合龙 h e l ong\
+b合同 h e t ong\
+b合一 h e ii i\
+b合影 h e ii ing\
+b合着 h e zh e\
+b合作 h e z uo\
+b盒 h e\
+b貉子 h ao z iy\
+b貉子 h ao z iy\
+b河 h e\
+b河北省 h e b ei sh eng\
+b河谷 h e g u\
+b河流 h e l iu\
+b河南 h e n an\
+b河南省 h e n an sh eng\
+b河源 h e vv van\
+b赫然 h e r an\
+b贺 h e\
+b贺岁 h e s ui\
+b黑 h ei\
+b黑暗 h ei aa an\
+b黑白 h ei b ai\
+b黑布 h ei b u\
+b黑海 h ei h ai\
+b黑龙江省 h ei l ong j iang sh eng\
+b痕 h en\
+b很 h en\
+b很多 h en d uo\
+b很快 h en k uai\
+b很难 h en n an\
+b很容易 h en r ong ii i\
+b很相似 h en x iang s iy\
+b哼哼唧唧 h eng h eng j i j i\
+b亨德森 h eng d e s en\
+b横 h eng\
+b横 h eng\
+b横杆 h eng g an\
+b横跨 h eng k ua\
+b横卧 h eng uu uo\
+b衡量 h eng l iang\
+b恒 h eng\
+b恒通 h eng t ong\
+b轰动 h ong d ong\
+b哄抢 h ong q iang\
+b鸿 h ong\
+b洪 h ong\
+b洪都拉斯 h ong d u l a s iy\
+b洪魔 h ong m o\
+b洪森 h ong s en\
+b洪水 h ong sh ui\
+b洪武 h ong uu u\
+b红 h ong\
+b红绸 h ong ch ou\
+b红富士 h ong f u sh ix\
+b红光 h ong g uang\
+b红火 h ong h uo\
+b红绿 h ong l v\
+b红绿灯 h ong l v d eng\
+b红玫瑰 h ong m ei g ui\
+b红娘子 h ong n iang z iy\
+b红润 h ong r un\
+b红色 h ong s e\
+b红颜薄命 h ong ii ian b o m ing\
+b红砖 h ong zh uan\
+b喉管 h ou g uan\
+b喉咙 h ou l ong\
+b侯 h ou\
+b猴 h ou\
+b厚 h ou\
+b候选人 h ou x van r en\
+b后 h ou\
+b后窗 h ou ch uang\
+b后代 h ou d ai\
+b后来 h ou l ai\
+b后面 h ou m ian\
+b后勤部 h ou q in b u\
+b后人 h ou r en\
+b后腿 h ou t ui\
+b后院 h ou vv van\
+b呼 h u\
+b呼唤 h u h uan\
+b呼吸困难 h u x i k un n an\
+b呼吁 h u vv v\
+b乎 h u\
+b胡 h u\
+b胡耀邦 h u ii iao b ang\
+b湖 h u\
+b湖北省 h u b ei sh eng\
+b湖滨 h u b in\
+b湖口县 h u k ou x ian\
+b湖畔 h u p an\
+b护 h u\
+b护理 h u l i\
+b户 h u\
+b户外 h u uu uai\
+b花 h ua\
+b花瓣 h ua b an\
+b花都 h ua d u\
+b花岗岩 h ua g ang ii ian\
+b花卉 h ua h ui\
+b花轿 h ua j iao\
+b花圃 h ua p u\
+b花钱 h ua q ian\
+b花生 h ua sh eng\
+b花水 h ua sh ui\
+b花纹 h ua uu un\
+b花香 h ua x iang\
+b花鞋 h ua x ie\
+b花样 h ua ii iang\
+b花影 h ua ii ing\
+b花园 h ua vv van\
+b华 h ua\
+b华 h ua\
+b华北 h ua b ei\
+b华工 h ua g ong\
+b华里 h ua l i\
+b华隆 h ua l ong\
+b华侨 h ua q iao\
+b华沙 h ua sh a\
+b华沙 h ua sh a\
+b华星 h ua x ing\
+b华严 h ua ii ian\
+b滑 h ua\
+b滑过 h ua g uo\
+b画 h ua\
+b画笔 h ua b i\
+b画册 h ua c e\
+b画风 h ua f eng\
+b画画 h ua h ua\
+b画面 h ua m ian\
+b划 h ua\
+b划 h ua\
+b划出 h ua ch u\
+b划分 h ua f en\
+b划破 h ua p o\
+b划时代 h ua sh ix d ai\
+b划着 h ua zh ao\
+b划着 h ua zh e\
+b划着 h ua zh e\
+b化 h ua\
+b化合 h ua h e\
+b化身 h ua sh en\
+b化为 h ua uu ui\
+b化学 h ua x ve\
+b化学武器 h ua x ve uu u q i\
+b话 h ua\
+b话说 h ua sh uo\
+b话语 h ua vv v\
+b槐 h uai\
+b槐树 h uai sh u\
+b怀 h uai\
+b怀抱 h uai b ao\
+b怀揣 h uai ch uai\
+b怀恨在心 h uai h en z ai x in\
+b怀孕 h uai vv vn\
+b淮 h uai\
+b淮安 h uai aa an\
+b淮北 h uai b ei\
+b淮河 h uai h e\
+b淮南 h uai n an\
+b淮阴 h uai ii in\
+b坏 h uai\
+b坏掉 h uai d iao\
+b坏掉 h uai d iao\
+b坏毛病 h uai m ao b ing\
+b坏毛病 h uai m ao b ing\
+b坏脾气 h uai p i q i\
+b坏人 h uai r en\
+b欢 h uan\
+b欢迎 h uan ii ing\
+b环 h uan\
+b环境 h uan j ing\
+b环球 h uan q iu\
+b环视 h uan sh ix\
+b环形 h uan x ing\
+b桓 h uan\
+b还 h ai\
+b还 h uan\
+b还击 h uan j i\
+b还没有 h ai m ei ii iu\
+b还是 h ai sh ix\
+b还要 h ai ii iao\
+b还有 h ai ii iu\
+b还原 h uan vv van\
+b还在 h ai z ai\
+b换 h uan\
+b换句话说 h uan j v h ua sh uo\
+b换言之 h uan ii ian zh ix\
+b换衣服 h uan ii i f u\
+b患 h uan\
+b患病 h uan b ing\
+b患儿 h uan ee er\
+b患有 h uan ii iu\
+b患者 h uan zh e\
+b荒 h uang\
+b荒诞 h uang d an\
+b荒漠 h uang m o\
+b荒坡 h uang p o\
+b荒山野岭 h uang sh an ii ie l ing\
+b荒芜 h uang uu u\
+b荒原 h uang vv van\
+b慌忙 h uang m ang\
+b黄 h uang\
+b黄瓜 h uang g ua\
+b黄鹤楼 h uang h e l ou\
+b黄花 h uang h ua\
+b黄金 h uang j in\
+b黄龙 h uang l ong\
+b黄浦区 h uang p u q v\
+b黄土 h uang t u\
+b黄土高坡 h uang t u g ao p o\
+b黄土高原 h uang t u g ao vv van\
+b黄胄 h uang zh ou\
+b皇 h uang\
+b皇家 h uang j ia\
+b惶惶 h uang h uang\
+b灰 h ui\
+b灰色 h ui s e\
+b挥毫 h ui h ao\
+b辉 h ui\
+b辉煌 h ui h uang\
+b恢复 h ui f u\
+b回 h ui\
+b回荡 h ui d ang\
+b回到房间 h ui d ao f ang j ian\
+b回到家 h ui d ao j ia\
+b回国 h ui g uo\
+b回家 h ui j ia\
+b回扣 h ui k ou\
+b回来 h ui l ai\
+b回来 h ui l ai\
+b回廊 h ui l ang\
+b回笼 h ui l ong\
+b回娘家 h ui n iang j ia\
+b回去 h ui q v\
+b回升 h ui sh eng\
+b回收 h ui sh ou\
+b回头 h ui t ou\
+b回乡 h ui x iang\
+b回旋 h ui x van\
+b毁灭 h ui m ie\
+b慧娟 h ui j van\
+b晦 h ui\
+b晦暗 h ui aa an\
+b会 h ui\
+b会 k uai\
+b会场 h ui ch ang\
+b会长 h ui zh ang\
+b会计 k uai j i\
+b会见 h ui j ian\
+b会上 h ui sh ang\
+b会上 h ui sh ang\
+b会谈 h ui t an\
+b会心一笑 h ui x in ii i x iao\
+b会议 h ui ii i\
+b会议 h ui ii i\
+b汇合 h ui h e\
+b汇流 h ui l iu\
+b汇票 h ui p iao\
+b绘画 h ui h ua\
+b荤 h un\
+b昏暗 h un aa an\
+b昏头 h un t ou\
+b婚 h un\
+b婚礼 h un l i\
+b婚期 h un q i\
+b婚姻 h un ii in\
+b魂 h un\
+b浑 h un\
+b浑然一体 h un r an ii i t i\
+b浑身 h un sh en\
+b浑圆 h un vv van\
+b混 h un\
+b混 h un\
+b混合 h un h e\
+b混合 h un h e\
+b混帐 h un zh ang\
+b豁达 h uo d a\
+b活 h uo\
+b活动 h uo d ong\
+b活佛 h uo f o\
+b活生生 h uo sh eng sh eng\
+b活用 h uo ii iong\
+b火 h uo\
+b火爆 h uo b ao\
+b火车站 h uo ch e zh an\
+b火箭 h uo j ian\
+b火起来 h uo q i l ai\
+b火球 h uo q iu\
+b火焰 h uo ii ian\
+b火焰山 h uo ii ian sh an\
+b火药 h uo ii iao\
+b获 h uo\
+b获得 h uo d e\
+b获取 h uo q v\
+b或 h uo\
+b或许 h uo x v\
+b或者 h uo zh e\
+b货 h uo\
+b货币 h uo b i\
+b货场 h uo ch ang\
+b货车 h uo ch e\
+b货款 h uo k uan\
+b货物 h uo uu u\
+b货运单 h uo vv vn d an\
+b祸 h uo\
+b击沉 j i ch en\
+b击伤 j i sh ang\
+b基 j i\
+b基本 j i b en\
+b基层 j i c eng\
+b基础 j i ch u\
+b基地 j i d i\
+b基督教 j i d u j iao\
+b基诺族 j i n uo z u\
+b机 j i\
+b机场 j i ch ang\
+b机场附近 j i ch ang f u j in\
+b机构 j i g ou\
+b机关 j i g uan\
+b机会 j i h ui\
+b机器 j i q i\
+b机上 j i sh ang\
+b机体 j i t i\
+b机制 j i zh ix\
+b机智 j i zh ix\
+b机组 j i z u\
+b畸形 j i x ing\
+b积 j i\
+b积极 j i j i\
+b迹 j i\
+b激荡 j i d ang\
+b激光 j i g uang\
+b激化 j i h ua\
+b激烈 j i l ie\
+b激情 j i q ing\
+b鸡飞狗跳 j i f ei g ou t iao\
+b鸡鸣 j i m ing\
+b鸡头 j i t ou\
+b鸡鸭 j i ii ia\
+b吉 j i\
+b吉利 j i l i\
+b吉林 j i l in\
+b吉隆坡 j i l ong p o\
+b吉祥 j i x iang\
+b极 j i\
+b极差 j i ch a\
+b极度 j i d u\
+b籍 j i\
+b集 j i\
+b集会 j i h ui\
+b集贸市场 j i m ao sh ix ch ang\
+b集体 j i t i\
+b集体舞 j i t i uu u\
+b集团 j i t uan\
+b集团公司 j i t uan g ong s iy\
+b集训队 j i x vn d ui\
+b集中 j i zh ong\
+b集中营 j i zh ong ii ing\
+b及 j i\
+b及时 j i sh ix\
+b急 j i\
+b急忙 j i m ang\
+b急切 j i q ie\
+b急性 j i x ing\
+b急需 j i x v\
+b疾病 j i b ing\
+b即 j i\
+b即可 j i k e\
+b即然 j i r an\
+b即使 j i sh ix\
+b几 j i\
+b几 j i\
+b几百 j i b ai\
+b几次 j i c iy\
+b几个 j i g e\
+b几个月 j i g e vv ve\
+b几乎 j i h u\
+b几内亚 j i n ei ii ia\
+b几年前 j i n ian q ian\
+b几十 j i sh ix\
+b几天 j i t ian\
+b几天来 j i t ian l ai\
+b己 j i\
+b技能 j i n eng\
+b技术 j i sh u\
+b技术培训 j i sh u p ei x vn\
+b技艺 j i ii i\
+b季 j i\
+b季节 j i j ie\
+b季军 j i j vn\
+b济南 j i n an\
+b济宁 j i n ing\
+b寄 j i\
+b计分 j i f en\
+b计划 j i h ua\
+b计算 j i s uan\
+b记 j i\
+b记得 j i d e\
+b记忆力 j i ii i l i\
+b记者 j i zh e\
+b记着 j i zh e\
+b既 j i\
+b既然 j i r an\
+b既有 j i ii iu\
+b妓女 j i n v\
+b继 j i\
+b继承权 j i ch eng q van\
+b继续 j i x v\
+b纪律 j i l v\
+b纪念 j i n ian\
+b嘉宾 j ia b in\
+b嘉儿 j ia ee er\
+b嘉陵江 j ia l ing j iang\
+b夹 j ia\
+b夹 j ia\
+b夹杂 j ia z a\
+b夹竹桃 j ia zh u t ao\
+b佳作 j ia z uo\
+b佳肴 j ia ii iao\
+b家 j ia\
+b家长们 j ia zh ang m en\
+b家电维修 j ia d ian uu ui x iu\
+b家后 j ia h ou\
+b家里 j ia l i\
+b家里 j ia l i\
+b家人 j ia r en\
+b家属院 j ia sh u vv van\
+b家庭 j ia t ing\
+b家徒四壁 j ia t u s iy b i\
+b家乡 j ia x iang\
+b家用 j ia ii iong\
+b家园 j ia vv van\
+b家珍 j ia zh en\
+b加 j ia\
+b加工 j ia g ong\
+b加里 j ia l i\
+b加盟 j ia m eng\
+b加拿大 j ia n a d a\
+b加强 j ia q iang\
+b加人 j ia r en\
+b加上 j ia sh ang\
+b加上 j ia sh ang\
+b加速 j ia s u\
+b加糖 j ia t ang\
+b加以 j ia ii i\
+b加运费 j ia vv vn f ei\
+b贾 g u\
+b贾 j ia\
+b甲鱼 j ia vv v\
+b假话 j ia h ua\
+b假冒 j ia m ao\
+b假日 j ia r iz\
+b假如 j ia r u\
+b假设 j ia sh e\
+b假牙 j ia ii ia\
+b价 j ia\
+b价格 j ia g e\
+b架 j ia\
+b架设 j ia sh e\
+b驾临 j ia l in\
+b嫁 j ia\
+b监督 j ian d u\
+b监管 j ian g uan\
+b坚 j ian\
+b坚持 j ian ch ix\
+b坚定 j ian d ing\
+b坚实 j ian sh ix\
+b坚硬 j ian ii ing\
+b尖 j ian\
+b尖锐 j ian r ui\
+b间 j ian\
+b间 j ian\
+b间谍 j ian d ie\
+b间断 j ian d uan\
+b煎 j ian\
+b兼 j ian\
+b兼有 j ian ii iu\
+b肩 j ian\
+b肩膀 j ian b ang\
+b肩周炎 j ian zh ou ii ian\
+b艰涩 j ian s e\
+b艰险 j ian x ian\
+b检 j ian\
+b检测 j ian c e\
+b检验 j ian ii ian\
+b柬 j ian\
+b柬埔寨 j ian p u zh ai\
+b简称 j ian ch eng\
+b简直 j ian zh ix\
+b减 j ian\
+b减肥 j ian f ei\
+b减肥药 j ian f ei ii iao\
+b减去 j ian q v\
+b减少 j ian sh ao\
+b鉴 j ian\
+b鉴定 j ian d ing\
+b践 j ian\
+b见 j ian\
+b见 x ian\
+b见到 j ian d ao\
+b见解 j ian j ie\
+b箭头 j ian t ou\
+b件 j ian\
+b健 j ian\
+b健儿 j ian ee er\
+b健康 j ian k ang\
+b舰船 j ian ch uan\
+b舰队 j ian d ui\
+b渐 j ian\
+b溅 j ian\
+b建 j ian\
+b建厂 j ian ch ang\
+b建成 j ian ch eng\
+b建立 j ian l i\
+b建设 j ian sh e\
+b建筑 j ian zh u\
+b建筑业 j ian zh u ii ie\
+b僵 j iang\
+b将 j iang\
+b将 j iang\
+b将近 j iang j in\
+b将军 j iang j vn\
+b将士 j iang sh ix\
+b将要 j iang ii iao\
+b江 j iang\
+b江北区 j iang b ei q v\
+b江淮 j iang h uai\
+b江山市 j iang sh an sh ix\
+b江西 j iang x i\
+b江泽民 j iang z e m in\
+b江中 j iang zh ong\
+b疆 j iang\
+b蒋 j iang\
+b奖 j iang\
+b奖品 j iang p in\
+b讲 j iang\
+b讲解 j iang j ie\
+b讲求 j iang q iu\
+b讲学 j iang x ve\
+b酱油 j iang ii iu\
+b降 j iang\
+b降 x iang\
+b降价 j iang j ia\
+b降落伞 j iang l uo s an\
+b降血压 j iang x ie ii ia\
+b降血压 j iang x ve ii ia\
+b降血压 j iang x ve ii ia\
+b降雨量 j iang vv v l iang\
+b椒盐 j iao ii ian\
+b礁石 j iao sh ix\
+b焦 j iao\
+b胶合板 j iao h e b an\
+b胶卷 j iao j van\
+b交 j iao\
+b交错 j iao c uo\
+b交火 j iao h uo\
+b交加 j iao j ia\
+b交配 j iao p ei\
+b交谈 j iao t an\
+b交通 j iao t ong\
+b交往 j iao uu uang\
+b交易 j iao ii i\
+b交织 j iao zh ix\
+b郊区 j iao q v\
+b郊外 j iao uu uai\
+b娇妻 j iao q i\
+b嚼 j iao\
+b搅 j iao\
+b矫健 j iao j ian\
+b脚 j iao\
+b脚底 j iao d i\
+b脚气 j iao q i\
+b脚下 j iao x ia\
+b脚丫 j iao ii ia\
+b脚印 j iao ii in\
+b狡猾 j iao h ua\
+b角 j iao\
+b角 j ve\
+b饺子 j iao z iy\
+b缴获 j iao h uo\
+b缴纳 j iao n a\
+b教材 j iao c ai\
+b教练 j iao l ian\
+b教派 j iao p ai\
+b教师 j iao sh ix\
+b教授 j iao sh ou\
+b教书育人 j iao sh u vv v r en\
+b教务长 j iao uu u zh ang\
+b教义 j iao ii i\
+b教育 j iao vv v\
+b教育 j iao vv v\
+b教员 j iao vv van\
+b较 j iao\
+b较大 j iao d a\
+b较多 j iao d uo\
+b较高 j iao g ao\
+b较好 j iao h ao\
+b较快 j iao k uai\
+b较量 j iao l iang\
+b较量 j iao l iang\
+b较为 j iao uu ui\
+b叫 j iao\
+b叫卖 j iao m ai\
+b叫卖声 j iao m ai sh eng\
+b叫我怎么办 j iao uu uo z en m e b an\
+b揭阳 j ie ii iang\
+b接 j ie\
+b接班 j ie b an\
+b接过 j ie g uo\
+b接来 j ie l ai\
+b接连 j ie l ian\
+b接任 j ie r en\
+b接受 j ie sh ou\
+b接着 j ie zh e\
+b皆 j ie\
+b街 j ie\
+b街角 j ie j iao\
+b街上 j ie sh ang\
+b街上 j ie sh ang\
+b街头 j ie t ou\
+b阶梯 j ie t i\
+b截至 j ie zh ix\
+b节 j ie\
+b节目 j ie m u\
+b节目单 j ie m u d an\
+b节能 j ie n eng\
+b节育 j ie vv v\
+b节约 j ie vv ve\
+b杰 j ie\
+b杰拉尔 j ie l a ee er\
+b捷克 j ie k e\
+b睫毛 j ie m ao\
+b竭泽而渔 j ie z e ee er vv v\
+b结 j ie\
+b结 j ie\
+b结果 j ie g uo\
+b结合 j ie h e\
+b结合起来 j ie h e q i l ai\
+b结婚 j ie h un\
+b结石 j ie sh ix\
+b结实 j ie sh ix\
+b结束 j ie sh u\
+b结业 j ie ii ie\
+b解除 j ie ch u\
+b解放初 j ie f ang ch u\
+b解决 j ie j ve\
+b解散 j ie s an\
+b解释 j ie sh ix\
+b解释 j ie sh ix\
+b解体 j ie t i\
+b姐姐 j ie j ie\
+b姐妹 j ie m ei\
+b姐妹俩 j ie m ei l ia\
+b姐妹们 j ie m ei m en\
+b姐们儿 j ie m en ee er\
+b戒烟 j ie ii ian\
+b戒指 j ie zh ix\
+b界定 j ie d ing\
+b借 j ie\
+b介绍 j ie sh ao\
+b介绍信 j ie sh ao x in\
+b届 j ie\
+b筋 j in\
+b金 j in\
+b金币 j in b i\
+b金都 j in d ou\
+b金凤 j in f eng\
+b金谷 j in g u\
+b金黄 j in h uang\
+b金鸡 j in j i\
+b金建 j in j ian\
+b金卡 j in k a\
+b金牌 j in p ai\
+b金秋 j in q iu\
+b金融 j in r ong\
+b金生 j in sh eng\
+b金石滩 j in sh ix t an\
+b金州区 j in zh ou q v\
+b金簪 j in z an\
+b金鑫 j in x in\
+b今年 j in n ian\
+b今天 j in t ian\
+b今天下午 j in t ian x ia uu u\
+b今晚 j in uu uan\
+b今早 j in z ao\
+b津贴 j in t ie\
+b紧紧 j in j in\
+b紧缺 j in q ve\
+b紧张 j in zh ang\
+b锦 j in\
+b锦缎 j in d uan\
+b仅 j in\
+b进 j in\
+b进场 j in ch ang\
+b进城 j in ch eng\
+b进而 j in ee er\
+b进犯 j in f an\
+b进价 j in j ia\
+b进口 j in k ou\
+b进门 j in m en\
+b进入 j in r u\
+b进行 j in x ing\
+b进修 j in x iu\
+b进一步 j in ii i b u\
+b进驻 j in zh u\
+b晋 j in\
+b禁不住 j in b u zh u\
+b禁止 j in zh ix\
+b近 j in\
+b近郊 j in j iao\
+b近景 j in j ing\
+b近来 j in l ai\
+b近年来 j in n ian l ai\
+b近期 j in q i\
+b近日 j in r iz\
+b浸 j in\
+b浸入 j in r u\
+b尽 j in\
+b尽 j in\
+b尽管 j in g uan\
+b尽管 j in g uan\
+b尽快 j in k uai\
+b尽快 j in k uai\
+b劲儿 j in ee er\
+b京 j ing\
+b惊 j ing\
+b惊呆 j ing d ai\
+b惊恐万状 j ing k ong uu uan zh uang\
+b惊心动魄 j ing x in d ong p o\
+b精 j ing\
+b精美 j ing m ei\
+b精明 j ing m ing\
+b精品 j ing p in\
+b精神 j ing sh en\
+b精神 j ing sh en\
+b精神文明 j ing sh en uu un m ing\
+b精通 j ing t ong\
+b精细 j ing x i\
+b精心 j ing x in\
+b精液 j ing ii ie\
+b精子 j ing z iy\
+b经 j ing\
+b经 j ing\
+b经常 j ing ch ang\
+b经过 j ing g uo\
+b经过 j ing g uo\
+b经济 j ing j i\
+b经贸 j ing m ao\
+b经受 j ing sh ou\
+b经验 j ing ii ian\
+b经营 j ing ii ing\
+b经营额 j ing ii ing ee e\
+b经营者 j ing ii ing zh e\
+b井 j ing\
+b井口 j ing k ou\
+b警察 j ing ch a\
+b警方 j ing f ang\
+b警告 j ing g ao\
+b警惕 j ing t i\
+b警卫 j ing uu ui\
+b景 j ing\
+b景观 j ing g uan\
+b景和 j ing h e\
+b景况 j ing k uang\
+b景色 j ing s e\
+b景象 j ing x iang\
+b颈 j ing\
+b静 j ing\
+b静静地 j ing j ing d e\
+b静脉 j ing m ai\
+b静脉曲张 j ing m ai q v zh ang\
+b静文 j ing uu un\
+b境界 j ing j ie\
+b境内 j ing n ei\
+b敬酒 j ing j iu\
+b敬老院 j ing l ao vv van\
+b敬仰 j ing ii iang\
+b敬业 j ing ii ie\
+b镜 j ing\
+b镜头 j ing t ou\
+b径 j ing\
+b靖 j ing\
+b竟 j ing\
+b竟然 j ing r an\
+b竟是 j ing sh ix\
+b竞 j ing\
+b竞赛 j ing s ai\
+b竞选 j ing x van\
+b竞争 j ing zh eng\
+b竞争力 j ing zh eng l i\
+b炯炯 j iong j iong\
+b窘迫 j iong p o\
+b究 j iu\
+b纠缠 j iu ch an\
+b纠正 j iu zh eng\
+b久 j iu\
+b久而久之 j iu ee er j iu zh ix\
+b久居 j iu j v\
+b九 j iu\
+b九段 j iu d uan\
+b九六年 j iu l iu n ian\
+b九日 j iu r iz\
+b九三年 j iu s an n ian\
+b九十七 j iu sh ix q i\
+b九十七 j iu sh ix q i\
+b九时 j iu sh ix\
+b九四年 j iu s iy n ian\
+b九五年 j iu uu u n ian\
+b九月 j iu vv ve\
+b酒 j iu\
+b酒后 j iu h ou\
+b酒家 j iu j ia\
+b酒瓶 j iu p ing\
+b酒钱 j iu q ian\
+b酒香 j iu x iang\
+b救命恩人 j iu m ing ee en r en\
+b救亡 j iu uu uang\
+b救援 j iu vv van\
+b救灾 j iu z ai\
+b旧 j iu\
+b舅家 j iu j ia\
+b舅舅 j iu j iu\
+b就 j iu\
+b就此 j iu c iy\
+b就好 j iu h ao\
+b就会 j iu h ui\
+b就怕 j iu p a\
+b就是 j iu sh ix\
+b就是 j iu sh ix\
+b就算 j iu s uan\
+b就要 j iu ii iao\
+b就业 j iu ii ie\
+b就这样 j iu zh e ii iang\
+b就这样 j iu zh ei ii iang\
+b就职 j iu zh ix\
+b狙击 j v j i\
+b居 j v\
+b居民 j v m in\
+b居住 j v zh u\
+b菊园 j v vv van\
+b局 j v\
+b局长 j v zh ang\
+b局促 j v c u\
+b局面 j v m ian\
+b局势 j v sh ix\
+b局外人 j v uu uai r en\
+b举办 j v b an\
+b举措 j v c uo\
+b举起 j v q i\
+b举行 j v x ing\
+b举止 j v zh ix\
+b举重 j v zh ong\
+b沮丧 j v s ang\
+b聚 j v\
+b聚集 j v j i\
+b聚众 j v zh ong\
+b拒绝 j v j ve\
+b据 j v\
+b据说 j v sh uo\
+b据悉 j v x i\
+b巨大 j v d a\
+b巨额 j v ee e\
+b巨款 j v k uan\
+b巨星 j v x ing\
+b具 j v\
+b具有 j v ii iu\
+b距 j v\
+b俱 j v\
+b俱乐部 j v l e b u\
+b句 j v\
+b剧 j v\
+b剧目 j v m u\
+b剧团 j v t uan\
+b剧院 j v vv van\
+b剧中 j v zh ong\
+b捐款 j van k uan\
+b捐赠 j van z eng\
+b卷 j van\
+b卷 j van\
+b卷二 j van ee er\
+b卷曲 j van q v\
+b卷烟厂 j van ii ian ch ang\
+b爵士乐 j ve sh ix vv ve\
+b觉 j iao\
+b觉 j ve\
+b觉得 j ve d e\
+b决 j ve\
+b决不会 j ve b u h ui\
+b决不能 j ve b u n eng\
+b决策 j ve c e\
+b决定 j ve d ing\
+b决口 j ve k ou\
+b决赛 j ve s ai\
+b决议 j ve ii i\
+b决议案 j ve ii i aa an\
+b诀窍 j ve q iao\
+b绝 j ve\
+b绝对安全 j ve d ui aa an q van\
+b绝妙 j ve m iao\
+b绝望 j ve uu uang\
+b均 j vn\
+b均为 j vn uu ui\
+b均匀 j vn vv vn\
+b菌 j vn\
+b军 j vn\
+b军代表 j vn d ai b iao\
+b军队 j vn d ui\
+b军区 j vn q v\
+b军人 j vn r en\
+b军嫂 j vn s ao\
+b军事 j vn sh ix\
+b军械 j vn x ie\
+b军营 j vn ii ing\
+b军帐 j vn zh ang\
+b军政 j vn zh eng\
+b军饷 j vn x iang\
+b君子 j vn z iy\
+b俊 j vn\
+b俊华 j vn h ua\
+b俊华 j vn h ua\
+b喀布尔 k a b u ee er\
+b咖啡 k a f ei\
+b卡 k a\
+b卡 q ia\
+b卡车 k a ch e\
+b卡拉 k a l a\
+b卡连 k a l ian\
+b卡洛 k a l uo\
+b卡米 k a m i\
+b卡特 k a t e\
+b卡住 k a zh u\
+b卡住 q ia zh u\
+b开 k ai\
+b开办 k ai b an\
+b开辟 k ai p i\
+b开采 k ai c ai\
+b开车 k ai ch e\
+b开窗 k ai ch uang\
+b开创 k ai ch uang\
+b开发 k ai f a\
+b开发区 k ai f a q v\
+b开放 k ai f ang\
+b开赴 k ai f u\
+b开关 k ai g uan\
+b开户银行 k ai h u ii in h ang\
+b开会 k ai h ui\
+b开间 k ai j ian\
+b开滦 k ai l uan\
+b开幕 k ai m u\
+b开山 k ai sh an\
+b开始 k ai sh ix\
+b开水 k ai sh ui\
+b开通 k ai t ong\
+b开箱 k ai x iang\
+b开业 k ai ii ie\
+b开远 k ai vv van\
+b开展 k ai zh an\
+b楷 k ai\
+b楷模 k ai m o\
+b凯歌 k ai g e\
+b刊登 k an d eng\
+b堪培拉 k an p ei l a\
+b堪萨斯州 k an s a s iy zh ou\
+b勘探 k an t an\
+b看 k an\
+b看 k an\
+b看不到 k an b u d ao\
+b看不清 k an b u q ing\
+b看到 k an d ao\
+b看护 k an h u\
+b看见 k an j ian\
+b看看 k an k an\
+b看了 k an l e\
+b看起来 k an q i l ai\
+b看起来 k an q i l ai\
+b看她 k an t a\
+b看完 k an uu uan\
+b看望 k an uu uang\
+b看一看 k an ii i k an\
+b看一看 k an ii i k an\
+b看中 k an zh ong\
+b看着 k an zh e\
+b康 k ang\
+b康夫 k ang f u\
+b康熙 k ang x i\
+b康县 k ang x ian\
+b慷慨 k ang k ai\
+b糠 k ang\
+b扛着 k ang zh e\
+b抗 k ang\
+b抗癌 k ang aa ai\
+b抗病 k ang b ing\
+b抗病毒 k ang b ing d u\
+b抗洪 k ang h ong\
+b抗菌素 k ang j vn s u\
+b抗菌素 k ang j vn s u\
+b抗美援朝 k ang m ei vv van ch ao\
+b抗日 k ang r iz\
+b抗战 k ang zh an\
+b抗争 k ang zh eng\
+b考 k ao\
+b考察 k ao ch a\
+b考古 k ao g u\
+b考究 k ao j iu\
+b考虑 k ao l v\
+b考入 k ao r u\
+b考试 k ao sh ix\
+b考验 k ao ii ian\
+b烤 k ao\
+b烤烟 k ao ii ian\
+b靠 k ao\
+b靠背椅 k ao b ei ii i\
+b靠着 k ao zh e\
+b柯 k e\
+b棵 k e\
+b颗 k e\
+b科 k e\
+b科尔沁 k e ee er q in\
+b科尔沁 k e ee er q in\
+b科技 k e j i\
+b科克 k e k e\
+b科威特 k e uu ui t e\
+b科学 k e x ve\
+b科学家 k e x ve j ia\
+b科研 k e ii ian\
+b咳嗽 k e s ou\
+b可 k e\
+b可爱的 k e aa ai d e\
+b可得 k e d e\
+b可见 k e j ian\
+b可可 k e k e\
+b可能 k e n eng\
+b可能性 k e n eng x ing\
+b可是 k e sh ix\
+b可是我 k e sh ix uu uo\
+b可为 k e uu ui\
+b可为 k e uu ui\
+b可谓 k e uu ui\
+b可想而知 k e x iang ee er zh ix\
+b可以 k e ii i\
+b可以说 k e ii i sh uo\
+b渴 k e\
+b渴望 k e uu uang\
+b克 k e\
+b克林顿 k e l in d un\
+b克什米尔 k e sh ix m i ee er\
+b克斯 k e s iy\
+b刻画 k e h ua\
+b刻苦 k e k u\
+b刻意 k e ii i\
+b客 k e\
+b客车 k e ch e\
+b客户 k e h u\
+b客轮 k e l un\
+b客人 k e r en\
+b客厅 k e t ing\
+b客源 k e vv van\
+b课 k e\
+b课本 k e b en\
+b课目 k e m u\
+b肯定 k en d ing\
+b啃 k en\
+b垦 k en\
+b恳请 k en q ing\
+b坑 k eng\
+b坑害 k eng h ai\
+b空 k ong\
+b空 k ong\
+b空调器 k ong t iao q i\
+b空军 k ong j vn\
+b空空如也 k ong k ong r u ii ie\
+b空留 k ong l iu\
+b空气 k ong q i\
+b空位 k ong uu ui\
+b空运 k ong vv vn\
+b空中 k ong zh ong\
+b空子 k ong z iy\
+b恐 k ong\
+b恐怖 k ong b u\
+b恐惧 k ong j v\
+b恐怕 k ong p a\
+b孔 k ong\
+b孔雀 k ong q ve\
+b孔子 k ong z iy\
+b控制 k ong zh ix\
+b控制 k ong zh ix\
+b口 k ou\
+b口岸 k ou aa an\
+b口服液 k ou f u ii ie\
+b口红 k ou h ong\
+b口气 k ou q i\
+b口镇 k ou zh en\
+b扣 k ou\
+b扣押 k ou ii ia\
+b寇 k ou\
+b哭 k u\
+b哭泣 k u q i\
+b哭声 k u sh eng\
+b苦斗 k u d ou\
+b苦日子 k u r iz z iy\
+b苦战 k u zh an\
+b库 k u\
+b库存 k u c un\
+b库区 k u q v\
+b裤 k u\
+b垮 k ua\
+b垮台 k ua t ai\
+b跨 k ua\
+b跨入 k ua r u\
+b块 k uai\
+b块儿 k uai ee er\
+b筷子 k uai z iy\
+b快 k uai\
+b快艇 k uai t ing\
+b快要 k uai ii iao\
+b宽 k uan\
+b宽广 k uan g uang\
+b宽厚 k uan h ou\
+b宽阔 k uan k uo\
+b款 k uan\
+b款物 k uan uu u\
+b匡 k uang\
+b狂 k uang\
+b狂风 k uang f eng\
+b狂人 k uang r en\
+b狂喜 k uang x i\
+b矿 k uang\
+b矿床 k uang ch uang\
+b矿工 k uang g ong\
+b矿区 k uang q v\
+b矿务局 k uang uu u j v\
+b矿业 k uang ii ie\
+b矿渣 k uang zh a\
+b旷野 k uang ii ie\
+b亏 k ui\
+b亏损 k ui s un\
+b窥见 k ui j ian\
+b奎 k ui\
+b奎尔 k ui ee er\
+b魁 k ui\
+b溃疡 k ui ii iang\
+b坤 k un\
+b昆仑 k un l un\
+b昆明 k un m ing\
+b捆 k un\
+b捆扎 k un z a\
+b困 k un\
+b困难 k un n an\
+b困扰 k un r ao\
+b扩大 k uo d a\
+b扩印 k uo ii in\
+b扩展 k uo zh an\
+b阔 k uo\
+b拉 l a\
+b拉夫 l a f u\
+b拉开 l a k ai\
+b拉那 l a n a\
+b拉萨 l a s a\
+b拉丝 l a s iy\
+b蜡 l a\
+b辣椒 l a j iao\
+b啦 l a\
+b来 l ai\
+b来到 l ai d ao\
+b来回 l ai h ui\
+b来了 l ai l e\
+b来说 l ai sh uo\
+b来一 l ai ii i\
+b来源 l ai vv van\
+b来源于 l ai vv van vv v\
+b来者 l ai zh e\
+b来这里 l ai zh e l i\
+b来之不易 l ai zh ix b u ii i\
+b赖 l ai\
+b蓝 l an\
+b拦腰 l an ii iao\
+b篮 l an\
+b篮球 l an q iu\
+b篮球场 l an q iu ch ang\
+b澜 l an\
+b懒惰 l an d uo\
+b烂 l an\
+b烂片 l an p ian\
+b烂片 l an p ian\
+b滥 l an\
+b滥用 l an ii iong\
+b狼 l ang\
+b狼嚎 l ang h ao\
+b狼牙 l ang ii ia\
+b浪 l ang\
+b劳动 l ao d ong\
+b劳动模范 l ao d ong m o f an\
+b劳累 l ao l ei\
+b劳模 l ao m o\
+b劳务 l ao uu u\
+b老 l ao\
+b老百姓 l ao b ai x ing\
+b老板 l ao b an\
+b老伴 l ao b an\
+b老办法 l ao b an f a\
+b老兵 l ao b ing\
+b老大 l ao d a\
+b老等 l ao d eng\
+b老爹 l ao d ie\
+b老工人 l ao g ong r en\
+b老规矩 l ao g ui j v\
+b老汉 l ao h an\
+b老红军 l ao h ong j vn\
+b老虎 l ao h u\
+b老六 l ao l iu\
+b老马 l ao m a\
+b老母 l ao m u\
+b老年人 l ao n ian r en\
+b老农 l ao n ong\
+b老区 l ao q v\
+b老曲 l ao q v\
+b老曲 l ao q v\
+b老人 l ao r en\
+b老师 l ao sh ix\
+b老太太 l ao t ai t ai\
+b老文 l ao uu un\
+b老爷们儿 l ao ii ie m en ee er\
+b老一辈 l ao ii i b ei\
+b老尹 l ao ii in\
+b老远 l ao vv van\
+b乐 l e\
+b乐 vv ve\
+b乐得 l e d e\
+b乐团 vv ve t uan\
+b雷 l ei\
+b雷达 l ei d a\
+b雷区 l ei q v\
+b累 l ei\
+b累 l ei\
+b累计 l ei j i\
+b累累 l ei l ei\
+b类 l ei\
+b棱 l eng\
+b楞 l eng\
+b冷藏 l eng c ang\
+b冷冻 l eng d ong\
+b冷酷 l eng k u\
+b冷冷 l eng l eng\
+b冷落 l eng l uo\
+b冷清 l eng q ing\
+b冷轧 l eng zh a\
+b冷战 l eng zh an\
+b梨树 l i sh u\
+b黎 l i\
+b离 l i\
+b离开 l i k ai\
+b理 l i\
+b理解 l i j ie\
+b理论 l i l un\
+b理顺 l i sh un\
+b理想 l i x iang\
+b理学 l i x ve\
+b理智 l i zh ix\
+b李 l i\
+b李白 l i b ai\
+b李杜 l i d u\
+b李公朴 l i g ong p u\
+b李进 l i j in\
+b李军 l i j vn\
+b李宁 l i n ing\
+b李瑞环 l i r ui h uan\
+b李艳 l i ii ian\
+b里 l i\
+b里面 l i m ian\
+b礼 l i\
+b礼品 l i p in\
+b莉莉 l i l i\
+b丽 l i\
+b丽芳 l i f ang\
+b丽日 l i r iz\
+b丽雅 l i ii ia\
+b厉害 l i h ai\
+b历 l i\
+b历程 l i ch eng\
+b历代 l i d ai\
+b历任 l i r en\
+b历史 l i sh ix\
+b利 l i\
+b利润 l i r un\
+b利生 l i sh eng\
+b利税 l i sh ui\
+b利益 l i ii i\
+b利用 l i ii iong\
+b利于 l i vv v\
+b例 l i\
+b例会 l i h ui\
+b例子 l i z iy\
+b立 l i\
+b立场 l i ch ang\
+b立功 l i g ong\
+b立即 l i j i\
+b立论 l i l un\
+b立强 l i q iang\
+b立身 l i sh en\
+b立体 l i t i\
+b粒状 l i zh uang\
+b力 l i\
+b力量 l i l iang\
+b俩 l ia\
+b俩几 l ia j i\
+b俩位 l ia uu ui\
+b联 l ian\
+b联邦 l ian b ang\
+b联合 l ian h e\
+b联盟 l ian m eng\
+b联赛 l ian s ai\
+b联系 l ian x i\
+b莲藕 l ian oo ou\
+b连 l ian\
+b连队 l ian d ui\
+b连绵 l ian m ian\
+b连年 l ian n ian\
+b连日来 l ian r iz l ai\
+b连续 l ian x v\
+b连夜 l ian ii ie\
+b连英 l ian ii ing\
+b连着 l ian zh e\
+b帘 l ian\
+b脸 l ian\
+b脸盆 l ian p en\
+b脸色 l ian s e\
+b脸上 l ian sh ang\
+b恋爱 l ian aa ai\
+b炼 l ian\
+b炼钢 l ian g ang\
+b炼焦 l ian j iao\
+b练 l ian\
+b粮 l iang\
+b粮棉 l iang m ian\
+b粮食 l iang sh ix\
+b凉 l iang\
+b梁 l iang\
+b粱 l iang\
+b良好 l iang h ao\
+b良种 l iang zh ong\
+b两 l iang\
+b两岸 l iang aa an\
+b两百万 l iang b ai uu uan\
+b两侧 l iang c e\
+b两次 l iang c iy\
+b两个 l iang g e\
+b两家 l iang j ia\
+b两局 l iang j v\
+b两年 l iang n ian\
+b两派 l iang p ai\
+b两旁 l iang p ang\
+b两千 l iang q ian\
+b两千多 l iang q ian d uo\
+b两千五百 l iang q ian uu u b ai\
+b两人 l iang r en\
+b两天 l iang t ian\
+b两头 l iang t ou\
+b两腿 l iang t ui\
+b两位 l iang uu ui\
+b两兄弟 l iang x iong d i\
+b两眼 l iang ii ian\
+b两元钱 l iang vv van q ian\
+b两只 l iang zh ix\
+b两种 l iang zh ong\
+b量 l iang\
+b量比 l iang b i\
+b亮 l iang\
+b撩 l iao\
+b辽 l iao\
+b辽阔 l iao k uo\
+b辽宁 l iao n ing\
+b辽宁省 l iao n ing sh eng\
+b了 l e\
+b了解一下 l iao j ie ii i x ia\
+b廖 l iao\
+b料 l iao\
+b列 l ie\
+b列车 l ie ch e\
+b列队 l ie d ui\
+b列宁 l ie n ing\
+b烈 l ie\
+b烈火 l ie h uo\
+b劣 l ie\
+b劣质 l ie zh ix\
+b猎物 l ie uu u\
+b琳 l in\
+b琳琳 l in l in\
+b林 l in\
+b林区 l in q v\
+b林文 l in uu un\
+b林西 l in x i\
+b林业 l in ii ie\
+b临 l in\
+b临床医学 l in ch uang ii i x ve\
+b临了 l in l iao\
+b临时 l in sh ix\
+b临颍县 l in ii ing x ian\
+b邻村 l in c un\
+b邻近 l in j in\
+b邻居 l in j v\
+b淋 l in\
+b淋漓 l in l i\
+b淋淋 l in l in\
+b零六年 l ing l iu n ian\
+b零售价 l ing sh ou j ia\
+b铃 l ing\
+b羚羊 l ing ii iang\
+b凌晨 l ing ch en\
+b灵魂 l ing h un\
+b灵活 l ing h uo\
+b陵 l ing\
+b岭南 l ing n an\
+b领 l ing\
+b领导 l ing d ao\
+b领导层 l ing d ao c eng\
+b领导人 l ing d ao r en\
+b领会 l ing h ui\
+b领先 l ing x ian\
+b领袖 l ing x iu\
+b领域 l ing vv v\
+b另 l ing\
+b另外 l ing uu uai\
+b另一 l ing ii i\
+b另一种 l ing ii i zh ong\
+b另有 l ing ii iu\
+b令 l ing\
+b令人 l ing r en\
+b留 l iu\
+b留成 l iu ch eng\
+b留念 l iu n ian\
+b留下 l iu x ia\
+b留影 l iu ii ing\
+b留在 l iu z ai\
+b刘 l iu\
+b刘邦 l iu b ang\
+b刘东 l iu d ong\
+b刘海 l iu h ai\
+b刘进 l iu j in\
+b刘力 l iu l i\
+b刘胜 l iu sh eng\
+b刘小光 l iu x iao g uang\
+b刘永 l iu ii iong\
+b刘玉 l iu vv v\
+b刘云山 l iu vv vn sh an\
+b流 l iu\
+b流弊 l iu b i\
+b流传 l iu ch uan\
+b流动资金 l iu d ong z iy j in\
+b流浪 l iu l ang\
+b流入 l iu r u\
+b流水 l iu sh ui\
+b流行 l iu x ing\
+b柳 l iu\
+b柳暗花明 l iu aa an h ua m ing\
+b柳某 l iu m ou\
+b柳生 l iu sh eng\
+b柳州 l iu zh ou\
+b六 l iu\
+b六百 l iu b ai\
+b六个月 l iu g e vv ve\
+b六个月 l iu g e vv ve\
+b六家 l iu j ia\
+b六年 l iu n ian\
+b六七 l iu q i\
+b六千 l iu q ian\
+b六人 l iu r en\
+b六十 l iu sh ix\
+b六岁 l iu s ui\
+b六条 l iu t iao\
+b六万 l iu uu uan\
+b六月 l iu vv ve\
+b龙 l ong\
+b龙的 l ong d e\
+b龙和 l ong h e\
+b聋 l ong\
+b聋哑 l ong ii ia\
+b笼 l ong\
+b笼统 l ong t ong\
+b隆 l ong\
+b隆冬 l ong d ong\
+b楼 l ou\
+b楼内 l ou n ei\
+b楼区 l ou q v\
+b楼群 l ou q vn\
+b楼台 l ou t ai\
+b楼外楼 l ou uu uai l ou\
+b楼宇 l ou vv v\
+b漏 l ou\
+b漏网之鱼 l ou uu uang zh ix vv v\
+b卢 l u\
+b卢森堡 l u s en b ao\
+b颅 l u\
+b鲁迅 l u x vn\
+b露出 l u ch u\
+b露面 l ou m ian\
+b路 l u\
+b路人皆知 l u r en j ie zh ix\
+b路向 l u x iang\
+b鹿 l u\
+b录取 l u q v\
+b录像带 l u x iang d ai\
+b录用 l u ii iong\
+b陆 l u\
+b吕 l v\
+b铝 l v\
+b铝材 l v c ai\
+b旅 l v\
+b旅长 l v zh ang\
+b旅馆 l v g uan\
+b旅客 l v k e\
+b旅行社 l v x ing sh e\
+b旅游 l v ii iu\
+b旅游区 l v ii iu q v\
+b旅游业 l v ii iu ii ie\
+b屡 l v\
+b缕缕 l v l v\
+b氯 l v\
+b率 l v\
+b率领 sh uai l ing\
+b率先 sh uai x ian\
+b滤 l v\
+b绿 l v\
+b绿色 l v s e\
+b绿树 l v sh u\
+b绿水 l v sh ui\
+b绿茵 l v ii in\
+b峦 l uan\
+b乱 l uan\
+b乱采 l uan c ai\
+b乱七八糟 l uan q i b a z ao\
+b乱说 l uan sh uo\
+b乱云 l uan vv vn\
+b掠过 l ve g uo\
+b略带 l ve d ai\
+b略略 l ve l ve\
+b略微 l ve uu ui\
+b轮 l un\
+b轮船 l un ch uan\
+b伦 l un\
+b伦次 l un c iy\
+b伦敦 l un d un\
+b论 l un\
+b论文 l un uu un\
+b论文集 l un uu un j i\
+b螺帽 l uo m ao\
+b螺丝刀 l uo s iy d ao\
+b螺纹 l uo uu un\
+b螺旋 l uo x van\
+b罗 l uo\
+b罗本 l uo b en\
+b罗布 l uo b u\
+b罗德 l uo d e\
+b罗干 l uo g an\
+b罗家 l uo j ia\
+b罗马里奥 l uo m a l i aa ao\
+b罗宁 l uo n ing\
+b罗田 l uo t ian\
+b锣鼓 l uo g u\
+b锣鼓声 l uo g u sh eng\
+b落 l uo\
+b落地 l uo d i\
+b落户 l uo h u\
+b落落 l uo l uo\
+b落魄 l uo p o\
+b落实 l uo sh ix\
+b落在 l a z ai\
+b落在 l uo z ai\
+b洛 l uo\
+b洛夫 l uo f u\
+b洛桑 l uo s ang\
+b洛阳 l uo ii iang\
+b骆 l uo\
+b妈 m a\
+b妈的 m a d e\
+b妈妈 m a m a\
+b麻 m a\
+b麻烦 m a f an\
+b麻辣味 m a l a uu ui\
+b麻油 m a ii iu\
+b麻子 m a z iy\
+b玛 m a\
+b玛雅文明 m a ii ia uu un m ing\
+b码 m a\
+b马 m a\
+b马驰 m a ch ix\
+b马德 m a d e\
+b马队 m a d ui\
+b马俊 m a j vn\
+b马来西亚 m a l ai x i ii ia\
+b马路 m a l u\
+b马锐 m a r ui\
+b马上 m a sh ang\
+b马祖 m a z u\
+b骂 m a\
+b吗 m a\
+b埋 m ai\
+b埋下 m ai x ia\
+b埋怨 m an vv van\
+b买 m ai\
+b麦苗 m ai m iao\
+b卖 m ai\
+b卖菜 m ai c ai\
+b卖给 m ai g ei\
+b卖淫嫖娼 m ai ii in p iao ch ang\
+b迈进 m ai j in\
+b满 m an\
+b满怀 m an h uai\
+b满口 m an k ou\
+b满山遍野 m an sh an b ian ii ie\
+b满天 m an t ian\
+b满头 m an t ou\
+b满意 m an ii i\
+b满员 m an vv van\
+b满足 m an z u\
+b蔓延 m an ii ian\
+b慢 m an\
+b慢性 m an x ing\
+b芒 m ang\
+b茫茫 m ang m ang\
+b盲文 m ang uu un\
+b忙 m ang\
+b忙碌 m ang l u\
+b忙于 m ang vv v\
+b猫 m ao\
+b猫头鹰 m ao t ou ii ing\
+b茅塞顿开 m ao s e d un k ai\
+b毛 m ao\
+b毛阿敏 m ao aa a m in\
+b毛笔 m ao b i\
+b毛巾 m ao j in\
+b毛宁 m ao n ing\
+b毛毯 m ao t an\
+b毛竹 m ao zh u\
+b矛盾 m ao d un\
+b茂 m ao\
+b冒出 m ao ch u\
+b冒雨 m ao vv v\
+b帽 m ao\
+b贸 m ao\
+b贸易公司 m ao ii i g ong s iy\
+b贸易公司 m ao ii i g ong s iy\
+b贸易逆差 m ao ii i n i ch a\
+b么事 m e sh ix\
+b梅 m ei\
+b梅尔 m ei ee er\
+b梅州 m ei zh ou\
+b煤 m ei\
+b煤矿 m ei k uang\
+b煤炭 m ei t an\
+b煤窑 m ei ii iao\
+b没 m ei\
+b没练 m ei l ian\
+b没事 m ei sh ix\
+b没有 m ei ii iu\
+b没有办法 m ei ii iu b an f a\
+b没有必要 m ei ii iu b i ii iao\
+b没有我 m ei ii iu uu uo\
+b镁 m ei\
+b每 m ei\
+b每当 m ei d ang\
+b每逢 m ei f eng\
+b每个 m ei g e\
+b每年 m ei n ian\
+b每人 m ei r en\
+b每日 m ei r iz\
+b每天 m ei t ian\
+b每晚 m ei uu uan\
+b每样 m ei ii iang\
+b每月 m ei vv ve\
+b美 m ei\
+b美的 m ei d e\
+b美地 m ei d e\
+b美观 m ei g uan\
+b美国 m ei g uo\
+b美好 m ei h ao\
+b美军 m ei j vn\
+b美丽 m ei l i\
+b美容 m ei r ong\
+b美术学院 m ei sh u x ve vv van\
+b美文 m ei uu un\
+b美学 m ei x ve\
+b美元 m ei vv van\
+b美洲 m ei zh ou\
+b妹夫 m ei f u\
+b妹妹 m ei m ei\
+b门 m en\
+b门窗 m en ch uang\
+b门框 m en k uang\
+b门前 m en q ian\
+b门上 m en sh ang\
+b门外汉 m en uu uai h an\
+b门下 m en x ia\
+b们 m en\
+b萌 m eng\
+b蒙 m eng\
+b蒙古 m eng g u\
+b蒙混过关 m eng h un g uo g uan\
+b蒙蒙 m eng m eng\
+b蒙文 m eng uu un\
+b猛 m eng\
+b猛烈 m eng l ie\
+b猛增 m eng z eng\
+b梦 m eng\
+b梦幻 m eng h uan\
+b梦龙 m eng l ong\
+b梦想 m eng x iang\
+b梦中 m eng zh ong\
+b梦婷 m eng t ing\
+b孟 m eng\
+b糜烂 m i l an\
+b迷 m i\
+b迷人 m i r en\
+b弥散 m i s an\
+b米 m i\
+b米高 m i g ao\
+b米粒 m i l i\
+b秘诀 m i j ve\
+b秘鲁 b i l u\
+b秘书 m i sh u\
+b秘书长 m i sh u zh ang\
+b密 m i\
+b密布 m i b u\
+b密度 m i d u\
+b密封 m i f eng\
+b密封圈 m i f eng q van\
+b密谋 m i m ou\
+b密切 m i q ie\
+b棉 m ian\
+b棉布 m ian b u\
+b棉纺 m ian f ang\
+b棉农 m ian n ong\
+b绵长 m ian ch ang\
+b免得 m ian d e\
+b免受 m ian sh ou\
+b免于 m ian vv v\
+b面 m ian\
+b面的 m ian d i\
+b面对 m ian d ui\
+b面积 m ian j i\
+b面临 m ian l in\
+b面容 m ian r ong\
+b面上 m ian sh ang\
+b面团 m ian t uan\
+b苗 m iao\
+b苗木 m iao m u\
+b苗族 m iao z u\
+b描绘 m iao h ui\
+b瞄准 m iao zh un\
+b庙 m iao\
+b庙会 m iao h ui\
+b庙前 m iao q ian\
+b妙 m iao\
+b妙趣横生 m iao q v h eng sh eng\
+b妙语 m iao vv v\
+b灭 m ie\
+b灭菌 m ie j vn\
+b灭口 m ie k ou\
+b灭亡 m ie uu uang\
+b民 m in\
+b民办教师 m in b an j iao sh ix\
+b民兵 m in b ing\
+b民歌 m in g e\
+b民间 m in j ian\
+b民俗 m in s u\
+b民谚 m in ii ian\
+b民用 m in ii iong\
+b民宅 m in zh ai\
+b民政部 m in zh eng b u\
+b民族 m in z u\
+b民族文化 m in z u uu un h ua\
+b闽 m in\
+b闽南话 m in n an h ua\
+b明 m ing\
+b明白 m ing b ai\
+b明代 m ing d ai\
+b明镜 m ing j ing\
+b明亮 m ing l iang\
+b明伦 m ing l un\
+b明年还要 m ing n ian h ai ii iao\
+b明清 m ing q ing\
+b明权 m ing q van\
+b明确 m ing q ve\
+b明说 m ing sh uo\
+b明太祖 m ing t ai z u\
+b明天 m ing t ian\
+b明晚 m ing uu uan\
+b明显 m ing x ian\
+b明月 m ing vv ve\
+b鸣 m ing\
+b鸣沙山 m ing sh a sh an\
+b名 m ing\
+b名将 m ing j iang\
+b名叫 m ing j iao\
+b名列 m ing l ie\
+b名气 m ing q i\
+b名人 m ing r en\
+b名为 m ing uu ui\
+b名演员 m ing ii ian vv van\
+b名扬 m ing ii iang\
+b名誉 m ing vv v\
+b命 m ing\
+b命令 m ing l ing\
+b命运 m ing vv vn\
+b谬 m iu\
+b模 m o\
+b模范 m o f an\
+b膜 m o\
+b磨擦 m o c a\
+b磨成 m o ch eng\
+b磨损 m o s un\
+b摩托 m o t uo\
+b摩托 m o t uo\
+b魔 m o\
+b抹 m o\
+b末 m o\
+b末端 m o d uan\
+b末路 m o l u\
+b莫 m o\
+b莫高窟 m o g ao k u\
+b莫慧兰 m o h ui l an\
+b莫拉 m o l a\
+b莫林 m o l in\
+b莫尼卡 m o n i k a\
+b莫桑比克 m o s ang b i k e\
+b墨 m o\
+b墨水 m o sh ui\
+b沫 m o\
+b谋杀 m ou sh a\
+b谋私 m ou s iy\
+b牟 m ou\
+b某 m ou\
+b某部 m ou b u\
+b某市 m ou sh ix\
+b某些 m ou x ie\
+b某种 m ou zh ong\
+b牡丹 m u d an\
+b亩 m u\
+b亩产 m u ch an\
+b姆 m u\
+b母 m u\
+b母亲 m u q in\
+b母子 m u z iy\
+b墓 m u\
+b墓穴 m u x ve\
+b暮 m u\
+b募捐 m u j van\
+b慕 m u\
+b木 m u\
+b木船 m u ch uan\
+b木棍 m u g un\
+b木棉树 m u m ian sh u\
+b木桩 m u zh uang\
+b目标 m u b iao\
+b目的 m u d i\
+b目睹 m u d u\
+b目光 m u g uang\
+b目前 m u q ian\
+b目送 m u s ong\
+b牧 m u\
+b牧民 m u m in\
+b拿 n a\
+b拿出 n a ch u\
+b拿手 n a sh ou\
+b哪 n a\
+b哪儿 n a ee er\
+b哪里 n a l i\
+b哪怕 n a p a\
+b呐喊 n a h an\
+b钠 n a\
+b那 n a\
+b那儿 n a ee er\
+b那个 n a g e\
+b那里 n a l i\
+b那么 n a m e\
+b那末 n a m o\
+b那时 n a sh ix\
+b那时候 n a sh ix h ou\
+b那天 n a t ian\
+b那娃 n a uu ua\
+b那位 n a uu ui\
+b那些 n a x ie\
+b那样 n a ii iang\
+b那种 n a zh ong\
+b娜 n a\
+b纳 n a\
+b纳入 n a r u\
+b纳税 n a sh ui\
+b纳税人 n a sh ui r en\
+b乃 n ai\
+b奶 n ai\
+b奶粉 n ai f en\
+b奶奶 n ai n ai\
+b奶牛 n ai n iu\
+b奶味 n ai uu ui\
+b耐 n ai\
+b耐久 n ai j iu\
+b耐用 n ai ii iong\
+b奈 n ai\
+b奈尔 n ai ee er\
+b南 n an\
+b南岸 n an aa an\
+b南澳 n an aa ao\
+b南北 n an b ei\
+b南方 n an f ang\
+b南港 n an g ang\
+b南国 n an g uo\
+b南河 n an h e\
+b南京 n an j ing\
+b南京军区 n an j ing j vn q v\
+b南宁 n an n ing\
+b南屏 n an p ing\
+b南沙 n an sh a\
+b南下 n an x ia\
+b男 n an\
+b男宾 n an b in\
+b男孩 n an h ai\
+b男女 n an n v\
+b男人 n an r en\
+b男生 n an sh eng\
+b男性 n an x ing\
+b男装 n an zh uang\
+b男子 n an z iy\
+b难 n an\
+b难怪 n an g uai\
+b难忍 n an r en\
+b难忘的 n an uu uang d e\
+b难为 n an uu ui\
+b难为 n an uu ui\
+b难言之隐 n an ii ian zh ix ii in\
+b难以 n an ii i\
+b难于 n an vv v\
+b囊 n ang\
+b脑 n ao\
+b脑袋 n ao d ai\
+b脑筋 n ao j in\
+b脑血管 n ao x ve g uan\
+b脑血栓 n ao x ie sh uan\
+b脑血栓 n ao x ve sh uan\
+b脑血栓 n ao x ve sh uan\
+b脑溢血 n ao ii i x ve\
+b恼怒 n ao n u\
+b闹 n ao\
+b闹市 n ao sh ix\
+b呢 n e\
+b馁 n ei\
+b内 n ei\
+b内部 n ei b u\
+b内地 n ei d i\
+b内涵 n ei h an\
+b内乱 n ei l uan\
+b内蒙古 n ei m eng g u\
+b内容 n ei r ong\
+b内外 n ei uu uai\
+b内外交困 n ei uu uai j iao k un\
+b内务 n ei uu u\
+b内向 n ei x iang\
+b嫩 n en\
+b嫩嫩 n en n en\
+b能 n eng\
+b能不能 n eng b u n eng\
+b能不能 n eng b u n eng\
+b能否 n eng f ou\
+b能够 n eng g ou\
+b能力 n eng l i\
+b能耐 n eng n ai\
+b能人 n eng r en\
+b能手 n eng sh ou\
+b能源 n eng vv van\
+b能治病 n eng zh ix b ing\
+b泥 n i\
+b泥泞 n i n ing\
+b泥水 n i sh ui\
+b泥塘 n i t ang\
+b尼 n i\
+b尼恩 n i ee en\
+b尼加拉瓜 n i j ia l a g ua\
+b拟 n i\
+b你 n i\
+b你们 n i m en\
+b逆差 n i ch a\
+b逆境 n i j ing\
+b年 n ian\
+b年长者 n ian zh ang zh e\
+b年代 n ian d ai\
+b年底 n ian d i\
+b年画 n ian h ua\
+b年间 n ian j ian\
+b年卡 n ian k a\
+b年迈 n ian m ai\
+b年轻 n ian q ing\
+b年月 n ian vv ve\
+b碾 n ian\
+b念佛 n ian f o\
+b娘 n iang\
+b娘家 n iang j ia\
+b娘们 n iang m en\
+b娘娘 n iang n iang\
+b娘子 n iang z iy\
+b鸟 n iao\
+b捏造 n ie z ao\
+b聂卫平 n ie uu ui p ing\
+b您 n in\
+b凝望 n ing uu uang\
+b凝重 n ing zh ong\
+b宁波 n ing b o\
+b宁儿 n ing ee er\
+b宁肯 n ing k en\
+b宁夏 n ing x ia\
+b宁愿 n ing vv van\
+b宁愿 n ing vv van\
+b拧 n ing\
+b拧紧 n ing j in\
+b牛 n iu\
+b牛比 n iu b i\
+b牛场 n iu ch ang\
+b牛津 n iu j in\
+b牛肉 n iu r ou\
+b扭 n iu\
+b扭动 n iu d ong\
+b扭亏 n iu k ui\
+b扭亏为盈 n iu k ui uu ui ii ing\
+b钮 n iu\
+b纽约 n iu vv ve\
+b浓 n ong\
+b浓烈 n ong l ie\
+b浓墨重彩 n ong m o zh ong c ai\
+b浓郁 n ong vv v\
+b农 n ong\
+b农村 n ong c un\
+b农户 n ong h u\
+b农机具 n ong j i j v\
+b农民 n ong m in\
+b农业 n ong ii ie\
+b农业银行 n ong ii ie ii in h ang\
+b农艺 n ong ii i\
+b农用 n ong ii iong\
+b农转非 n ong zh uan f ei\
+b农资 n ong z iy\
+b农作物 n ong z uo uu u\
+b弄 n ong\
+b弄清 n ong q ing\
+b弄虚作假 n ong x v z uo j ia\
+b弄脏 n ong z ang\
+b努力 n u l i\
+b努力做到 n u l i z uo d ao\
+b怒 n u\
+b怒斥 n u ch ix\
+b怒江 n u j iang\
+b女 n v\
+b女宾 n v b in\
+b女单 n v d an\
+b女队 n v d ui\
+b女儿 n v ee er\
+b女儿 n v ee er\
+b女杰 n v j ie\
+b女人 n v r en\
+b女鞋 n v x ie\
+b女性 n v x ing\
+b女友 n v ii iu\
+b女装 n v zh uang\
+b女子 n v z iy\
+b暖春 n uan ch un\
+b暖暖的 n uan n uan d e\
+b虐待 n ve d ai\
+b虐待 n ve d ai\
+b疟疾 n ve j i\
+b挪 n uo\
+b挪威 n uo uu ui\
+b挪用 n uo ii iong\
+b懦弱 n uo r uo\
+b懦弱 n uo r uo\
+b诺 n uo\
+b欧 oo ou\
+b欧美 oo ou m ei\
+b欧文 oo ou uu un\
+b欧亚 oo ou ii ia\
+b欧亚大陆 oo ou ii ia d a l u\
+b欧阳 oo ou ii iang\
+b欧阳修 oo ou ii iang x iu\
+b欧洲 oo ou zh ou\
+b殴打 oo ou d a\
+b藕 oo ou\
+b偶 oo ou\
+b偶而 oo ou ee er\
+b偶尔 oo ou ee er\
+b偶有 oo ou ii iu\
+b趴 p a\
+b爬 p a\
+b爬坡 p a p o\
+b爬起来 p a q i l ai\
+b爬起来 p a q i l ai\
+b帕帕 p a p a\
+b帕帕 p a p a\
+b帕子 p a z iy\
+b帕子 p a z iy\
+b怕 p a\
+b拍 p ai\
+b拍案而起 p ai aa an ee er q i\
+b拍卖 p ai m ai\
+b拍摄 p ai sh e\
+b排 p ai\
+b排放 p ai f ang\
+b排练 p ai l ian\
+b排列 p ai l ie\
+b排名 p ai m ing\
+b排球 p ai q iu\
+b排污 p ai uu u\
+b牌 p ai\
+b牌子 p ai z iy\
+b派 p ai\
+b派兵 p ai b ing\
+b派出所 p ai ch u s uo\
+b派人 p ai r en\
+b攀 p an\
+b潘 p an\
+b盘 p an\
+b盘绕 p an r ao\
+b盼 p an\
+b盼望 p an uu uang\
+b畔 p an\
+b判处 p an ch u\
+b判定 p an d ing\
+b判决 p an j ve\
+b叛乱 p an l uan\
+b庞 p ang\
+b庞大 p ang d a\
+b旁 p ang\
+b旁边 p ang b ian\
+b旁观 p ang g uan\
+b抛 p ao\
+b抛出 p ao ch u\
+b抛售 p ao sh ou\
+b炮眼 p ao ii ian\
+b袍 p ao\
+b跑 p ao\
+b跑步 p ao b u\
+b跑回 p ao h ui\
+b跑前跑后 p ao q ian p ao h ou\
+b跑圈 p ao q van\
+b泡 p ao\
+b泡 p ao\
+b胚乳 p ei r u\
+b胚芽 p ei ii ia\
+b培训 p ei x vn\
+b培养 p ei ii iang\
+b培育 p ei vv v\
+b赔偿 p ei ch ang\
+b赔款 p ei k uan\
+b陪 p ei\
+b陪同 p ei t ong\
+b陪葬 p ei z ang\
+b陪着 p ei zh e\
+b配 p ei\
+b配备 p ei b ei\
+b配额 p ei ee e\
+b配方 p ei f ang\
+b配合 p ei h e\
+b佩 p ei\
+b佩刀 p ei d ao\
+b喷 p en\
+b喷涂 p en t u\
+b喷血 p en x ie\
+b喷血 p en x ve\
+b喷血 p en x ve\
+b盆 p en\
+b盆花 p en h ua\
+b盆浴 p en vv v\
+b盆栽 p en z ai\
+b彭 p eng\
+b彭家 p eng j ia\
+b彭丽媛 p eng l i vv van\
+b蓬蓬 p eng p eng\
+b蓬蓬 p eng p eng\
+b棚 p eng\
+b朋友 p eng ii iu\
+b朋友 p eng ii iu\
+b朋友们 p eng ii iu m en\
+b捧腹 p eng f u\
+b碰 p eng\
+b碰到 p eng d ao\
+b碰巧 p eng q iao\
+b碰上 p eng sh ang\
+b碰上 p eng sh ang\
+b碰撞 p eng zh uang\
+b坯 p i\
+b批准 p i zh un\
+b披 p i\
+b披肩 p i j ian\
+b披露 p i l ou\
+b披露 p i l u\
+b披着 p i zh e\
+b毗 p i\
+b疲劳 p i l ao\
+b疲软 p i r uan\
+b皮 p i\
+b皮带 p i d ai\
+b皮球 p i q iu\
+b皮下 p i x ia\
+b皮张 p i zh ang\
+b篇 p ian\
+b偏 p ian\
+b偏僻 p ian p i\
+b偏偏 p ian p ian\
+b偏要 p ian ii iao\
+b片 p ian\
+b片 p ian\
+b片刻 p ian k e\
+b片片 p ian p ian\
+b片片 p ian p ian\
+b片中 p ian zh ong\
+b飘 p iao\
+b飘浮 p iao f u\
+b飘飘 p iao p iao\
+b飘飘 p iao p iao\
+b飘然 p iao r an\
+b飘扬 p iao ii iang\
+b飘着 p iao zh e\
+b漂 p iao\
+b漂 p iao\
+b漂 p iao\
+b漂亮 p iao l iang\
+b票 p iao\
+b票款 p iao k uan\
+b撇 p ie\
+b撇 p ie\
+b撇嘴 p ie z ui\
+b拼搏 p in b o\
+b拼命 p in m ing\
+b拼杀 p in sh a\
+b频 p in\
+b频繁 p in f an\
+b频频 p in p in\
+b频频 p in p in\
+b贫 p in\
+b贫困 p in k un\
+b贫穷 p in q iong\
+b品 p in\
+b品尝 p in ch ang\
+b品位 p in uu ui\
+b品种 p in zh ong\
+b聘 p in\
+b聘用 p in ii iong\
+b乒乓 p ing p ang\
+b乒乓球 p ing p ang q iu\
+b苹果 p ing g uo\
+b平 p ing\
+b平定 p ing d ing\
+b平衡 p ing h eng\
+b平均 p ing j vn\
+b平均年龄 p ing j vn n ian l ing\
+b平均年龄 p ing j vn n ian l ing\
+b平壤 p ing r ang\
+b平时 p ing sh ix\
+b平稳 p ing uu un\
+b平阳 p ing ii iang\
+b平原 p ing vv van\
+b凭 p ing\
+b凭栏 p ing l an\
+b凭什么 p ing sh en m e\
+b瓶口 p ing k ou\
+b瓶子 p ing z iy\
+b评 p ing\
+b评委会 p ing uu ui h ui\
+b屏幕 p ing m u\
+b坡 p o\
+b坡度 p o d u\
+b泼墨 p o m o\
+b颇 p o\
+b颇具 p o j v\
+b颇为 p o uu ui\
+b婆婆 p o p o\
+b婆娑 p o s uo\
+b破 p o\
+b破布 p o b u\
+b破财消灾 p o c ai x iao z ai\
+b破产 p o ch an\
+b破坏 p o h uai\
+b破裂 p o l ie\
+b破土 p o t u\
+b迫不得已 p o b u d e ii i\
+b迫使 p o sh ix\
+b扑 p u\
+b扑向 p u x iang\
+b铺 p u\
+b铺 p u\
+b铺盖 p u g ai\
+b铺里 p u l i\
+b葡 p u\
+b蒲 p u\
+b普 p u\
+b普遍 p u b ian\
+b普及 p u j i\
+b普希金 p u x i j in\
+b谱写 p u x ie\
+b曝晒 p u sh ai\
+b瀑 p u\
+b瀑布 p u b u\
+b期间 q i j ian\
+b欺 q i\
+b栖霞 q i x ia\
+b妻女 q i n v\
+b妻子 q i z iy\
+b妻子 q i z iy\
+b七 q i\
+b七百 q i b ai\
+b七百多 q i b ai d uo\
+b七层 q i c eng\
+b七十 q i sh ix\
+b七十二 q i sh ix ee er\
+b七十二 q i sh ix ee er\
+b七十万 q i sh ix uu uan\
+b七十万 q i sh ix uu uan\
+b七十一 q i sh ix ii i\
+b七十一 q i sh ix ii i\
+b七天 q i t ian\
+b七位 q i uu ui\
+b七旬 q i x vn\
+b七月 q i vv ve\
+b凄惨 q i c an\
+b凄然 q i r an\
+b漆黑 q i h ei\
+b沏茶 q i ch a\
+b其 q i\
+b其后 q i h ou\
+b其间 q i j ian\
+b其林 q i l in\
+b其貌不扬 q i m ao b u ii iang\
+b其实 q i sh ix\
+b其他 q i t a\
+b其他费用 q i t a f ei ii iong\
+b其他费用 q i t a f ei ii iong\
+b其它 q i t a\
+b其中 q i zh ong\
+b棋 q i\
+b奇 j i\
+b奇 q i\
+b奇怪 q i g uai\
+b奇缺 q i q ve\
+b奇特 q i t e\
+b歧义 q i ii i\
+b齐白石 q i b ai sh ix\
+b齐刷刷 q i sh ua sh ua\
+b旗 q i\
+b祈 q i\
+b骑 q i\
+b骑马 q i m a\
+b起 q i\
+b起来 q i l ai\
+b起来 q i l ai\
+b起跑 q i p ao\
+b起事 q i sh ix\
+b起跳 q i t iao\
+b起雾 q i uu u\
+b企图 q i t u\
+b企业 q i ii ie\
+b企业文化 q i ii ie uu un h ua\
+b企业形象 q i ii ie x ing x iang\
+b启 q i\
+b启动 q i d ong\
+b契 q i\
+b砌 q i\
+b砌墙 q i q iang\
+b器械 q i x ie\
+b气 q i\
+b气势 q i sh ix\
+b气势 q i sh ix\
+b气息 q i x i\
+b气象 q i x iang\
+b气宇 q i vv v\
+b气韵 q i vv vn\
+b汽车 q i ch e\
+b掐 q ia\
+b恰当 q ia d ang\
+b恰逢 q ia f eng\
+b恰恰相反 q ia q ia x iang f an\
+b恰恰相反 q ia q ia x iang f an\
+b洽谈 q ia t an\
+b牵 q ian\
+b牵肠挂肚 q ian ch ang g ua d u\
+b牵引 q ian ii in\
+b铅球 q ian q iu\
+b千 q ian\
+b千古 q ian g u\
+b千家万户 q ian j ia uu uan h u\
+b千金 q ian j in\
+b千里 q ian l i\
+b千米 q ian m i\
+b千千万万 q ian q ian uu uan uu uan\
+b千瓦 q ian uu ua\
+b千万富翁 q ian uu uan f u uu ueng\
+b千真万确 q ian zh en uu uan q ve\
+b迁怒 q ian n u\
+b签订 q ian d ing\
+b签名 q ian m ing\
+b签署 q ian sh u\
+b签约 q ian vv ve\
+b黔 q ian\
+b钱 q ian\
+b钱伟长 q ian uu ui ch ang\
+b钱越 q ian vv ve\
+b钳 q ian\
+b前 q ian\
+b前进 q ian j in\
+b前景 q ian j ing\
+b前往 q ian uu uang\
+b前卫 q ian uu ui\
+b前胸 q ian x iong\
+b潜逃 q ian t ao\
+b浅滩 q ian t an\
+b堑 q ian\
+b欠 q ian\
+b枪 q iang\
+b枪毙 q iang b i\
+b枪杀 q iang sh a\
+b腔 q iang\
+b墙 q iang\
+b墙根 q iang g en\
+b墙脚 q iang j iao\
+b墙上 q iang sh ang\
+b墙上 q iang sh ang\
+b墙头草 q iang t ou c ao\
+b蔷薇 q iang uu ui\
+b强 j iang\
+b强 q iang\
+b强 q iang\
+b强调 q iang d iao\
+b强化 q iang h ua\
+b强劲 q iang j ing\
+b强壮 q iang zh uang\
+b抢 q iang\
+b抢劫 q iang j ie\
+b抢救 q iang j iu\
+b抢先 q iang x ian\
+b抢运 q iang vv vn\
+b抢占 q iang zh an\
+b悄悄 q iao q iao\
+b桥 q iao\
+b桥墩 q iao d un\
+b桥梁 q iao l iang\
+b瞧 q iao\
+b乔 q iao\
+b乔森 q iao s en\
+b侨 q iao\
+b翘 q iao\
+b翘 q iao\
+b俏 q iao\
+b切 q ie\
+b切 q ie\
+b切尔 q ie ee er\
+b切尔 q ie ee er\
+b切片 q ie p ian\
+b切碎 q ie s ui\
+b且 q ie\
+b怯 q ie\
+b窃贼 q ie z ei\
+b钦 q in\
+b钦州 q in zh ou\
+b钦州市 q in zh ou sh ix\
+b侵略 q in l ve\
+b侵略军 q in l ve j vn\
+b侵蚀 q in sh ix\
+b亲 q in\
+b亲 q ing\
+b亲近 q in j in\
+b亲朋 q in p eng\
+b亲切 q in q ie\
+b亲人 q in r en\
+b亲手 q in sh ou\
+b亲属 q in sh u\
+b亲王 q in uu uang\
+b亲缘 q in vv van\
+b秦 q in\
+b秦朝 q in ch ao\
+b秦朝 q in zh ao\
+b秦都区 q in d u q v\
+b秦俑 q in ii iong\
+b勤劳 q in l ao\
+b勤于 q in vv v\
+b禽 q in\
+b禽类 q in l ei\
+b禽畜 q in ch u\
+b寝 q in\
+b沁 q in\
+b青 q ing\
+b青菜 q ing c ai\
+b青草 q ing c ao\
+b青翠 q ing c ui\
+b青海 q ing h ai\
+b青花 q ing h ua\
+b青绿 q ing l v\
+b青年 q ing n ian\
+b青蛙 q ing uu ua\
+b青烟 q ing ii ian\
+b青叶 q ing ii ie\
+b青睐 q ing l ai\
+b轻 q ing\
+b轻而易举 q ing ee er ii i j v\
+b轻纺 q ing f ang\
+b轻风 q ing f eng\
+b轻微 q ing uu ui\
+b氢 q ing\
+b倾 q ing\
+b清 q ing\
+b清朝 q ing ch ao\
+b清澈 q ing ch e\
+b清晨 q ing ch en\
+b清楚 q ing ch u\
+b清代 q ing d ai\
+b清华大学 q ing h ua d a x ve\
+b清洁 q ing j ie\
+b清理 q ing l i\
+b清廷 q ing t ing\
+b清新 q ing x in\
+b清蒸 q ing zh eng\
+b清政府 q ing zh eng f u\
+b情 q ing\
+b情怀 q ing h uai\
+b情景 q ing j ing\
+b情况 q ing k uang\
+b情侣卡 q ing l v k a\
+b请 q ing\
+b请求 q ing q iu\
+b庆 q ing\
+b庆安 q ing aa an\
+b庆贺 q ing h e\
+b琼 q iong\
+b琼花 q iong h ua\
+b穷 q iong\
+b穷困 q iong k un\
+b穷途 q iong t u\
+b穷追不舍 q iong zh ui b u sh e\
+b秋 q iu\
+b秋天 q iu t ian\
+b秋阳 q iu ii iang\
+b秋雨 q iu vv v\
+b球 q iu\
+b球员 q iu vv van\
+b求 q iu\
+b求学 q iu x ve\
+b求医 q iu ii i\
+b趋势 q v sh ix\
+b区 q v\
+b区别 q v b ie\
+b区别对待 q v b ie d ui d ai\
+b区长 q v zh ang\
+b区党委 q v d ang uu ui\
+b区内 q v n ei\
+b区委书记 q v uu ui sh u j i\
+b区域 q v vv v\
+b曲 q v\
+b曲 q v\
+b曲目 q v m u\
+b曲曲 q v q v\
+b曲曲 q v q v\
+b曲折 q v zh e\
+b屈 q v\
+b屈尊 q v z un\
+b驱鬼 q v g ui\
+b取代 q v d ai\
+b取得 q v d e\
+b取决于 q v j ve vv v\
+b娶 q v\
+b去 q v\
+b去年 q v n ian\
+b去年秋天 q v n ian q iu t ian\
+b去年十月 q v n ian sh ix vv ve\
+b去年十月 q v n ian sh ix vv ve\
+b去找 q v zh ao\
+b圈 j van\
+b圈 q van\
+b圈层 q van c eng\
+b圈地 q van d i\
+b权 q van\
+b权衡 q van h eng\
+b权威 q van uu ui\
+b泉 q van\
+b全 q van\
+b全部 q van b u\
+b全厂 q van ch ang\
+b全村 q van c un\
+b全党 q van d ang\
+b全都 q van d ou\
+b全额 q van ee e\
+b全副武装 q van f u uu u zh uang\
+b全国 q van g uo\
+b全国各地 q van g uo g e d i\
+b全家 q van j ia\
+b全椒县 q van j iao x ian\
+b全局 q van j v\
+b全剧 q van j v\
+b全面 q van m ian\
+b全能 q van n eng\
+b全球 q van q iu\
+b全区 q van q v\
+b全然 q van r an\
+b全身 q van sh en\
+b全省 q van sh eng\
+b全套 q van t ao\
+b全体 q van t i\
+b全体员工 q van t i vv van g ong\
+b全天候 q van t ian h ou\
+b全文 q van uu un\
+b全县 q van x ian\
+b全有 q van ii iu\
+b全院 q van vv van\
+b痊愈 q van vv v\
+b劝说 q van sh uo\
+b劝阻 q van z u\
+b缺 q ve\
+b缺乏 q ve f a\
+b缺血 q ve x ie\
+b缺血 q ve x ve\
+b缺血 q ve x ve\
+b却 q ve\
+b却是 q ve sh ix\
+b确 q ve\
+b确保 q ve b ao\
+b确有 q ve ii iu\
+b确诊 q ve zh en\
+b裙装 q vn zh uang\
+b群 q vn\
+b群峰 q vn f eng\
+b群山 q vn sh an\
+b群体 q vn t i\
+b群众 q vn zh ong\
+b群众运动 q vn zh ong vv vn d ong\
+b然 r an\
+b然而 r an ee er\
+b然后 r an h ou\
+b燃 r an\
+b燃烧 r an sh ao\
+b冉 r an\
+b染 r an\
+b让 r ang\
+b让步 r ang b u\
+b让位 r ang uu ui\
+b饶恕 r ao sh u\
+b扰 r ao\
+b扰乱 r ao l uan\
+b绕 r ao\
+b惹得 r e d e\
+b热爱 r e aa ai\
+b热潮 r e ch ao\
+b热点 r e d ian\
+b热火朝天 r e h uo ch ao t ian\
+b热烈 r e l ie\
+b热闹 r e n ao\
+b热气腾腾 r e q i t eng t eng\
+b热血沸腾 r e x ie f ei t eng\
+b热血沸腾 r e x ve f ei t eng\
+b热血沸腾 r e x ve f ei t eng\
+b仁 r en\
+b人 r en\
+b人才 r en c ai\
+b人次 r en c iy\
+b人代会 r en d ai h ui\
+b人格 r en g e\
+b人工 r en g ong\
+b人工流产 r en g ong l iu ch an\
+b人和 r en h e\
+b人家 r en j ia\
+b人家 r en j ia\
+b人间 r en j ian\
+b人均 r en j vn\
+b人口 r en k ou\
+b人类 r en l ei\
+b人们 r en m en\
+b人民 r en m in\
+b人民大会堂 r en m in d a h ui t ang\
+b人民群众 r en m in q vn zh ong\
+b人民政府 r en m in zh eng f u\
+b人群 r en q vn\
+b人声鼎沸 r en sh eng d ing f ei\
+b人士 r en sh ix\
+b人体 r en t i\
+b人往 r en uu uang\
+b人为 r en uu ui\
+b人选 r en x van\
+b人仰马翻 r en ii iang m a f an\
+b人员 r en vv van\
+b人愿 r en vv van\
+b任 r en\
+b任 r en\
+b任何 r en h e\
+b任职 r en zh ix\
+b认识 r en sh ix\
+b认为 r en uu ui\
+b认真 r en zh en\
+b认真学习 r en zh en x ve x i\
+b刃 r en\
+b妊娠 r en sh en\
+b扔 r eng\
+b扔掉 r eng d iao\
+b扔进 r eng j in\
+b扔下 r eng x ia\
+b仍 r eng\
+b仍然 r eng r an\
+b仍是 r eng sh ix\
+b仍未 r eng uu ui\
+b日 r iz\
+b日本 r iz b en\
+b日电 r iz d ian\
+b日耳曼 r iz ee er m an\
+b日方 r iz f ang\
+b日化 r iz h ua\
+b日久 r iz j iu\
+b日军 r iz j vn\
+b日内瓦 r iz n ei uu ua\
+b日期 r iz q i\
+b日前 r iz q ian\
+b日数 r iz sh u\
+b日数 r iz sh u\
+b日伪 r iz uu ui\
+b日新月异 r iz x in vv ve ii i\
+b日夜 r iz ii ie\
+b日子 r iz z iy\
+b蓉 r ong\
+b荣登 r ong d eng\
+b荣生 r ong sh eng\
+b荣誉 r ong vv v\
+b融合 r ong h e\
+b融入 r ong r u\
+b融为一体 r ong uu ui ii i t i\
+b溶溶 r ong r ong\
+b溶溶 r ong r ong\
+b容 r ong\
+b容易 r ong ii i\
+b容易 r ong ii i\
+b绒 r ong\
+b揉 r ou\
+b柔道 r ou d ao\
+b柔和 r ou h e\
+b柔情 r ou q ing\
+b柔柔 r ou r ou\
+b柔柔 r ou r ou\
+b柔软 r ou r uan\
+b肉 r ou\
+b肉搏战 r ou b o zh an\
+b肉食 r ou sh ix\
+b肉眼 r ou ii ian\
+b儒将 r u j iang\
+b如 r u\
+b如此 r u c iy\
+b如果 r u g uo\
+b如何 r u h e\
+b如今 r u j in\
+b如数 r u sh u\
+b如同 r u t ong\
+b如玉 r u vv v\
+b乳 r u\
+b乳母 r u m u\
+b乳腺癌 r u x ian aa ai\
+b入 r u\
+b入海 r u h ai\
+b入室 r u sh ix\
+b入网 r u uu uang\
+b入伍 r u uu u\
+b软 r uan\
+b软件 r uan j ian\
+b软磨硬泡 r uan m o ii ing p ao\
+b软盘 r uan p an\
+b瑞 r ui\
+b瑞典 r ui d ian\
+b瑞特 r ui t e\
+b锐 r ui\
+b润 r un\
+b若 r uo\
+b若干 r uo g an\
+b弱 r uo\
+b撒 s a\
+b撒 s a\
+b洒脱 s a t uo\
+b萨 s a\
+b塞 s ai\
+b塞 s ai\
+b塞 s e\
+b塞尔维亚人 s ai ee er uu ui ii ia r en\
+b赛 s ai\
+b赛后 s ai h ou\
+b赛区 s ai q v\
+b三 s an\
+b三百 s an b ai\
+b三百六 s an b ai l iu\
+b三胞胎 s an b ao t ai\
+b三产 s an ch an\
+b三大 s an d a\
+b三度 s an d u\
+b三个 s an g e\
+b三个 s an g e\
+b三个月 s an g e vv ve\
+b三个月 s an g e vv ve\
+b三皇 s an h uang\
+b三绝 s an j ve\
+b三郎 s an l ang\
+b三菱 s an l ing\
+b三轮 s an l un\
+b三千 s an q ian\
+b三千多 s an q ian d uo\
+b三人 s an r en\
+b三日 s an r iz\
+b三三 s an s an\
+b三省 s an sh eng\
+b三十 s an sh ix\
+b三十三 s an sh ix s an\
+b三十三 s an sh ix s an\
+b三十万 s an sh ix uu uan\
+b三十万 s an sh ix uu uan\
+b三十一日 s an sh ix ii i r iz\
+b三十一日 s an sh ix ii i r iz\
+b三思而后行 s an s iy ee er h ou x ing\
+b三四点钟 s an s iy d ian zh ong\
+b三味 s an uu ui\
+b三夏 s an x ia\
+b三月 s an vv ve\
+b伞 s an\
+b伞降 s an j iang\
+b散 s an\
+b散 s an\
+b散尽 s an j in\
+b散落 s an l uo\
+b散文 s an uu un\
+b桑 s ang\
+b桑蚕 s ang c an\
+b桑拿浴 s ang n a vv v\
+b桑尼 s ang n i\
+b嗓音 s ang ii in\
+b嗓子 s ang z iy\
+b丧 s ang\
+b丧 s ang\
+b丧命 s ang m ing\
+b丧身 s ang sh en\
+b丧生 s ang sh eng\
+b丧失 s ang sh ix\
+b骚扰 s ao r ao\
+b扫除 s ao ch u\
+b扫荡 s ao d ang\
+b扫雷 s ao l ei\
+b扫描 s ao m iao\
+b扫兴 s ao x ing\
+b嫂 s ao\
+b色 s e\
+b色 sh ai\
+b色彩 s e c ai\
+b色泽 s e z e\
+b森 s en\
+b森林 s en l in\
+b僧 s eng\
+b僧人 s eng r en\
+b莎莉 sh a l i\
+b杀 sh a\
+b杀鸡取卵 sh a j i q v l uan\
+b杀人 sh a r en\
+b杀死 sh a s iy\
+b沙 sh a\
+b沙子 sh a z iy\
+b纱 sh a\
+b啥 sh a\
+b晒 sh ai\
+b晒干 sh ai g an\
+b晒太阳 sh ai t ai ii iang\
+b山 sh an\
+b山川 sh an ch uan\
+b山顶 sh an d ing\
+b山东 sh an d ong\
+b山东省 sh an d ong sh eng\
+b山沟 sh an g ou\
+b山间 sh an j ian\
+b山路 sh an l u\
+b山峦 sh an l uan\
+b山脉 sh an m ai\
+b山南地区 sh an n an d i q v\
+b山区 sh an q v\
+b山泉 sh an q van\
+b山雀 sh an q ve\
+b山上 sh an sh ang\
+b山上 sh an sh ang\
+b山西 sh an x i\
+b山下 sh an x ia\
+b山崖 sh an ii ia\
+b山羊 sh an ii iang\
+b山野 sh an ii ie\
+b煽 sh an\
+b衫 sh an\
+b闪 sh an\
+b闪闪 sh an sh an\
+b闪烁 sh an sh uo\
+b陕甘宁 sh an g an n ing\
+b擅长 sh an ch ang\
+b善长 sh an ch ang\
+b伤 sh ang\
+b伤残 sh ang c an\
+b伤心地 sh ang x in d e\
+b商 sh ang\
+b商场 sh ang ch ang\
+b商店 sh ang d ian\
+b商定 sh ang d ing\
+b商贩 sh ang f an\
+b商检 sh ang j ian\
+b商贸 sh ang m ao\
+b商品 sh ang p in\
+b商业 sh ang ii ie\
+b商业秘密 sh ang ii ie m i m i\
+b赏玩 sh ang uu uan\
+b赏月 sh ang vv ve\
+b上 sh ang\
+b上岸 sh ang aa an\
+b上百 sh ang b ai\
+b上半年 sh ang b an n ian\
+b上边 sh ang b ian\
+b上次 sh ang c iy\
+b上等 sh ang d eng\
+b上访 sh ang f ang\
+b上海 sh ang h ai\
+b上佳 sh ang j ia\
+b上交 sh ang j iao\
+b上街 sh ang j ie\
+b上空 sh ang k ong\
+b上来 sh ang l ai\
+b上来 sh ang l ai\
+b上了 sh ang l e\
+b上楼 sh ang l ou\
+b上落 sh ang l uo\
+b上坡 sh ang p o\
+b上前 sh ang q ian\
+b上去 sh ang q v\
+b上山去 sh ang sh an q v\
+b上山去 sh ang sh an q v\
+b上上下下 sh ang sh ang x ia x ia\
+b上身 sh ang sh en\
+b上司 sh ang s iy\
+b上头 sh ang t ou\
+b上午 sh ang uu u\
+b上下 sh ang x ia\
+b上校 sh ang x iao\
+b上学 sh ang x ve\
+b上旬 sh ang x vn\
+b上衣 sh ang ii i\
+b上游 sh ang ii iu\
+b上月 sh ang vv ve\
+b上涨 sh ang zh ang\
+b尚 sh ang\
+b尚未 sh ang uu ui\
+b尚无 sh ang uu u\
+b梢 sh ao\
+b稍 sh ao\
+b烧 sh ao\
+b烧鱼 sh ao vv v\
+b芍药 sh ao ii iao\
+b少 sh ao\
+b少 sh ao\
+b少部分 sh ao b u f en\
+b少吃 sh ao ch ix\
+b少儿 sh ao ee er\
+b少平 sh ao p ing\
+b少平 sh ao p ing\
+b少生 sh ao sh eng\
+b少文 sh ao uu un\
+b少文 sh ao uu un\
+b少校 sh ao x iao\
+b少爷 sh ao ii ie\
+b哨所 sh ao s uo\
+b哨位 sh ao uu ui\
+b邵 sh ao\
+b绍 sh ao\
+b蛇 sh e\
+b蛇行 sh e x ing\
+b舌 sh e\
+b舍 sh e\
+b舍 sh e\
+b舍去 sh e q v\
+b舍身 sh e sh en\
+b摄氏度 sh e sh ix d u\
+b摄影 sh e ii ing\
+b摄制组 sh e zh ix z u\
+b射击 sh e j i\
+b射箭 sh e j ian\
+b涉县 sh e x ian\
+b社 sh e\
+b社会 sh e h ui\
+b设 sh e\
+b设备 sh e b ei\
+b设备 sh e b ei\
+b设计 sh e j i\
+b设计 sh e j i\
+b设施 sh e sh ix\
+b设有 sh e ii iu\
+b设在 sh e z ai\
+b申 sh en\
+b申请人 sh en q ing r en\
+b伸 sh en\
+b身 sh en\
+b身板 sh en b an\
+b身材 sh en c ai\
+b身处 sh en ch u\
+b身手 sh en sh ou\
+b身着 sh en zh uo\
+b深 sh en\
+b深沉 sh en ch en\
+b深度 sh en d u\
+b深红 sh en h ong\
+b深切 sh en q ie\
+b深秋 sh en q iu\
+b深入 sh en r u\
+b深水港 sh en sh ui g ang\
+b深陷 sh en x ian\
+b深夜 sh en ii ie\
+b深远 sh en vv van\
+b神 sh en\
+b神池 sh en ch ix\
+b神汉 sh en h an\
+b神经病 sh en j ing b ing\
+b神奇 sh en q i\
+b神人 sh en r en\
+b神态 sh en t ai\
+b神韵 sh en vv vn\
+b沈 sh en\
+b沈阳 sh en ii iang\
+b沈阳市 sh en ii iang sh ix\
+b审批 sh en p i\
+b甚 sh en\
+b甚至 sh en zh ix\
+b慎重 sh en zh ong\
+b渗透 sh en t ou\
+b声 sh eng\
+b声明 sh eng m ing\
+b声音 sh eng ii in\
+b生 sh eng\
+b生病 sh eng b ing\
+b生产 sh eng ch an\
+b生产能力 sh eng ch an n eng l i\
+b生产线 sh eng ch an x ian\
+b生长 sh eng zh ang\
+b生长期 sh eng zh ang q i\
+b生存 sh eng c un\
+b生儿育女 sh eng ee er vv v n v\
+b生活 sh eng h uo\
+b生活区 sh eng h uo q v\
+b生活习惯 sh eng h uo x i g uan\
+b生活习性 sh eng h uo x i x ing\
+b生命 sh eng m ing\
+b生擒 sh eng q in\
+b生食 sh eng sh ix\
+b生态 sh eng t ai\
+b生下 sh eng x ia\
+b生性 sh eng x ing\
+b生意 sh eng ii i\
+b生意 sh eng ii i\
+b生油 sh eng ii iu\
+b生育 sh eng vv v\
+b生在 sh eng z ai\
+b升 sh eng\
+b升到 sh eng d ao\
+b升官 sh eng g uan\
+b升降 sh eng j iang\
+b绳 sh eng\
+b绳子 sh eng z iy\
+b省 sh eng\
+b省 x ing\
+b省内 sh eng n ei\
+b省区 sh eng q v\
+b省外 sh eng uu uai\
+b盛 ch eng\
+b盛 sh eng\
+b盛产 sh eng ch an\
+b盛夏 sh eng x ia\
+b盛行 sh eng x ing\
+b胜 sh eng\
+b胜负 sh eng f u\
+b圣 sh eng\
+b师 sh ix\
+b师生 sh ix sh eng\
+b失火 sh ix h uo\
+b失学 sh ix x ve\
+b湿润 sh ix r un\
+b诗 sh ix\
+b诗情 sh ix q ing\
+b诗人 sh ix r en\
+b诗意 sh ix ii i\
+b尸骨 sh ix g u\
+b十 sh ix\
+b十八 sh ix b a\
+b十八日 sh ix b a r iz\
+b十八岁 sh ix b a s ui\
+b十点 sh ix d ian\
+b十度 sh ix d u\
+b十二 sh ix ee er\
+b十二大 sh ix ee er d a\
+b十二点钟 sh ix ee er d ian zh ong\
+b十二日 sh ix ee er r iz\
+b十二月 sh ix ee er vv ve\
+b十二指肠 sh ix ee er zh ix ch ang\
+b十分 sh ix f en\
+b十分钟 sh ix f en zh ong\
+b十个 sh ix g e\
+b十几 sh ix j i\
+b十九 sh ix j iu\
+b十年 sh ix n ian\
+b十年后 sh ix n ian h ou\
+b十年前 sh ix n ian q ian\
+b十七岁 sh ix q i s ui\
+b十人 sh ix r en\
+b十日 sh ix r iz\
+b十三日 sh ix s an r iz\
+b十三四 sh ix s an s iy\
+b十三亿 sh ix s an ii i\
+b十四 sh ix s iy\
+b十四日 sh ix s iy r iz\
+b十四天 sh ix s iy t ian\
+b十天 sh ix t ian\
+b十万 sh ix uu uan\
+b十五 sh ix uu u\
+b十五号 sh ix uu u h ao\
+b十五岁 sh ix uu u s ui\
+b十一 sh ix ii i\
+b十一分 sh ix ii i f en\
+b十一日 sh ix ii i r iz\
+b十一月 sh ix ii i vv ve\
+b十亿 sh ix ii i\
+b十月 sh ix vv ve\
+b十月革命 sh ix vv ve g e m ing\
+b石 sh ix\
+b石雕 sh ix d iao\
+b石块 sh ix k uai\
+b石棉瓦 sh ix m ian uu ua\
+b石器时代 sh ix q i sh ix d ai\
+b石头 sh ix t ou\
+b石头 sh ix t ou\
+b石油 sh ix ii iu\
+b石之 sh ix zh ix\
+b石柱 sh ix zh u\
+b时 sh ix\
+b时代 sh ix d ai\
+b时而 sh ix ee er\
+b时候 sh ix h ou\
+b时机 sh ix j i\
+b时间 sh ix j ian\
+b时节 sh ix j ie\
+b时来运转 sh ix l ai vv vn zh uan\
+b时期 sh ix q i\
+b时下 sh ix x ia\
+b时装 sh ix zh uang\
+b什 sh en\
+b什 sh ix\
+b什么 sh en m e\
+b食 sh ix\
+b食品 sh ix p in\
+b食堂 sh ix t ang\
+b食物 sh ix uu u\
+b实 sh ix\
+b实诚 sh ix ch eng\
+b实诚 sh ix ch eng\
+b实际 sh ix j i\
+b实际上 sh ix j i sh ang\
+b实际上 sh ix j i sh ang\
+b实现 sh ix x ian\
+b实行 sh ix x ing\
+b实验 sh ix ii ian\
+b实业 sh ix ii ie\
+b实用性 sh ix ii iong x ing\
+b识 sh ix\
+b识见 sh ix j ian\
+b史 sh ix\
+b使 sh ix\
+b使人 sh ix r en\
+b使用 sh ix ii iong\
+b使用方法 sh ix ii iong f ang f a\
+b使用权 sh ix ii iong q van\
+b驶 sh ix\
+b驶近 sh ix j in\
+b驶往 sh ix uu uang\
+b始终 sh ix zh ong\
+b式 sh ix\
+b示弱 sh ix r uo\
+b士 sh ix\
+b士人 sh ix r en\
+b世 sh ix\
+b世代 sh ix d ai\
+b世纪 sh ix j i\
+b世界 sh ix j ie\
+b世界上 sh ix j ie sh ang\
+b世界上 sh ix j ie sh ang\
+b世界遗产 sh ix j ie ii i ch an\
+b世珍 sh ix zh en\
+b事 sh ix\
+b事迹 sh ix j i\
+b事件 sh ix j ian\
+b事物 sh ix uu u\
+b事务 sh ix uu u\
+b事业 sh ix ii ie\
+b事由 sh ix ii iu\
+b逝 sh ix\
+b逝世 sh ix sh ix\
+b是 sh ix\
+b是否 sh ix f ou\
+b是日 sh ix r iz\
+b是因为 sh ix ii in uu ui\
+b是因为 sh ix ii in uu ui\
+b是由 sh ix ii iu\
+b是指 sh ix zh ix\
+b适当 sh ix d ang\
+b适当 sh ix d ang\
+b适合 sh ix h e\
+b适宜 sh ix ii i\
+b适应 sh ix ii ing\
+b适应 sh ix ii ing\
+b适应性 sh ix ii ing x ing\
+b适用 sh ix ii iong\
+b适用于 sh ix ii iong vv v\
+b释迦牟尼 sh ix j ia m ou n i\
+b饰 sh ix\
+b氏 sh ix\
+b市 sh ix\
+b市场 sh ix ch ang\
+b市场报 sh ix ch ang b ao\
+b市场经济 sh ix ch ang j ing j i\
+b市长 sh ix zh ang\
+b市内 sh ix n ei\
+b市区 sh ix q v\
+b市委 sh ix uu ui\
+b市政 sh ix zh eng\
+b室外 sh ix uu uai\
+b试 sh ix\
+b收 sh ou\
+b收购 sh ou g ou\
+b收获 sh ou h uo\
+b收货 sh ou h uo\
+b收集 sh ou j i\
+b收容 sh ou r ong\
+b收入 sh ou r u\
+b收税 sh ou sh ui\
+b收徒 sh ou t u\
+b收住 sh ou zh u\
+b手 sh ou\
+b手臂 sh ou b i\
+b手边 sh ou b ian\
+b手表 sh ou b iao\
+b手段 sh ou d uan\
+b手绢 sh ou j van\
+b手里 sh ou l i\
+b手捧 sh ou p eng\
+b手术 sh ou sh u\
+b手套 sh ou t ao\
+b手腕 sh ou uu uan\
+b手掌 sh ou zh ang\
+b手指 sh ou zh ix\
+b首 sh ou\
+b首都 sh ou d u\
+b首府 sh ou f u\
+b首家 sh ou j ia\
+b首批 sh ou p i\
+b首位 sh ou uu ui\
+b首席 sh ou x i\
+b首先 sh ou x ian\
+b首选 sh ou x van\
+b守军 sh ou j vn\
+b寿 sh ou\
+b寿春 sh ou ch un\
+b授勋 sh ou x vn\
+b授予 sh ou vv v\
+b售货员 sh ou h uo vv van\
+b受 sh ou\
+b受宠 sh ou ch ong\
+b受到 sh ou d ao\
+b受欢迎 sh ou h uan ii ing\
+b受贿 sh ou h ui\
+b受贿罪 sh ou h ui z ui\
+b受奖 sh ou j iang\
+b受伤 sh ou sh ang\
+b受损 sh ou s un\
+b受孕 sh ou vv vn\
+b受阻 sh ou z u\
+b瘦高 sh ou g ao\
+b瘦弱 sh ou r uo\
+b瘦西湖 sh ou x i h u\
+b兽 sh ou\
+b兽行 sh ou x ing\
+b蔬菜 sh u c ai\
+b输 sh u\
+b输出 sh u ch u\
+b舒畅 sh u ch ang\
+b舒心 sh u x in\
+b舒云 sh u vv vn\
+b疏 sh u\
+b疏浚 sh u j vn\
+b书 sh u\
+b书报 sh u b ao\
+b书本 sh u b en\
+b书呆子 sh u d ai z iy\
+b书稿 sh u g ao\
+b书画 sh u h ua\
+b书画家 sh u h ua j ia\
+b书籍 sh u j i\
+b书记 sh u j i\
+b书市 sh u sh ix\
+b书屋 sh u uu u\
+b书写 sh u x ie\
+b熟悉 sh u x i\
+b薯 sh u\
+b属 sh u\
+b属于 sh u vv v\
+b树 sh u\
+b树木 sh u m u\
+b树影 sh u ii ing\
+b束 sh u\
+b数 sh u\
+b数百 sh u b ai\
+b数学 sh u x ve\
+b数学题 sh u x ve t i\
+b刷 sh ua\
+b耍 sh ua\
+b摔成 sh uai ch eng\
+b摔倒 sh uai d ao\
+b摔死 sh uai s iy\
+b衰老 sh uai l ao\
+b甩 sh uai\
+b帅 sh uai\
+b拴 sh uan\
+b拴住 sh uan zh u\
+b霜 sh uang\
+b双 sh uang\
+b双安 sh uang aa an\
+b双臂 sh uang b i\
+b双打 sh uang d a\
+b双耳 sh uang ee er\
+b双方 sh uang f ang\
+b双黄连 sh uang h uang l ian\
+b双目 sh uang m u\
+b双人 sh uang r en\
+b双手 sh uang sh ou\
+b双双 sh uang sh uang\
+b双眼 sh uang ii ian\
+b双拥 sh uang ii iong\
+b爽 sh uang\
+b谁 sh ei\
+b谁 sh ui\
+b谁家 sh ei j ia\
+b谁家 sh ui j ia\
+b谁来了 sh ei l ai l e\
+b谁来了 sh ui l ai l e\
+b谁知 sh ei zh ix\
+b谁知 sh ui zh ix\
+b水 sh ui\
+b水保 sh ui b ao\
+b水杯 sh ui b ei\
+b水泵房 sh ui b eng f ang\
+b水草 sh ui c ao\
+b水产 sh ui ch an\
+b水洞 sh ui d ong\
+b水开了 sh ui k ai l e\
+b水库 sh ui k u\
+b水面 sh ui m ian\
+b水平 sh ui p ing\
+b水洗 sh ui x i\
+b水运 sh ui vv vn\
+b水蒸气 sh ui zh eng q i\
+b水中 sh ui zh ong\
+b睡 sh ui\
+b税 sh ui\
+b税额 sh ui ee e\
+b税法 sh ui f a\
+b税金 sh ui j in\
+b税收 sh ui sh ou\
+b税务 sh ui uu u\
+b税务所 sh ui uu u s uo\
+b顺 sh un\
+b顺便 sh un b ian\
+b顺差 sh un ch a\
+b顺德 sh un d e\
+b顺利 sh un l i\
+b顺顺当当 sh un sh un d ang d ang\
+b顺序 sh un x v\
+b顺序排列 sh un x v p ai l ie\
+b说 sh uo\
+b说到 sh uo d ao\
+b说到这里 sh uo d ao zh e l i\
+b说法 sh uo f a\
+b说明 sh uo m ing\
+b说起来 sh uo q i l ai\
+b说什么 sh uo sh en m e\
+b说是 sh uo sh ix\
+b说完 sh uo uu uan\
+b说文 sh uo uu un\
+b说真话 sh uo zh en h ua\
+b硕大 sh uo d a\
+b硕果 sh uo g uo\
+b朔 sh uo\
+b斯 s iy\
+b斯巴达 s iy b a d a\
+b斯里兰卡 s iy l i l an k a\
+b斯诺 s iy n uo\
+b斯托 s iy t uo\
+b撕破 s iy p o\
+b嘶 s iy\
+b思 s iy\
+b思考 s iy k ao\
+b思路 s iy l u\
+b思奇 s iy q i\
+b思维 s iy uu ui\
+b思想 s iy x iang\
+b私 s iy\
+b私有 s iy ii iu\
+b司 s iy\
+b司机 s iy j i\
+b司令部 s iy l ing b u\
+b司令员 s iy l ing vv van\
+b丝 s iy\
+b丝厂 s iy ch ang\
+b丝绸之路 s iy ch ou zh ix l u\
+b丝毫 s iy h ao\
+b丝印 s iy ii in\
+b丝织 s iy zh ix\
+b死 s iy\
+b死狗 s iy g ou\
+b死后 s iy h ou\
+b死拉 s iy l a\
+b死亡 s iy uu uang\
+b死亡率 s iy uu uang l v\
+b死者 s iy zh e\
+b寺 s iy\
+b寺庙 s iy m iao\
+b四 s iy\
+b四百 s iy b ai\
+b四百多 s iy b ai d uo\
+b四川 s iy ch uan\
+b四川省 s iy ch uan sh eng\
+b四段 s iy d uan\
+b四方 s iy f ang\
+b四个 s iy g e\
+b四海 s iy h ai\
+b四季 s iy j i\
+b四家 s iy j ia\
+b四九年 s iy j iu n ian\
+b四面八方 s iy m ian b a f ang\
+b四秒 s iy m iao\
+b四年 s iy n ian\
+b四平市 s iy p ing sh ix\
+b四千 s iy q ian\
+b四人帮 s iy r en b ang\
+b四日 s iy r iz\
+b四十 s iy sh ix\
+b四十分 s iy sh ix f en\
+b四十万 s iy sh ix uu uan\
+b四时 s iy sh ix\
+b四溢 s iy ii i\
+b四月 s iy vv ve\
+b四种 s iy zh ong\
+b四周 s iy zh ou\
+b似 s iy\
+b似的 sh ix d e\
+b似地 sh ix d e\
+b似乎 s iy h u\
+b饲料 s iy l iao\
+b饲养 s iy ii iang\
+b饲养员 s iy ii iang vv van\
+b松 s ong\
+b松江 s ong j iang\
+b松软 s ong r uan\
+b松手 s ong sh ou\
+b颂 s ong\
+b送 s ong\
+b送到 s ong d ao\
+b送给 s ong g ei\
+b送货 s ong h uo\
+b送进 s ong j in\
+b送礼品 s ong l i p in\
+b送往 s ong uu uang\
+b送行 s ong x ing\
+b送走 s ong z ou\
+b宋 s ong\
+b宋庆龄 s ong q ing l ing\
+b宋真宗 s ong zh en z ong\
+b宋祖英 s ong z u ii ing\
+b讼 s ong\
+b搜查 s ou ch a\
+b艘 s ou\
+b苏 s u\
+b苏和 s u h e\
+b苏军 s u j vn\
+b苏联 s u l ian\
+b苏州 s u zh ou\
+b酥油茶 s u ii iu ch a\
+b俗 s u\
+b俗称 s u ch eng\
+b素云 s u vv vn\
+b速 s u\
+b塑料 s u l iao\
+b塑造 s u z ao\
+b宿 s u\
+b宿舍 s u sh e\
+b诉诸 s u zh u\
+b肃 s u\
+b肃然 s u r an\
+b酸甜苦辣 s uan t ian k u l a\
+b酸洗 s uan x i\
+b蒜黄 s uan h uang\
+b算 s uan\
+b算不算 s uan b u s uan\
+b算不算 s uan b u s uan\
+b算术 s uan sh u\
+b虽 s ui\
+b虽然 s ui r an\
+b隋 s ui\
+b随 s ui\
+b随风 s ui f eng\
+b随后 s ui h ou\
+b随机 s ui j i\
+b随即 s ui j i\
+b随口 s ui k ou\
+b随时 s ui sh ix\
+b随意 s ui ii i\
+b随着 s ui zh e\
+b岁 s ui\
+b岁月 s ui vv ve\
+b遂 s ui\
+b孙 s un\
+b孙儿 s un ee er\
+b孙女 s un n v\
+b孙悦 s un vv ve\
+b孙子 s un z iy\
+b损 s un\
+b损害 s un h ai\
+b损坏 s un h uai\
+b损伤 s un sh ang\
+b损失 s un sh ix\
+b损失惨重 s un sh ix c an zh ong\
+b笋 s un\
+b梭罗 s uo l uo\
+b缩 s uo\
+b缩小 s uo x iao\
+b索引 s uo ii in\
+b所 s uo\
+b所长 s uo zh ang\
+b所得 s uo d e\
+b所能 s uo n eng\
+b所剩 s uo sh eng\
+b所说 s uo sh uo\
+b所谓 s uo uu ui\
+b所需 s uo x v\
+b所以 s uo ii i\
+b所有 s uo ii iu\
+b所有者 s uo ii iu zh e\
+b所在 s uo z ai\
+b所致 s uo zh ix\
+b塌 t a\
+b他 t a\
+b他们 t a m en\
+b他人 t a r en\
+b他说 t a sh uo\
+b他乡 t a x iang\
+b它 t a\
+b它们 t a m en\
+b她 t a\
+b她们 t a m en\
+b她说 t a sh uo\
+b塔 t a\
+b塔山 t a sh an\
+b踏 t a\
+b抬头 t ai t ou\
+b台 t ai\
+b台儿庄 t ai ee er zh uang\
+b台上 t ai sh ang\
+b台湾 t ai uu uan\
+b台下 t ai x ia\
+b泰 t ai\
+b泰山 t ai sh an\
+b太 t ai\
+b太多 t ai d uo\
+b太湖 t ai h u\
+b太空船 t ai k ong ch uan\
+b太平 t ai p ing\
+b太平间 t ai p ing j ian\
+b太平洋 t ai p ing ii iang\
+b太太 t ai t ai\
+b太行 t ai h ang\
+b太阳 t ai ii iang\
+b太阳伞 t ai ii iang s an\
+b太原 t ai vv van\
+b太原市 t ai vv van sh ix\
+b态度 t ai d u\
+b态度 t ai d u\
+b汰 t ai\
+b摊 t an\
+b贪 t an\
+b贪污 t an uu u\
+b滩 t an\
+b檀 t an\
+b谈 t an\
+b谈到 t an d ao\
+b谈恋爱 t an l ian aa ai\
+b谈判 t an p an\
+b谈人生 t an r en sh eng\
+b坦 t an\
+b碳 t an\
+b探 t an\
+b探测 t an c e\
+b探索 t an s uo\
+b探讨 t an t ao\
+b探望 t an uu uang\
+b叹息 t an x i\
+b汤 t ang\
+b塘 t ang\
+b塘沽区 t ang g u q v\
+b堂 t ang\
+b堂皇 t ang h uang\
+b堂上 t ang sh ang\
+b堂屋 t ang uu u\
+b棠 t ang\
+b唐 t ang\
+b唐朝 t ang ch ao\
+b唐代 t ang d ai\
+b唐明 t ang m ing\
+b唐三彩 t ang s an c ai\
+b唐玄宗 t ang x van z ong\
+b唐寅 t ang ii in\
+b糖厂 t ang ch ang\
+b糖果 t ang g uo\
+b倘若 t ang r uo\
+b躺 t ang\
+b躺下 t ang x ia\
+b淌 t ang\
+b趟 t ang\
+b掏出 t ao ch u\
+b掏腰包 t ao ii iao b ao\
+b滔滔 t ao t ao\
+b桃 t ao\
+b桃花庵 t ao h ua aa an\
+b逃 t ao\
+b逃窜 t ao c uan\
+b逃离 t ao l i\
+b逃难 t ao n an\
+b逃匿 t ao n i\
+b逃跑 t ao p ao\
+b逃走 t ao z ou\
+b淘汰 t ao t ai\
+b淘汰赛 t ao t ai s ai\
+b陶 t ao\
+b讨 t ao\
+b讨论 t ao l un\
+b讨厌 t ao ii ian\
+b套 t ao\
+b套件 t ao j ian\
+b特 t e\
+b特别 t e b ie\
+b特此 t e c iy\
+b特地 t e d i\
+b特里 t e l i\
+b特聘 t e p in\
+b特殊 t e sh u\
+b特效 t e x iao\
+b特性 t e x ing\
+b特邀 t e ii iao\
+b特意 t e ii i\
+b特征 t e zh eng\
+b特质 t e zh ix\
+b特种 t e zh ong\
+b特种部队 t e zh ong b u d ui\
+b藤野先生 t eng ii ie x ian sh eng\
+b腾 t eng\
+b腾冲 t eng ch ong\
+b疼爱 t eng aa ai\
+b疼痛 t eng t ong\
+b梯队 t i d ui\
+b踢 t i\
+b提 t i\
+b提出 t i ch u\
+b提高 t i g ao\
+b提供 t i g ong\
+b提供 t i g ong\
+b提起 t i q i\
+b提前 t i q ian\
+b提议 t i ii i\
+b蹄 t i\
+b体内 t i n ei\
+b体弱 t i r uo\
+b体贴入微 t i t ie r u uu ui\
+b体外 t i uu uai\
+b体现 t i x ian\
+b体验 t i ii ian\
+b体育 t i vv v\
+b体育场 t i vv v ch ang\
+b体育用品 t i vv v ii iong p in\
+b体育中心 t i vv v zh ong x in\
+b体质 t i zh ix\
+b替代 t i d ai\
+b天 t ian\
+b天敌 t ian d i\
+b天地 t ian d i\
+b天高 t ian g ao\
+b天公 t ian g ong\
+b天河 t ian h e\
+b天津 t ian j in\
+b天空 t ian k ong\
+b天马 t ian m a\
+b天明 t ian m ing\
+b天内 t ian n ei\
+b天女散花 t ian n v s an h ua\
+b天气 t ian q i\
+b天然 t ian r an\
+b天天 t ian t ian\
+b天天说 t ian t ian sh uo\
+b天文 t ian uu un\
+b天霞 t ian x ia\
+b天下 t ian x ia\
+b天仙 t ian x ian\
+b天祥 t ian x iang\
+b天心 t ian x in\
+b天雨 t ian vv v\
+b填 t ian\
+b填平 t ian p ing\
+b填写 t ian x ie\
+b田 t ian\
+b田鸡 t ian j i\
+b田里 t ian l i\
+b田野 t ian ii ie\
+b田园 t ian vv van\
+b甜 t ian\
+b甜润 t ian r un\
+b恬静 t ian j ing\
+b挑灯夜战 t iao d eng ii ie zh an\
+b条 t iao\
+b条件 t iao j ian\
+b条例 t iao l i\
+b条约 t iao vv ve\
+b眺望 t iao uu uang\
+b跳 t iao\
+b跳进 t iao j in\
+b跳舞 t iao uu u\
+b跳下 t iao x ia\
+b跳崖 t iao ii ia\
+b跳远 t iao vv van\
+b铁 t ie\
+b铁道 t ie d ao\
+b铁管 t ie g uan\
+b铁栏杆 t ie l an g an\
+b铁栏杆 t ie l an g an\
+b铁路 t ie l u\
+b铁路局 t ie l u j v\
+b铁梅 t ie m ei\
+b铁丝网 t ie s iy uu uang\
+b厅 t ing\
+b厅堂 t ing t ang\
+b听 t ing\
+b听不到 t ing b u d ao\
+b听到 t ing d ao\
+b听话 t ing h ua\
+b听见 t ing j ian\
+b听觉 t ing j ve\
+b听来 t ing l ai\
+b听力 t ing l i\
+b听神经 t ing sh en j ing\
+b听说 t ing sh uo\
+b听者 t ing zh e\
+b停 t ing\
+b停产 t ing ch an\
+b停火 t ing h uo\
+b停下 t ing x ia\
+b停下来 t ing x ia l ai\
+b停业 t ing ii ie\
+b停止 t ing zh ix\
+b亭 t ing\
+b亭子 t ing z iy\
+b庭 t ing\
+b挺 t ing\
+b挺拔 t ing b a\
+b挺身 t ing sh en\
+b通 t ong\
+b通常 t ong ch ang\
+b通告 t ong g ao\
+b通过 t ong g uo\
+b通篇 t ong p ian\
+b通俗 t ong s u\
+b通向 t ong x iang\
+b通信业 t ong x in ii ie\
+b通行 t ong x ing\
+b通讯社 t ong x vn sh e\
+b通讯员 t ong x vn vv van\
+b通用 t ong ii iong\
+b通知 t ong zh ix\
+b桐城 t ong ch eng\
+b同 t ong\
+b同胞 t ong b ao\
+b同级 t ong j i\
+b同时 t ong sh ix\
+b同事 t ong sh ix\
+b同乡 t ong x iang\
+b同行 t ong h ang\
+b同学家 t ong x ve j ia\
+b同学们 t ong x ve m en\
+b同样 t ong ii iang\
+b同一个 t ong ii i g e\
+b同意 t ong ii i\
+b同月 t ong vv ve\
+b同志 t ong zh ix\
+b同住 t ong zh u\
+b同桌 t ong zh uo\
+b铜 t ong\
+b童话 t ong h ua\
+b桶 t ong\
+b捅 t ong\
+b筒 t ong\
+b统一 t ong ii i\
+b痛 t ong\
+b痛楚 t ong ch u\
+b痛击 t ong j i\
+b痛苦 t ong k u\
+b偷 t ou\
+b偷税 t ou sh ui\
+b投入 t ou r u\
+b投资 t ou z iy\
+b头 t ou\
+b头顶 t ou d ing\
+b头发 t ou f a\
+b头昏 t ou h un\
+b头盔 t ou k ui\
+b头羊 t ou ii iang\
+b头晕 t ou vv vn\
+b透过 t ou g uo\
+b透露 t ou l u\
+b透气 t ou q i\
+b秃鹫 t u j iu\
+b突出 t u ch u\
+b突发奇想 t u f a q i x iang\
+b突破 t u p o\
+b突破口 t u p o k ou\
+b突然 t u r an\
+b突入 t u r u\
+b突围 t u uu ui\
+b突兀 t u uu u\
+b图 t u\
+b图案 t u aa an\
+b图谋 t u m ou\
+b图书 t u sh u\
+b图书馆 t u sh u g uan\
+b图文并茂 t u uu un b ing m ao\
+b图纸 t u zh ix\
+b途经 t u j ing\
+b途径 t u j ing\
+b涂料 t u l iao\
+b屠 t u\
+b土 t u\
+b土层 t u c eng\
+b土窑 t u ii iao\
+b土著 t u zh u\
+b吐 t u\
+b兔 t u\
+b兔子 t u z iy\
+b湍流 t uan l iu\
+b团 t uan\
+b团部 t uan b u\
+b团长 t uan zh ang\
+b团结 t uan j ie\
+b团体赛 t uan t i s ai\
+b团团 t uan t uan\
+b推 t ui\
+b推波助澜 t ui b o zh u l an\
+b推出 t ui ch u\
+b推动 t ui d ong\
+b推而广之 t ui ee er g uang zh ix\
+b推广 t ui g uang\
+b推进 t ui j in\
+b推进剂 t ui j in j i\
+b推理 t ui l i\
+b推门 t ui m en\
+b推土机 t ui t u j i\
+b推下 t ui x ia\
+b推销 t ui x iao\
+b推卸 t ui x ie\
+b推行 t ui x ing\
+b腿 t ui\
+b蜕皮 t ui p i\
+b退缩 t ui s uo\
+b退伍 t ui uu u\
+b退休 t ui x iu\
+b吞 t un\
+b吞没 t un m o\
+b吞吞吐吐 t un t un t u t u\
+b吞下 t un x ia\
+b臀围 t un uu ui\
+b拖 t uo\
+b拖欠 t uo q ian\
+b拖延 t uo ii ian\
+b托 t uo\
+b托尔斯泰 t uo ee er s iy t ai\
+b托运 t uo vv vn\
+b脱落 t uo l uo\
+b脱贫 t uo p in\
+b脱去 t uo q v\
+b脱逃 t uo t ao\
+b脱位 t uo uu ui\
+b脱颖而出 t uo ii ing ee er ch u\
+b椭圆 t uo vv van\
+b唾沫 t uo m o\
+b挖 uu ua\
+b挖掘 uu ua j ve\
+b挖潜 uu ua q ian\
+b挖土机 uu ua t u j i\
+b哇 uu ua\
+b哇 uu ua\
+b蛙 uu ua\
+b娃 uu ua\
+b娃儿 uu ua ee er\
+b娃哈哈 uu ua h a h a\
+b娃娃 uu ua uu ua\
+b娃娃脸 uu ua uu ua l ian\
+b娃娃鱼 uu ua uu ua vv v\
+b娃子 uu ua z iy\
+b瓦 uu ua\
+b瓦解 uu ua j ie\
+b瓦努阿图 uu ua n u aa a t u\
+b瓦斯 uu ua s iy\
+b袜子 uu ua z iy\
+b歪 uu uai\
+b歪歪 uu uai uu uai\
+b外 uu uai\
+b外币 uu uai b i\
+b外表 uu uai b iao\
+b外部 uu uai b u\
+b外层 uu uai c eng\
+b外长 uu uai zh ang\
+b外出 uu uai ch u\
+b外地 uu uai d i\
+b外敷 uu uai f u\
+b外公外婆 uu uai g ong uu uai p o\
+b外观 uu uai g uan\
+b外国 uu uai g uo\
+b外国人 uu uai g uo r en\
+b外汇 uu uai h ui\
+b外交 uu uai j iao\
+b外交部 uu uai j iao b u\
+b外交官 uu uai j iao g uan\
+b外交人员 uu uai j iao r en vv van\
+b外界 uu uai j ie\
+b外科 uu uai k e\
+b外来人口 uu uai l ai r en k ou\
+b外貌 uu uai m ao\
+b外贸 uu uai m ao\
+b外面 uu uai m ian\
+b外婆 uu uai p o\
+b外勤 uu uai q in\
+b外圈 uu uai q van\
+b外商 uu uai sh ang\
+b外省 uu uai sh eng\
+b外水 uu uai sh ui\
+b外头 uu uai t ou\
+b外围 uu uai uu ui\
+b外文 uu uai uu un\
+b外务 uu uai uu u\
+b外乡人 uu uai x iang r en\
+b外向 uu uai x iang\
+b外销 uu uai x iao\
+b外形 uu uai x ing\
+b外延 uu uai ii ian\
+b外用 uu uai ii iong\
+b外语 uu uai vv v\
+b外资 uu uai z iy\
+b弯 uu uan\
+b弯腰 uu uan ii iao\
+b湾 uu uan\
+b玩忽职守 uu uan h u zh ix sh ou\
+b玩乐 uu uan l e\
+b玩命 uu uan m ing\
+b玩闹 uu uan n ao\
+b玩弄 uu uan n ong\
+b玩耍 uu uan sh ua\
+b玩玩 uu uan uu uan\
+b玩物 uu uan uu u\
+b玩意 uu uan ii i\
+b玩意儿 uu uan ii i ee er\
+b顽 uu uan\
+b顽固 uu uan g u\
+b顽强 uu uan q iang\
+b完 uu uan\
+b完备 uu uan b ei\
+b完毕 uu uan b i\
+b完成 uu uan ch eng\
+b完成任务 uu uan ch eng r en uu u\
+b完了 uu uan l e\
+b完美 uu uan m ei\
+b完美结合 uu uan m ei j ie h e\
+b完全 uu uan q van\
+b完善 uu uan sh an\
+b完整 uu uan zh eng\
+b碗 uu uan\
+b碗口 uu uan k ou\
+b挽回 uu uan h ui\
+b晚 uu uan\
+b晚婚晚育 uu uan h un uu uan vv v\
+b晚间 uu uan j ian\
+b晚上 uu uan sh ang\
+b晚上 uu uan sh ang\
+b皖 uu uan\
+b宛若 uu uan r uo\
+b婉言谢绝 uu uan ii ian x ie j ve\
+b婉转 uu uan zh uan\
+b万 uu uan\
+b万宝路 uu uan b ao l u\
+b万吨级 uu uan d un j i\
+b万里 uu uan l i\
+b万人 uu uan r en\
+b万世 uu uan sh ix\
+b万一 uu uan ii i\
+b万元 uu uan vv van\
+b腕 uu uan\
+b汪 uu uang\
+b汪精卫 uu uang j ing uu ui\
+b汪汪汪 uu uang uu uang uu uang\
+b王 uu uang\
+b王斌 uu uang b in\
+b王储 uu uang ch u\
+b王村 uu uang c un\
+b王刚 uu uang g ang\
+b王宫 uu uang g ong\
+b王国 uu uang g uo\
+b王家 uu uang j ia\
+b王军霞 uu uang j vn x ia\
+b王俊 uu uang j vn\
+b王开 uu uang k ai\
+b王蕾 uu uang l ei\
+b王磊 uu uang l ei\
+b王茂 uu uang m ao\
+b王某 uu uang m ou\
+b王培 uu uang p ei\
+b王婆 uu uang p o\
+b王琴 uu uang q in\
+b王叔 uu uang sh u\
+b王铁 uu uang t ie\
+b王维 uu uang uu ui\
+b王伟 uu uang uu ui\
+b王位 uu uang uu ui\
+b王新 uu uang x in\
+b王旭东 uu uang x v d ong\
+b王亚 uu uang ii ia\
+b王雁 uu uang ii ian\
+b王爷 uu uang ii ie\
+b王英 uu uang ii ing\
+b王云 uu uang vv vn\
+b王震 uu uang zh en\
+b王媛 uu uang vv van\
+b枉 uu uang\
+b网 uu uang\
+b网点 uu uang d ian\
+b网管 uu uang g uan\
+b网络 uu uang l uo\
+b网箱 uu uang x iang\
+b往 uu uang\
+b往回 uu uang h ui\
+b往来 uu uang l ai\
+b往前 uu uang q ian\
+b往日 uu uang r iz\
+b往上 uu uang sh ang\
+b往往 uu uang uu uang\
+b往下 uu uang x ia\
+b旺仔 uu uang z ai\
+b望 uu uang\
+b望江 uu uang j iang\
+b望去 uu uang q v\
+b望望 uu uang uu uang\
+b望眼欲穿 uu uang ii ian vv v ch uan\
+b望远镜 uu uang vv van j ing\
+b望子成龙 uu uang z iy ch eng l ong\
+b忘本 uu uang b en\
+b忘不了 uu uang b u l iao\
+b忘怀 uu uang h uai\
+b忘记 uu uang j i\
+b忘了 uu uang l e\
+b忘却 uu uang q ve\
+b忘我 uu uang uu uo\
+b妄 uu uang\
+b威胁 uu ui x ie\
+b巍峨 uu ui ee e\
+b巍巍 uu ui uu ui\
+b微 uu ui\
+b微妙 uu ui m iao\
+b微弱 uu ui r uo\
+b微生物 uu ui sh eng uu u\
+b微微 uu ui uu ui\
+b微微 uu ui uu ui\
+b危 uu ui\
+b韦 uu ui\
+b违反 uu ui f an\
+b围 uu ui\
+b围捕 uu ui b u\
+b围栏 uu ui l an\
+b围绕 uu ui r ao\
+b围住 uu ui zh u\
+b唯唯诺诺 uu ui uu ui n uo n uo\
+b唯有 uu ui ii iu\
+b惟 uu ui\
+b为 uu ui\
+b为 uu ui\
+b为此 uu ui c iy\
+b为何 uu ui h e\
+b为了 uu ui l e\
+b为人 uu ui r en\
+b为什么 uu ui sh en m e\
+b为什么 uu ui sh ix m e\
+b为由 uu ui ii iu\
+b为有 uu ui ii iu\
+b为有 uu ui ii iu\
+b为之 uu ui zh ix\
+b为准 uu ui zh un\
+b维持 uu ui ch ix\
+b维生素 uu ui sh eng s u\
+b维斯 uu ui s iy\
+b维特 uu ui t e\
+b维吾尔 uu ui uu u ee er\
+b维也纳 uu ui ii ie n a\
+b萎缩 uu ui s uo\
+b委 uu ui\
+b委内瑞拉 uu ui n ei r ui l a\
+b委托 uu ui t uo\
+b委员 uu ui vv van\
+b委员会 uu ui vv van h ui\
+b伟 uu ui\
+b伪军 uu ui j vn\
+b伪劣 uu ui l ie\
+b伪造 uu ui z ao\
+b尾 uu ui\
+b尾 ii i\
+b尾巴 uu ui b a\
+b尾巴 ii i b a\
+b未 uu ui\
+b未必 uu ui b i\
+b未果 uu ui g uo\
+b未经 uu ui j ing\
+b未来 uu ui l ai\
+b未能 uu ui n eng\
+b未遂 uu ui s ui\
+b未曾 uu ui c eng\
+b蔚 uu ui\
+b蔚然 uu ui r an\
+b味 uu ui\
+b味儿 uu ui ee er\
+b胃 uu ui\
+b胃癌 uu ui aa ai\
+b胃酸 uu ui s uan\
+b喂 uu ui\
+b喂食 uu ui sh ix\
+b喂养 uu ui ii iang\
+b喂药 uu ui ii iao\
+b位 uu ui\
+b位于 uu ui vv v\
+b位在 uu ui z ai\
+b慰问 uu ui uu un\
+b卫冕 uu ui m ian\
+b卫生 uu ui sh eng\
+b卫生员 uu ui sh eng vv van\
+b瘟疫 uu un ii i\
+b温 uu un\
+b温饱 uu un b ao\
+b温度 uu un d u\
+b温暖如春 uu un n uan r u ch un\
+b温柔 uu un r ou\
+b温州 uu un zh ou\
+b蚊 uu un\
+b蚊蝇 uu un ii ing\
+b蚊子 uu un z iy\
+b文 uu un\
+b文本 uu un b en\
+b文彬 uu un b in\
+b文采 uu un c ai\
+b文富 uu un f u\
+b文阁 uu un g e\
+b文华 uu un h ua\
+b文化 uu un h ua\
+b文化馆 uu un h ua g uan\
+b文化局 uu un h ua j v\
+b文件 uu un j ian\
+b文静 uu un j ing\
+b文兰 uu un l an\
+b文联 uu un l ian\
+b文明 uu un m ing\
+b文人 uu un r en\
+b文史 uu un sh ix\
+b文体 uu un t i\
+b文物 uu un uu u\
+b文选 uu un x van\
+b文学 uu un x ve\
+b文学作品 uu un x ve z uo p in\
+b文言文 uu un ii ian uu un\
+b文艺 uu un ii i\
+b文友 uu un ii iu\
+b文远 uu un vv van\
+b文章 uu un zh ang\
+b文征明 uu un zh eng m ing\
+b文中 uu un zh ong\
+b文字 uu un z iy\
+b闻 uu un\
+b闻风 uu un f eng\
+b闻风丧胆 uu un f eng s ang d an\
+b闻讯 uu un x vn\
+b闻一多 uu un ii i d uo\
+b纹 uu un\
+b稳 uu un\
+b稳定 uu un d ing\
+b稳扎稳打 uu un zh a uu un d a\
+b问 uu un\
+b问道 uu un d ao\
+b问话 uu un h ua\
+b问题 uu un t i\
+b问药 uu un ii iao\
+b嗡 uu ueng\
+b嗡嗡 uu ueng uu ueng\
+b嗡嗡 uu ueng uu ueng\
+b翁 uu ueng\
+b窝 uu uo\
+b窝藏 uu uo c ang\
+b窝囊 uu uo n ang\
+b窝头 uu uo t ou\
+b窝窝头 uu uo uu uo t ou\
+b我 uu uo\
+b我不会 uu uo b u h ui\
+b我的家 uu uo d e j ia\
+b我的灵魂 uu uo d e l ing h un\
+b我的手 uu uo d e sh ou\
+b我国 uu uo g uo\
+b我家 uu uo j ia\
+b我军 uu uo j vn\
+b我妈 uu uo m a\
+b我们 uu uo m en\
+b我们一家 uu uo m en ii i j ia\
+b我娘 uu uo n iang\
+b我省 uu uo sh eng\
+b我喜欢 uu uo x i h uan\
+b我县 uu uo x ian\
+b我以为 uu uo ii i uu ui\
+b我镇 uu uo zh en\
+b我终于 uu uo zh ong vv v\
+b卧床 uu uo ch uang\
+b卧铺 uu uo p u\
+b握 uu uo\
+b握手言和 uu uo sh ou ii ian h e\
+b沃 uu uo\
+b沃土 uu uo t u\
+b沃野 uu uo ii ie\
+b巫婆 uu u p o\
+b巫山 uu u sh an\
+b呜呜 uu u uu u\
+b乌 uu u\
+b乌尔 uu u ee er\
+b乌金 uu u j in\
+b乌克兰 uu u k e l an\
+b乌兹别克斯坦 uu u z iy b ie k e s iy t an\
+b污 uu u\
+b污水 uu u sh ui\
+b诬蔑 uu u m ie\
+b屋 uu u\
+b屋顶 uu u d ing\
+b屋角 uu u j iao\
+b屋内 uu u n ei\
+b屋子 uu u z iy\
+b无 uu u\
+b无碍 uu u aa ai\
+b无法 uu u f a\
+b无方 uu u f ang\
+b无光 uu u g uang\
+b无害 uu u h ai\
+b无愧于 uu u k ui vv v\
+b无论 uu u l un\
+b无论是 uu u l un sh ix\
+b无奈 uu u n ai\
+b无期徒刑 uu u q i t u x ing\
+b无人问津 uu u r en uu un j in\
+b无声 uu u sh eng\
+b无数 uu u sh u\
+b无望 uu u uu uang\
+b无线 uu u x ian\
+b无一 uu u ii i\
+b无疑 uu u ii i\
+b无影无踪 uu u ii ing uu u z ong\
+b无缘无故 uu u vv van uu u g u\
+b梧 uu u\
+b吴 uu u\
+b吴孟超 uu u m eng ch ao\
+b毋 uu u\
+b武 uu u\
+b武昌鱼 uu u ch ang vv v\
+b武官 uu u g uan\
+b武汉 uu u h an\
+b武器装备 uu u q i zh uang b ei\
+b武装 uu u zh uang\
+b五 uu u\
+b五百 uu u b ai\
+b五村 uu u c un\
+b五大 uu u d a\
+b五段 uu u d uan\
+b五个 uu u g e\
+b五个月 uu u g e vv ve\
+b五更 uu u g eng\
+b五国 uu u g uo\
+b五六 uu u l iu\
+b五六年 uu u l iu n ian\
+b五年 uu u n ian\
+b五年内 uu u n ian n ei\
+b五千 uu u q ian\
+b五人 uu u r en\
+b五色 uu u s e\
+b五十 uu u sh ix\
+b五十八 uu u sh ix b a\
+b五十多 uu u sh ix d uo\
+b五十九 uu u sh ix j iu\
+b五四运动 uu u s iy vv vn d ong\
+b五台 uu u t ai\
+b五万 uu u uu uan\
+b五味 uu u uu ui\
+b五香 uu u x iang\
+b五项 uu u x iang\
+b五行 uu u x ing\
+b五亿 uu u ii i\
+b五岳 uu u vv ve\
+b五月 uu u vv ve\
+b午 uu u\
+b午餐肉 uu u c an r ou\
+b午饭 uu u f an\
+b午后 uu u h ou\
+b午夜 uu u ii ie\
+b舞 uu u\
+b舞会 uu u h ui\
+b舞团 uu u t uan\
+b伍 uu u\
+b雾 uu u\
+b物 uu u\
+b物品 uu u p in\
+b物体 uu u t i\
+b物像 uu u x iang\
+b物资 uu u z iy\
+b勿忘 uu u uu uang\
+b勿忘我 uu u uu uang uu uo\
+b务 uu u\
+b务必 uu u b i\
+b务实 uu u sh ix\
+b悟 uu u\
+b悟到 uu u d ao\
+b悟到 uu u d ao\
+b误差 uu u ch a\
+b误区 uu u q v\
+b昔日 x i r iz\
+b西 x i\
+b西安 x i aa an\
+b西班牙 x i b an ii ia\
+b西北 x i b ei\
+b西北角 x i b ei j iao\
+b西部 x i b u\
+b西藏 x i z ang\
+b西楚 x i ch u\
+b西德 x i d e\
+b西瓜 x i g ua\
+b西哈努克 x i h a n u k e\
+b西湖 x i h u\
+b西门外 x i m en uu uai\
+b西山 x i sh an\
+b西周 x i zh ou\
+b矽 x i\
+b吸食 x i sh ix\
+b吸引 x i ii in\
+b牺牲 x i sh eng\
+b稀 x i\
+b稀薄 x i b o\
+b稀饭 x i f an\
+b稀奇 x i q i\
+b息 x i\
+b希 x i\
+b希君 x i j vn\
+b希望 x i uu uang\
+b希望小学 x i uu uang x iao x ve\
+b膝伤 x i sh ang\
+b溪 x i\
+b袭击 x i j i\
+b袭人 x i r en\
+b席 x i\
+b习惯 x i g uan\
+b喜 x i\
+b喜爱 x i aa ai\
+b喜欢 x i h uan\
+b喜讯 x i x vn\
+b喜悦 x i vv ve\
+b铣 x i\
+b洗 x i\
+b洗涤剂 x i d i j i\
+b洗净 x i j ing\
+b洗衣做饭 x i ii i z uo f an\
+b系 j i\
+b系列 x i l ie\
+b系统 x i t ong\
+b戏 x i\
+b戏称 x i ch eng\
+b细 x i\
+b细嚼慢咽 x i j iao m an ii ian\
+b细致 x i zh ix\
+b瞎说 x ia sh uo\
+b瞎子 x ia z iy\
+b虾 x ia\
+b峡 x ia\
+b侠 x ia\
+b狭小 x ia x iao\
+b下 x ia\
+b下辈子 x ia b ei z iy\
+b下边 x ia b ian\
+b下大雨 x ia d a vv v\
+b下到 x ia d ao\
+b下地 x ia d i\
+b下放 x ia f ang\
+b下滑 x ia h ua\
+b下降 x ia j iang\
+b下决心 x ia j ve x in\
+b下来 x ia l ai\
+b下里巴人 x ia l i b a r en\
+b下面 x ia m ian\
+b下派 x ia p ai\
+b下去 x ia q v\
+b下山 x ia sh an\
+b下午 x ia uu u\
+b下乡 x ia x iang\
+b下旬 x ia x vn\
+b下压 x ia ii ia\
+b下腰 x ia ii iao\
+b下一个 x ia ii i g e\
+b下游 x ia ii iu\
+b下雨 x ia vv v\
+b下榻 x ia t a\
+b厦门市 x ia m en sh ix\
+b夏 x ia\
+b夏花 x ia h ua\
+b夏衍 x ia ii ian\
+b夏夜 x ia ii ie\
+b锨 x ian\
+b先 x ian\
+b先锋派 x ian f eng p ai\
+b先后 x ian h ou\
+b先进 x ian j in\
+b先生 x ian sh eng\
+b先是 x ian sh ix\
+b仙 x ian\
+b鲜 x ian\
+b鲜 x ian\
+b鲜花 x ian h ua\
+b鲜活 x ian h uo\
+b鲜味 x ian uu ui\
+b鲜血 x ian x ie\
+b鲜血 x ian x ve\
+b鲜血 x ian x ve\
+b咸菜 x ian c ai\
+b咸阳 x ian ii iang\
+b咸阳市 x ian ii iang sh ix\
+b贤 x ian\
+b闲时 x ian sh ix\
+b闲言碎语 x ian ii ian s ui vv v\
+b嫌疑犯 x ian ii i f an\
+b显得 x ian d e\
+b显而易见 x ian ee er ii i j ian\
+b显赫 x ian h e\
+b显然 x ian r an\
+b险恶 x ian ee e\
+b现 x ian\
+b现场 x ian ch ang\
+b现成 x ian ch eng\
+b现阶段 x ian j ie d uan\
+b现年 x ian n ian\
+b现实 x ian sh ix\
+b现象 x ian x iang\
+b现有 x ian ii iu\
+b现在 x ian z ai\
+b现状 x ian zh uang\
+b献艺 x ian ii i\
+b县 x ian\
+b县级 x ian j i\
+b县市 x ian sh ix\
+b县医院 x ian ii i vv van\
+b县政协 x ian zh eng x ie\
+b羡慕 x ian m u\
+b宪 x ian\
+b宪法 x ian f a\
+b陷 x ian\
+b陷进 x ian j in\
+b限于 x ian vv v\
+b线 x ian\
+b相 x iang\
+b相 x iang\
+b相传 x iang ch uan\
+b相当 x iang d ang\
+b相当于 x iang d ang vv v\
+b相对 x iang d ui\
+b相反 x iang f an\
+b相关 x iang g uan\
+b相关知识 x iang g uan zh ix sh ix\
+b相互 x iang h u\
+b相互作用 x iang h u z uo ii iong\
+b相继 x iang j i\
+b相恋 x iang l ian\
+b相熟 x iang sh u\
+b相信我 x iang x in uu uo\
+b相应 x iang ii ing\
+b相映 x iang ii ing\
+b相悖 x iang b ei\
+b香 x iang\
+b香港 x iang g ang\
+b香菇 x iang g u\
+b香香 x iang x iang\
+b香烟 x iang ii ian\
+b箱 x iang\
+b箱内 x iang n ei\
+b湘江 x iang j iang\
+b乡 x iang\
+b乡里 x iang l i\
+b乡镇 x iang zh en\
+b祥 x iang\
+b想 x iang\
+b想出 x iang ch u\
+b想念 x iang n ian\
+b想起来 x iang q i l ai\
+b想象 x iang x iang\
+b想笑 x iang x iao\
+b想要 x iang ii iao\
+b响 x iang\
+b享年 x iang n ian\
+b享受 x iang sh ou\
+b享用 x iang ii iong\
+b享誉 x iang vv v\
+b项目 x iang m u\
+b项羽 x iang vv v\
+b巷战 x iang zh an\
+b橡树 x iang sh u\
+b像 x iang\
+b向 x iang\
+b向往 x iang uu uang\
+b向我招手 x iang uu uo zh ao sh ou\
+b象 x iang\
+b哮喘病 x iao ch uan b ing\
+b销 x iao\
+b销毁 x iao h ui\
+b销售 x iao sh ou\
+b销售额 x iao sh ou ee e\
+b销售渠道 x iao sh ou q v d ao\
+b消费者 x iao f ei zh e\
+b消耗 x iao h ao\
+b消灭 x iao m ie\
+b消去 x iao q v\
+b消逝 x iao sh ix\
+b消息 x iao x i\
+b消灾 x iao z ai\
+b晓 x iao\
+b晓得 x iao d e\
+b晓庄 x iao zh uang\
+b小 x iao\
+b小艾 x iao aa ai\
+b小杯 x iao b ei\
+b小船 x iao ch uan\
+b小房子 x iao f ang z iy\
+b小费 x iao f ei\
+b小孩子 x iao h ai z iy\
+b小湖 x iao h u\
+b小姐 x iao j ie\
+b小军 x iao j vn\
+b小康村 x iao k ang c un\
+b小路 x iao l u\
+b小麦 x iao m ai\
+b小苗 x iao m iao\
+b小胖子 x iao p ang z iy\
+b小巧玲珑 x iao q iao l ing l ong\
+b小人 x iao r en\
+b小山 x iao sh an\
+b小时侯 x iao sh ix h ou\
+b小文 x iao uu un\
+b小伍 x iao uu u\
+b小院 x iao vv van\
+b小仲 x iao zh ong\
+b小组 x iao z u\
+b校服 x iao f u\
+b肖 x iao\
+b肖 x iao\
+b笑 x iao\
+b笑着 x iao zh e\
+b效 x iao\
+b效果 x iao g uo\
+b效率 x iao l v\
+b效益 x iao ii i\
+b效应 x iao ii ing\
+b些 x ie\
+b歇 x ie\
+b蝎 x ie\
+b协调 x ie t iao\
+b协议 x ie ii i\
+b协约国 x ie vv ve g uo\
+b协助 x ie zh u\
+b协作 x ie z uo\
+b携 x ie\
+b邪王 x ie uu uang\
+b斜眼 x ie ii ian\
+b写 x ie\
+b写给 x ie g ei\
+b谢 x ie\
+b谢晋 x ie j in\
+b谢意 x ie ii i\
+b芯 x in\
+b欣然 x in r an\
+b欣赏 x in sh ang\
+b辛 x in\
+b辛苦 x in k u\
+b新 x in\
+b新材料 x in c ai l iao\
+b新潮 x in ch ao\
+b新的 x in d e\
+b新都 x in d u\
+b新概念英语 x in g ai n ian ii ing vv v\
+b新港 x in g ang\
+b新华社 x in h ua sh e\
+b新华医院 x in h ua ii i vv van\
+b新加坡 x in j ia p o\
+b新建 x in j ian\
+b新晋 x in j in\
+b新郎 x in l ang\
+b新立 x in l i\
+b新路 x in l u\
+b新娘 x in n iang\
+b新闻 x in uu un\
+b新鲜 x in x ian\
+b新型 x in x ing\
+b新药 x in ii iao\
+b新颖 x in ii ing\
+b忻 x in\
+b心 x in\
+b心地 x in d i\
+b心浮 x in f u\
+b心肝 x in g an\
+b心肌梗塞 x in j i g eng s e\
+b心惊肉跳 x in j ing r ou t iao\
+b心境 x in j ing\
+b心理学 x in l i x ve\
+b心里 x in l i\
+b心力 x in l i\
+b心情 x in q ing\
+b心思 x in s iy\
+b心头 x in t ou\
+b心脏 x in z ang\
+b信 x in\
+b信佛 x in f o\
+b信徒 x in t u\
+b信息 x in x i\
+b信息业 x in x i ii ie\
+b信用卡 x in ii iong k a\
+b星空 x ing k ong\
+b腥味 x ing uu ui\
+b猩猩 x ing x ing\
+b兴起 x ing q i\
+b兴趣 x ing q v\
+b刑法 x ing f a\
+b刑侦 x ing zh en\
+b型材 x ing c ai\
+b形 x ing\
+b形成 x ing ch eng\
+b形式 x ing sh ix\
+b形势 x ing sh ix\
+b形似 x ing s iy\
+b形象 x ing x iang\
+b形状 x ing zh uang\
+b行 h ang\
+b行 x ing\
+b行列 h ang l ie\
+b行人 x ing r en\
+b行为 x ing uu ui\
+b行业 h ang ii ie\
+b行云流水 x ing vv vn l iu sh ui\
+b行政 x ing zh eng\
+b醒 x ing\
+b幸 x ing\
+b幸福 x ing f u\
+b幸福的家庭 x ing f u d e j ia t ing\
+b幸运 x ing vv vn\
+b性 x ing\
+b性爱 x ing aa ai\
+b性格 x ing g e\
+b性情 x ing q ing\
+b性腺 x ing x ian\
+b性质 x ing zh ix\
+b姓 x ing\
+b兄 x iong\
+b兄弟 x iong d i\
+b凶 x iong\
+b凶恶 x iong ee e\
+b凶狠 x iong h en\
+b凶杀 x iong sh a\
+b凶手 x iong sh ou\
+b胸襟 x iong j in\
+b胸前 x iong q ian\
+b匈 x iong\
+b匈奴 x iong n u\
+b匈牙利 x iong ii ia l i\
+b雄 x iong\
+b雄伟 x iong uu ui\
+b熊 x iong\
+b熊猫 x iong m ao\
+b休 x iu\
+b休息室 x iu x i sh ix\
+b修 x iu\
+b修复 x iu f u\
+b修改 x iu g ai\
+b修理 x iu l i\
+b修配 x iu p ei\
+b修饰 x iu sh ix\
+b修修补补 x iu x iu b u b u\
+b修养 x iu ii iang\
+b修筑 x iu zh u\
+b嗅 x iu\
+b秀丽 x iu l i\
+b秀玲 x iu l ing\
+b秀美 x iu m ei\
+b秀媚 x iu m ei\
+b秀云 x iu vv vn\
+b袖子 x iu z iy\
+b绣 x iu\
+b需 x v\
+b需求 x v q iu\
+b需要 x v ii iao\
+b虚 x v\
+b须 x v\
+b徐 x v\
+b徐敏 x v m in\
+b徐州市 x v zh ou sh ix\
+b许 x v\
+b许多 x v d uo\
+b蓄 x v\
+b旭华 x v h ua\
+b畜 ch u\
+b畜 x v\
+b轩昂 x van aa ang\
+b轩辕 x van vv van\
+b喧闹 x van n ao\
+b宣布 x van b u\
+b宣传 x van ch uan\
+b宣传牌 x van ch uan p ai\
+b宣告 x van g ao\
+b宣扬 x van ii iang\
+b悬空 x van k ong\
+b旋 x van\
+b旋 x van\
+b旋即 x van j i\
+b旋转 x van zh uan\
+b玄 x van\
+b玄奥 x van aa ao\
+b玄乎 x van h u\
+b玄妙 x van m iao\
+b玄武湖 x van uu u h u\
+b选 x van\
+b选购 x van g ou\
+b选集 x van j i\
+b选矿 x van k uang\
+b选手 x van sh ou\
+b选学 x van x ve\
+b选择 x van z e\
+b薛 x ve\
+b学 x ve\
+b学会 x ve h ui\
+b学家 x ve j ia\
+b学年 x ve n ian\
+b学派 x ve p ai\
+b学生 x ve sh eng\
+b学文 x ve uu un\
+b学习 x ve x i\
+b学校 x ve x iao\
+b学养 x ve ii iang\
+b学业 x ve ii ie\
+b学语文 x ve vv v uu un\
+b学员 x ve vv van\
+b学院 x ve vv van\
+b学者 x ve zh e\
+b穴 x ve\
+b雪 x ve\
+b雪崩 x ve b eng\
+b雪花 x ve h ua\
+b雪灾 x ve z ai\
+b血 x ie\
+b血 x ve\
+b血案 x ie aa an\
+b血案 x ve aa an\
+b血管 x ie g uan\
+b血管 x ve g uan\
+b血管瘤 x ve g uan l iu\
+b血管瘤 x ve g uan l iu\
+b血肉 x ie r ou\
+b血肉 x ve r ou\
+b血液 x ie ii ie\
+b血液 x ve ii ie\
+b血液 x ve ii ie\
+b血液循环 x ie ii ie x vn h uan\
+b血液循环 x ve ii ie x vn h uan\
+b血液循环 x ve ii ie x vn h uan\
+b勋章 x vn zh ang\
+b熏陶 x vn t ao\
+b熏陶 x vn t ao\
+b熏鱼 x vn vv v\
+b循 x vn\
+b循环 x vn h uan\
+b循环系统 x vn h uan x i t ong\
+b寻呼 x vn h u\
+b寻呼台 x vn h u t ai\
+b寻欢作乐 x vn h uan z uo l e\
+b寻找 x vn zh ao\
+b巡逻艇 x vn l uo t ing\
+b训 x vn\
+b训练 x vn l ian\
+b训练场 x vn l ian ch ang\
+b训练基地 x vn l ian j i d i\
+b讯 x vn\
+b迅速 x vn s u\
+b压 ii ia\
+b压力 ii ia l i\
+b压裂 ii ia l ie\
+b压实 ii ia sh ix\
+b压死 ii ia s iy\
+b压岁钱 ii ia s ui q ian\
+b压抑 ii ia ii i\
+b压制 ii ia zh ix\
+b压轴 ii ia zh ou\
+b压轴 ii ia zh ou\
+b押 ii ia\
+b押解 ii ia j ie\
+b押金 ii ia j in\
+b押运 ii ia vv vn\
+b押韵 ii ia vv vn\
+b鸦 ii ia\
+b鸦片战争 ii ia p ian zh an zh eng\
+b鸭 ii ia\
+b呀 ii ia\
+b芽 ii ia\
+b牙 ii ia\
+b牙白 ii ia b ai\
+b牙齿 ii ia ch ix\
+b牙床 ii ia ch uang\
+b牙膏 ii ia g ao\
+b牙根 ii ia g en\
+b牙轮 ii ia l un\
+b牙签 ii ia q ian\
+b牙刷 ii ia sh ua\
+b牙龈 ii ia ii in\
+b牙龈出血 ii ia ii in ch u x ve\
+b崖 ii ia\
+b雅 ii ia\
+b雅加达 ii ia j ia d a\
+b雅俗共赏 ii ia s u g ong sh ang\
+b哑 ii ia\
+b亚 ii ia\
+b亚红 ii ia h ong\
+b亚军 ii ia j vn\
+b亚美 ii ia m ei\
+b亚美 ii ia m ei\
+b亚美尼亚 ii ia m ei n i ii ia\
+b亚明 ii ia m ing\
+b亚明 ii ia m ing\
+b亚特兰大 ii ia t e l an d a\
+b亚文 ii ia uu un\
+b亚文 ii ia uu un\
+b亚细亚 ii ia x i ii ia\
+b亚硝胺 ii ia x iao aa an\
+b亚裔 ii ia ii i\
+b亚洲 ii ia zh ou\
+b咽 ii ian\
+b咽 ii ian\
+b咽 ii ie\
+b烟 ii ian\
+b烟草 ii ian c ao\
+b烟草公司 ii ian c ao g ong s iy\
+b烟酒 ii ian j iu\
+b烟台 ii ian t ai\
+b烟筒 ii ian t ong\
+b烟雾 ii ian uu u\
+b烟消云散 ii ian x iao vv vn s an\
+b淹 ii ian\
+b淹没 ii ian m o\
+b淹死 ii ian s iy\
+b盐 ii ian\
+b盐城市 ii ian ch eng sh ix\
+b盐酸 ii ian s uan\
+b严 ii ian\
+b严冬 ii ian d ong\
+b严格 ii ian g e\
+b严寒 ii ian h an\
+b严禁 ii ian j in\
+b严厉打击 ii ian l i d a j i\
+b严密 ii ian m i\
+b严明 ii ian m ing\
+b严肃 ii ian s u\
+b严严实实 ii ian ii ian sh ix sh ix\
+b严严实实 ii ian ii ian sh ix sh ix\
+b严严实实 ii ian ii ian sh ix sh ix\
+b严重 ii ian zh ong\
+b研 ii ian\
+b研究 ii ian j iu\
+b研究所 ii ian j iu s uo\
+b研究院 ii ian j iu vv van\
+b研习 ii ian x i\
+b研制 ii ian zh ix\
+b岩 ii ian\
+b岩浆 ii ian j iang\
+b岩棉 ii ian m ian\
+b岩石 ii ian sh ix\
+b延 ii ian\
+b延安 ii ian aa an\
+b延缓 ii ian h uan\
+b延伸 ii ian sh en\
+b延寿 ii ian sh ou\
+b延至 ii ian zh ix\
+b言 ii ian\
+b言和 ii ian h e\
+b言中 ii ian zh ong\
+b颜 ii ian\
+b颜色 ii ian s e\
+b阎王 ii ian uu uang\
+b炎 ii ian\
+b炎热 ii ian r e\
+b沿 ii ian\
+b沿海 ii ian h ai\
+b沿用 ii ian ii iong\
+b掩 ii ian\
+b掩映 ii ian ii ing\
+b眼 ii ian\
+b眼光 ii ian g uang\
+b眼角 ii ian j iao\
+b眼睛 ii ian j ing\
+b眼看 ii ian k an\
+b眼泪 ii ian l ei\
+b眼前 ii ian q ian\
+b眼色 ii ian s e\
+b眼下 ii ian x ia\
+b眼珠子 ii ian zh u z iy\
+b眼睑 ii ian j ian\
+b演 ii ian\
+b演唱 ii ian ch ang\
+b演出 ii ian ch u\
+b演算 ii ian s uan\
+b演艺圈 ii ian ii i q van\
+b演员 ii ian vv van\
+b演职员 ii ian zh ix vv van\
+b演奏 ii ian z ou\
+b艳福 ii ian f u\
+b艳丽 ii ian l i\
+b艳阳 ii ian ii iang\
+b燕 ii ian\
+b燕 ii ian\
+b燕玲 ii ian l ing\
+b燕燕 ii ian ii ian\
+b厌恶 ii ian uu u\
+b砚 ii ian\
+b秧 ii iang\
+b秧歌队 ii iang g e d ui\
+b秧苗 ii iang m iao\
+b秧田 ii iang t ian\
+b杨 ii iang\
+b杨春 ii iang ch un\
+b杨贵妃 ii iang g ui f ei\
+b杨国忠 ii iang g uo zh ong\
+b杨洪基 ii iang h ong j i\
+b杨军 ii iang j vn\
+b杨柳 ii iang l iu\
+b杨某 ii iang m ou\
+b杨勇 ii iang ii iong\
+b杨钰莹 ii iang vv v ii ing\
+b扬 ii iang\
+b扬名 ii iang m ing\
+b扬起 ii iang q i\
+b扬扬 ii iang ii iang\
+b扬扬 ii iang ii iang\
+b扬州 ii iang zh ou\
+b羊 ii iang\
+b羊羔肉 ii iang g ao r ou\
+b羊毛 ii iang m ao\
+b羊毛衫 ii iang m ao sh an\
+b羊皮 ii iang p i\
+b羊绒 ii iang r ong\
+b羊子 ii iang z iy\
+b羊子 ii iang z iy\
+b洋 ii iang\
+b洋溢 ii iang ii i\
+b阳 ii iang\
+b阳春 ii iang ch un\
+b阳春白雪 ii iang ch un b ai x ve\
+b阳光 ii iang g uang\
+b阳泉市 ii iang q van sh ix\
+b阳山 ii iang sh an\
+b阳县 ii iang x ian\
+b阳新县 ii iang x in x ian\
+b氧 ii iang\
+b氧化 ii iang h ua\
+b氧气 ii iang q i\
+b仰面 ii iang m ian\
+b仰慕 ii iang m u\
+b仰视 ii iang sh ix\
+b仰望天空 ii iang uu uang t ian k ong\
+b仰卧 ii iang uu uo\
+b仰卧起坐 ii iang uu uo q i z uo\
+b养 ii iang\
+b养病 ii iang b ing\
+b养成 ii iang ch eng\
+b养活 ii iang h uo\
+b养活 ii iang h uo\
+b养老 ii iang l ao\
+b养牛 ii iang n iu\
+b养女 ii iang n v\
+b养人 ii iang r en\
+b养鱼 ii iang vv v\
+b养育 ii iang vv v\
+b养殖 ii iang zh ix\
+b养殖技术 ii iang zh ix j i sh u\
+b养殖业 ii iang zh ix ii ie\
+b养猪 ii iang zh u\
+b样 ii iang\
+b样机 ii iang j i\
+b样子 ii iang z iy\
+b邀 ii iao\
+b邀请 ii iao q ing\
+b邀请赛 ii iao q ing s ai\
+b腰 ii iao\
+b腰部 ii iao b u\
+b腰酸腿疼 ii iao s uan t ui t eng\
+b腰疼 ii iao t eng\
+b腰围 ii iao uu ui\
+b妖孽 ii iao n ie\
+b瑶山 ii iao sh an\
+b摇摆 ii iao b ai\
+b摇晃 ii iao h uang\
+b摇头 ii iao t ou\
+b摇曳 ii iao ii ie\
+b摇一摇 ii iao ii i ii iao\
+b摇一摇 ii iao ii i ii iao\
+b尧 ii iao\
+b遥 ii iao\
+b遥望 ii iao uu uang\
+b遥远 ii iao vv van\
+b窑 ii iao\
+b窑洞 ii iao d ong\
+b姚 ii iao\
+b咬 ii iao\
+b咬牙 ii iao ii ia\
+b舀 ii iao\
+b药 ii iao\
+b药厂 ii iao ch ang\
+b药品 ii iao p in\
+b药师 ii iao sh ix\
+b药物 ii iao uu u\
+b药效 ii iao x iao\
+b药业 ii iao ii ie\
+b要 ii iao\
+b要按照 ii iao aa an zh ao\
+b要靠 ii iao k ao\
+b要买 ii iao m ai\
+b要么 ii iao m e\
+b要钱 ii iao q ian\
+b要求 ii iao q iu\
+b要人 ii iao r en\
+b要是 ii iao sh ix\
+b要有信心 ii iao ii iu x in x in\
+b要员 ii iao vv van\
+b要约 ii iao vv ve\
+b要知道 ii iao zh ix d ao\
+b耀邦 ii iao b ang\
+b椰子 ii ie z iy\
+b耶稣 ii ie s u\
+b爷爷 ii ie ii ie\
+b爷爷奶奶 ii ie ii ie n ai n ai\
+b野 ii ie\
+b野菜 ii ie c ai\
+b野生 ii ie sh eng\
+b野兽 ii ie sh ou\
+b野外 ii ie uu uai\
+b野猪 ii ie zh u\
+b冶炼 ii ie l ian\
+b也 ii ie\
+b也罢 ii ie b a\
+b也好 ii ie h ao\
+b也是 ii ie sh ix\
+b也有 ii ie ii iu\
+b业 ii ie\
+b业务 ii ie uu u\
+b业务部 ii ie uu u b u\
+b业务员 ii ie uu u vv van\
+b业余 ii ie vv v\
+b叶 ii ie\
+b叶利钦 ii ie l i q in\
+b叶某 ii ie m ou\
+b腋 ii ie\
+b腋下 ii ie x ia\
+b夜 ii ie\
+b夜间 ii ie j ian\
+b夜空 ii ie k ong\
+b夜里 ii ie l i\
+b夜晚 ii ie uu uan\
+b夜行 ii ie x ing\
+b夜一 ii ie ii i\
+b液 ii ie\
+b液体 ii ie t i\
+b一 ii i\
+b一百 ii i b ai\
+b一百二 ii i b ai ee er\
+b一百二十 ii i b ai ee er sh ix\
+b一百零八 ii i b ai l ing b a\
+b一百三十五 ii i b ai s an sh ix uu u\
+b一百四 ii i b ai s iy\
+b一百四十 ii i b ai s iy sh ix\
+b一百万 ii i b ai uu uan\
+b一百五十 ii i b ai uu u sh ix\
+b一般 ii i b an\
+b一半 ii i b an\
+b一本 ii i b en\
+b一边 ii i b ian\
+b一并 ii i b ing\
+b一处 ii i ch u\
+b一串 ii i ch uan\
+b一幢 ii i zh uang\
+b一幢幢 ii i zh uang zh uang\
+b一次次 ii i c iy c iy\
+b一带 ii i d ai\
+b一代 ii i d ai\
+b一旦 ii i d an\
+b一档 ii i d ang\
+b一档 ii i d ang\
+b一到 ii i d ao\
+b一道 ii i d ao\
+b一点 ii i d ian\
+b一点儿 ii i d ian ee er\
+b一点钟 ii i d ian zh ong\
+b一定 ii i d ing\
+b一动 ii i d ong\
+b一对 ii i d ui\
+b一二九 ii i ee er j iu\
+b一番 ii i f an\
+b一方面 ii i f ang m ian\
+b一幅幅 ii i f u f u\
+b一概 ii i g ai\
+b一个 ii i g e\
+b一个半月 ii i g e b an vv ve\
+b一个劲 ii i g e j in\
+b一个民族 ii i g e m in z u\
+b一个人 ii i g e r en\
+b一个月 ii i g e vv ve\
+b一根 ii i g en\
+b一号 ii i h ao\
+b一会儿 ii i h ui ee er\
+b一会儿 ii i h ui ee er\
+b一家 ii i j ia\
+b一家三口 ii i j ia s an k ou\
+b一见 ii i j ian\
+b一角 ii i j iao\
+b一进门 ii i j in m en\
+b一经 ii i j ing\
+b一九 ii i j iu\
+b一九九二年 ii i j iu j iu ee er n ian\
+b一举 ii i j v\
+b一看 ii i k an\
+b一口气 ii i k ou q i\
+b一块 ii i k uai\
+b一块儿 ii i k uai ee er\
+b一类 ii i l ei\
+b一两 ii i l iang\
+b一辆 ii i l iang\
+b一六 ii i l iu\
+b一六五 ii i l iu uu u\
+b一路 ii i l u\
+b一缕 ii i l v\
+b一枚 ii i m ei\
+b一面镜子 ii i m ian j ing z iy\
+b一面面 ii i m ian m ian\
+b一名 ii i m ing\
+b一年 ii i n ian\
+b一排排 ii i p ai p ai\
+b一派 ii i p ai\
+b一旁 ii i p ang\
+b一盆盆 ii i p en p en\
+b一批 ii i p i\
+b一篇 ii i p ian\
+b一片云 ii i p ian vv vn\
+b一贫如洗 ii i p in r u x i\
+b一平 ii i p ing\
+b一起 ii i q i\
+b一起去 ii i q i q v\
+b一千 ii i q ian\
+b一千七八 ii i q ian q i b a\
+b一千五 ii i q ian uu u\
+b一千五百 ii i q ian uu u b ai\
+b一千一百 ii i q ian ii i b ai\
+b一千一百 ii i q ian ii i b ai\
+b一切 ii i q ie\
+b一曲 ii i q v\
+b一群 ii i q vn\
+b一群群 ii i q vn q vn\
+b一日 ii i r iz\
+b一声 ii i sh eng\
+b一声 ii i sh eng\
+b一时 ii i sh ix\
+b一手 ii i sh ou\
+b一艘 ii i s ou\
+b一体 ii i t i\
+b一天 ii i t ian\
+b一天到晚 ii i t ian d ao uu uan\
+b一天内 ii i t ian n ei\
+b一同 ii i t ong\
+b一头 ii i t ou\
+b一碗 ii i uu uan\
+b一万 ii i uu uan\
+b一万多 ii i uu uan d uo\
+b一万元 ii i uu uan vv van\
+b一网打尽 ii i uu uang d a j in\
+b一望无际 ii i uu uang uu u j i\
+b一味 ii i uu ui\
+b一文 ii i uu un\
+b一下 ii i x ia\
+b一下子 ii i x ia z iy\
+b一项 ii i x iang\
+b一小时 ii i x iao sh ix\
+b一些 ii i x ie\
+b一心一意 ii i x in ii i ii i\
+b一行人 ii i h ang r en\
+b一行人 ii i x ing r en\
+b一眼 ii i ii ian\
+b一样 ii i ii iang\
+b一拥而上 ii i ii iong ee er sh ang\
+b一月 ii i vv ve\
+b一再 ii i z ai\
+b一针 ii i zh en\
+b一阵 ii i zh en\
+b一阵阵 ii i zh en zh en\
+b一支 ii i zh ix\
+b一直 ii i zh ix\
+b一只 ii i zh ix\
+b一周年 ii i zh ou n ian\
+b一坐 ii i z uo\
+b一座 ii i z uo\
+b医 ii i\
+b医护人员 ii i h u r en vv van\
+b医疗费 ii i l iao f ei\
+b医疗器械 ii i l iao q i x ie\
+b医生 ii i sh eng\
+b医学 ii i x ve\
+b医药费 ii i ii iao f ei\
+b医院 ii i vv van\
+b医治 ii i zh ix\
+b依 ii i\
+b依法 ii i f a\
+b依据 ii i j v\
+b依靠 ii i k ao\
+b依然 ii i r an\
+b依稀可见 ii i x i k e j ian\
+b伊 ii i\
+b伊拉克 ii i l a k e\
+b伊朗 ii i l ang\
+b伊始 ii i sh ix\
+b伊斯兰教 ii i s iy l an j iao\
+b衣 ii i\
+b衣服 ii i f u\
+b衣着 ii i zh uo\
+b遗传 ii i ch uan\
+b遗弃 ii i q i\
+b遗物 ii i uu u\
+b遗址 ii i zh ix\
+b移 ii i\
+b移到 ii i d ao\
+b移动 ii i d ong\
+b移送 ii i s ong\
+b移栽 ii i z ai\
+b仪表 ii i b iao\
+b仪表厂 ii i b iao ch ang\
+b仪器 ii i q i\
+b仪式 ii i sh ix\
+b疑问 ii i uu un\
+b宜 ii i\
+b姨 ii i\
+b椅子 ii i z iy\
+b倚 ii i\
+b倚重 ii i zh ong\
+b已 ii i\
+b已经 ii i j ing\
+b已有 ii i ii iu\
+b乙肝 ii i g an\
+b乙型肝炎 ii i x ing g an ii ian\
+b矣 ii i\
+b以 ii i\
+b以此 ii i c iy\
+b以次 ii i c iy\
+b以后 ii i h ou\
+b以及 ii i j i\
+b以来 ii i l ai\
+b以前 ii i q ian\
+b以求 ii i q iu\
+b以上 ii i sh ang\
+b以示 ii i sh ix\
+b以外 ii i uu uai\
+b以往 ii i uu uang\
+b以为 ii i uu ui\
+b以下 ii i x ia\
+b艺术 ii i sh u\
+b艺术家 ii i sh u j ia\
+b艺术性 ii i sh u x ing\
+b易 ii i\
+b易于 ii i vv v\
+b亿 ii i\
+b逸 ii i\
+b疫苗 ii i m iao\
+b亦 ii i\
+b意 ii i\
+b意境 ii i j ing\
+b意识 ii i sh ix\
+b意外 ii i uu uai\
+b意味 ii i uu ui\
+b意味着 ii i uu ui zh e\
+b意义 ii i ii i\
+b意犹未尽 ii i ii iu uu ui j in\
+b意欲 ii i vv v\
+b毅 ii i\
+b忆苦 ii i k u\
+b义齿 ii i ch ix\
+b义务 ii i uu u\
+b义演 ii i ii ian\
+b议案 ii i aa an\
+b议会 ii i h ui\
+b议员 ii i vv van\
+b异性 ii i x ing\
+b异样 ii i ii iang\
+b茵茵 ii in ii in\
+b因 ii in\
+b因此 ii in c iy\
+b因而 ii in ee er\
+b因素 ii in s u\
+b因为 ii in uu ui\
+b因为 ii in uu ui\
+b因循守旧 ii in x vn sh ou j iu\
+b因子 ii in z iy\
+b殷切 ii in q ie\
+b殷勤 ii in q in\
+b殷殷 ii in ii in\
+b音叉 ii in ch a\
+b音乐 ii in vv ve\
+b音律 ii in l v\
+b音色 ii in s e\
+b音响 ii in x iang\
+b音序 ii in x v\
+b音域 ii in vv v\
+b音质 ii in zh ix\
+b阴 ii in\
+b阴沟 ii in g ou\
+b阴森 ii in s en\
+b阴森森 ii in s en s en\
+b阴阳 ii in ii iang\
+b阴雨 ii in vv v\
+b阴云 ii in vv vn\
+b姻缘 ii in vv van\
+b吟 ii in\
+b银 ii in\
+b银耳 ii in ee er\
+b银花 ii in h ua\
+b银矿 ii in k uang\
+b银牌 ii in p ai\
+b银丝 ii in s iy\
+b银行 ii in h ang\
+b淫 ii in\
+b饮 ii in\
+b饮 ii in\
+b饮茶 ii in ch a\
+b饮酒 ii in j iu\
+b饮料 ii in l iao\
+b饮品 ii in p in\
+b饮食 ii in sh ix\
+b饮用 ii in ii iong\
+b引 ii in\
+b引黄 ii in h uang\
+b引进 ii in j in\
+b引路 ii in l u\
+b引起 ii in q i\
+b引擎 ii in q ing\
+b引诱 ii in ii iu\
+b隐 ii in\
+b隐含 ii in h an\
+b隐没 ii in m o\
+b隐形眼镜 ii in x ing ii ian j ing\
+b隐隐约约 ii in ii in vv ve vv ve\
+b隐喻 ii in vv v\
+b印 ii in\
+b印错 ii in c uo\
+b印第安 ii in d i aa an\
+b印第安人 ii in d i aa an r en\
+b印度 ii in d u\
+b印度洋 ii in d u ii iang\
+b印花 ii in h ua\
+b印尼 ii in n i\
+b印染厂 ii in r an ch ang\
+b印刷 ii in sh ua\
+b印有 ii in ii iu\
+b英 ii ing\
+b英镑 ii ing b ang\
+b英方 ii ing f ang\
+b英国 ii ing g uo\
+b英汉 ii ing h an\
+b英军 ii ing j vn\
+b英亩 ii ing m u\
+b英文 ii ing uu un\
+b英雄 ii ing x iong\
+b英勇 ii ing ii iong\
+b樱桃 ii ing t ao\
+b婴儿 ii ing ee er\
+b婴幼儿 ii ing ii iu ee er\
+b鹰 ii ing\
+b应 ii ing\
+b应 ii ing\
+b应酬 ii ing ch ou\
+b应当 ii ing d ang\
+b应该 ii ing g ai\
+b应是 ii ing sh ix\
+b应邀 ii ing ii iao\
+b应用 ii ing ii iong\
+b应用 ii ing ii iong\
+b应用题 ii ing ii iong t i\
+b应用题 ii ing ii iong t i\
+b应有尽有 ii ing ii iu j in ii iu\
+b应予 ii ing vv v\
+b应允 ii ing vv vn\
+b应运而生 ii ing vv vn ee er sh eng\
+b应征 ii ing zh eng\
+b缨 ii ing\
+b莹 ii ing\
+b营 ii ing\
+b营房 ii ing f ang\
+b营区 ii ing q v\
+b营养 ii ing ii iang\
+b营养价值 ii ing ii iang j ia zh ix\
+b营养品 ii ing ii iang p in\
+b营养液 ii ing ii iang ii ie\
+b营业额 ii ing ii ie ee e\
+b营业税 ii ing ii ie sh ui\
+b营业性 ii ing ii ie x ing\
+b营业员 ii ing ii ie vv van\
+b荧光灯 ii ing g uang d eng\
+b蝇蛆 ii ing q v\
+b迎 ii ing\
+b迎春 ii ing ch un\
+b迎接 ii ing j ie\
+b迎面 ii ing m ian\
+b迎难而上 ii ing n an ee er sh ang\
+b迎头 ii ing t ou\
+b盈 ii ing\
+b盈盈 ii ing ii ing\
+b盈盈 ii ing ii ing\
+b影 ii ing\
+b影片 ii ing p ian\
+b影片 ii ing p ian\
+b影视 ii ing sh ix\
+b影视片 ii ing sh ix p ian\
+b影视片 ii ing sh ix p ian\
+b影视作品 ii ing sh ix z uo p in\
+b影坛 ii ing t an\
+b影响 ii ing x iang\
+b影响生育 ii ing x iang sh eng vv v\
+b影业 ii ing ii ie\
+b颖 ii ing\
+b硬 ii ing\
+b硬骨头 ii ing g u t ou\
+b硬骨头 ii ing g u t ou\
+b硬化 ii ing h ua\
+b硬件 ii ing j ian\
+b硬朗 ii ing l ang\
+b映 ii ing\
+b映衬 ii ing ch en\
+b映入 ii ing r u\
+b映入眼帘 ii ing r u ii ian l ian\
+b拥 ii iong\
+b拥戴 ii iong d ai\
+b拥军 ii iong j vn\
+b拥有 ii iong ii iu\
+b雍 ii iong\
+b蛹 ii iong\
+b咏梅 ii iong m ei\
+b泳道 ii iong d ao\
+b泳坛 ii iong t an\
+b涌 ii iong\
+b永 ii iong\
+b永波 ii iong b o\
+b永定河 ii iong d ing h e\
+b永福 ii iong f u\
+b永贵 ii iong g ui\
+b永利 ii iong l i\
+b永亮 ii iong l iang\
+b永林 ii iong l in\
+b永远 ii iong vv van\
+b永贞 ii iong zh en\
+b永葆 ii iong b ao\
+b勇 ii iong\
+b勇斗 ii iong d ou\
+b勇猛 ii iong m eng\
+b勇气 ii iong q i\
+b勇于 ii iong vv v\
+b用 ii iong\
+b用餐 ii iong c an\
+b用电 ii iong d ian\
+b用好 ii iong h ao\
+b用户 ii iong h u\
+b用劲 ii iong j in\
+b用来 ii iong l ai\
+b用力 ii iong l i\
+b用品 ii iong p in\
+b用人单位 ii iong r en d an uu ui\
+b用上 ii iong sh ang\
+b用上 ii iong sh ang\
+b用时 ii iong sh ix\
+b用书 ii iong sh u\
+b用途 ii iong t u\
+b用药 ii iong ii iao\
+b用以 ii iong ii i\
+b用意 ii iong ii i\
+b用于 ii iong vv v\
+b幽 ii iu\
+b幽默 ii iu m o\
+b幽幽 ii iu ii iu\
+b优 ii iu\
+b优点 ii iu d ian\
+b优惠价 ii iu h ui j ia\
+b优惠券 ii iu h ui q van\
+b优良 ii iu l iang\
+b优生优育 ii iu sh eng ii iu vv v\
+b优势 ii iu sh ix\
+b优先 ii iu x ian\
+b优秀 ii iu x iu\
+b优越 ii iu vv ve\
+b优质 ii iu zh ix\
+b忧郁 ii iu vv v\
+b尤 ii iu\
+b尤其 ii iu q i\
+b尤为 ii iu uu ui\
+b由 ii iu\
+b由此 ii iu c iy\
+b由于 ii iu vv v\
+b由於 ii iu vv v\
+b邮戳 ii iu ch uo\
+b邮电 ii iu d ian\
+b邮票 ii iu p iao\
+b犹 ii iu\
+b油 ii iu\
+b油菜 ii iu c ai\
+b油层 ii iu c eng\
+b油库 ii iu k u\
+b油田 ii iu t ian\
+b油印 ii iu ii in\
+b游 ii iu\
+b游客 ii iu k e\
+b游人 ii iu r en\
+b游玩 ii iu uu uan\
+b游泳 ii iu ii iong\
+b游泳池 ii iu ii iong ch ix\
+b有 ii iu\
+b有爱心 ii iu aa ai x in\
+b有把握 ii iu b a uu uo\
+b有变 ii iu b ian\
+b有病 ii iu b ing\
+b有成 ii iu ch eng\
+b有的 ii iu d e\
+b有点 ii iu d ian\
+b有否 ii iu f ou\
+b有个人 ii iu g e r en\
+b有根有据 ii iu g en ii iu j v\
+b有功 ii iu g ong\
+b有关 ii iu g uan\
+b有机 ii iu j i\
+b有几次 ii iu j i c iy\
+b有经验 ii iu j ing ii ian\
+b有空 ii iu k ong\
+b有理 ii iu l i\
+b有利 ii iu l i\
+b有利于 ii iu l i vv v\
+b有力 ii iu l i\
+b有了爱 ii iu l e aa ai\
+b有名 ii iu m ing\
+b有朋友 ii iu p eng ii iu\
+b有魄力 ii iu p o l i\
+b有期徒刑 ii iu q i t u x ing\
+b有求必应 ii iu q iu b i ii ing\
+b有趣 ii iu q v\
+b有权 ii iu q van\
+b有人 ii iu r en\
+b有时 ii iu sh ix\
+b有时候 ii iu sh ix h ou\
+b有素 ii iu s u\
+b有所 ii iu s uo\
+b有所帮助 ii iu s uo b ang zh u\
+b有特色 ii iu t e s e\
+b有戏 ii iu x i\
+b有限公司 ii iu x ian g ong s iy\
+b有效 ii iu x iao\
+b有些 ii iu x ie\
+b有些人 ii iu x ie r en\
+b有许多 ii iu x v d uo\
+b有序 ii iu x v\
+b有一个 ii iu ii i g e\
+b有意无意 ii iu ii i uu u ii i\
+b有益 ii iu ii i\
+b有用 ii iu ii iong\
+b有预谋 ii iu vv v m ou\
+b有种 ii iu zh ong\
+b有着 ii iu zh e\
+b友 ii iu\
+b友好 ii iu h ao\
+b友协 ii iu x ie\
+b友谊 ii iu ii i\
+b友谊 ii iu ii i\
+b右 ii iu\
+b右臂 ii iu b i\
+b右侧 ii iu c e\
+b右手 ii iu sh ou\
+b诱人 ii iu r en\
+b诱杀 ii iu sh a\
+b又 ii iu\
+b又是 ii iu sh ix\
+b又要 ii iu ii iao\
+b幼 ii iu\
+b幼儿园 ii iu ee er vv van\
+b幼年 ii iu n ian\
+b于 vv v\
+b于此 vv v c iy\
+b于某 vv v m ou\
+b于是 vv v sh ix\
+b于是乎 vv v sh ix h u\
+b于心 vv v x in\
+b榆树 vv v sh u\
+b虞 vv v\
+b愚 vv v\
+b舆论 vv v l un\
+b余 vv v\
+b余地 vv v d i\
+b余额 vv v ee e\
+b余孽 vv v n ie\
+b余香 vv v x iang\
+b余音 vv v ii in\
+b鱼 vv v\
+b鱼儿 vv v ee er\
+b鱼饵 vv v ee er\
+b鱼类 vv v l ei\
+b鱼苗 vv v m iao\
+b鱼肉 vv v r ou\
+b愉快 vv v k uai\
+b渔 vv v\
+b渔船 vv v ch uan\
+b渔民 vv v m in\
+b渔网 vv v uu uang\
+b予以 vv v ii i\
+b娱乐城 vv v l e ch eng\
+b娱乐片 vv v l e p ian\
+b娱乐片 vv v l e p ian\
+b娱乐业 vv v l e ii ie\
+b雨 vv v\
+b雨淋 vv v l in\
+b雨水 vv v sh ui\
+b与 vv v\
+b与此同时 vv v c iy t ong sh ix\
+b与否 vv v f ou\
+b与其 vv v q i\
+b屿 vv v\
+b禹 vv v\
+b宇 vv v\
+b宇宙空间 vv v zh ou k ong j ian\
+b语 vv v\
+b语词 vv v c iy\
+b语句 vv v j v\
+b语录 vv v l u\
+b语文 vv v uu un\
+b语言 vv v ii ian\
+b羽毛球 vv v m ao q iu\
+b玉 vv v\
+b玉安 vv v aa an\
+b玉和 vv v h e\
+b玉杰 vv v j ie\
+b玉林 vv v l in\
+b玉米 vv v m i\
+b玉米面 vv v m i m ian\
+b玉英 vv v ii ing\
+b郁 vv v\
+b郁郁 vv v vv v\
+b遇 vv v\
+b遇到 vv v d ao\
+b遇上 vv v sh ang\
+b遇上 vv v sh ang\
+b遇险 vv v x ian\
+b愈 vv v\
+b愈演愈烈 vv v ii ian vv v l ie\
+b欲 vv v\
+b欲火 vv v h uo\
+b欲望 vv v uu uang\
+b育 vv v\
+b育儿 vv v ee er\
+b育苗 vv v m iao\
+b育人 vv v r en\
+b育秧 vv v ii iang\
+b育婴 vv v ii ing\
+b育种 vv v zh ong\
+b誉为 vv v uu ui\
+b浴 vv v\
+b浴血 vv v x ie\
+b浴血 vv v x ve\
+b浴血 vv v x ve\
+b浴血奋战 vv v x ie f en zh an\
+b浴血奋战 vv v x ve f en zh an\
+b浴血奋战 vv v x ve f en zh an\
+b寓意 vv v ii i\
+b裕民 vv v m in\
+b预 vv v\
+b预防 vv v f ang\
+b预期 vv v q i\
+b预算 vv v s uan\
+b预算外 vv v s uan uu uai\
+b预选赛 vv v x van s ai\
+b豫 vv v\
+b鸳鸯 vv van ii iang\
+b冤魂 vv van h un\
+b冤枉 vv van uu uang\
+b元 vv van\
+b元和 vv van h e\
+b元康 vv van k ang\
+b元月 vv van vv ve\
+b袁 vv van\
+b原 vv van\
+b原本 vv van b en\
+b原产 vv van ch an\
+b原定 vv van d ing\
+b原理 vv van l i\
+b原料 vv van l iao\
+b原始 vv van sh ix\
+b原是 vv van sh ix\
+b原为 vv van uu ui\
+b原先 vv van x ian\
+b原因 vv van ii in\
+b原因很简单 vv van ii in h en j ian d an\
+b原油 vv van ii iu\
+b原则 vv van z e\
+b原则上 vv van z e sh ang\
+b原著 vv van zh u\
+b原子 vv van z iy\
+b援引 vv van ii in\
+b园 vv van\
+b园里 vv van l i\
+b园艺 vv van ii i\
+b员 vv van\
+b员村 vv van c un\
+b员工 vv van g ong\
+b圆 vv van\
+b圆白菜 vv van b ai c ai\
+b圆满 vv van m an\
+b圆明园 vv van m ing vv van\
+b圆润 vv van r un\
+b圆形 vv van x ing\
+b圆柱 vv van zh u\
+b圆桌 vv van zh uo\
+b源 vv van\
+b源头 vv van t ou\
+b源于 vv van vv v\
+b源源 vv van vv van\
+b源源不断 vv van vv van b u d uan\
+b缘份 vv van f en\
+b缘起 vv van q i\
+b远 vv van\
+b远处 vv van ch u\
+b远方 vv van f ang\
+b远见卓识 vv van j ian zh uo sh ix\
+b远近 vv van j in\
+b远亲 vv van q in\
+b远去 vv van q v\
+b远眺 vv van t iao\
+b远远 vv van vv van\
+b远在 vv van z ai\
+b远征 vv van zh eng\
+b远走 vv van z ou\
+b苑 vv van\
+b愿 vv van\
+b愿望 vv van uu uang\
+b愿望 vv van uu uang\
+b愿意 vv van ii i\
+b院 vv van\
+b院坝 vv van b a\
+b院长 vv van zh ang\
+b院里 vv van l i\
+b院墙 vv van q iang\
+b院庆 vv van q ing\
+b院士 vv van sh ix\
+b院中 vv van zh ong\
+b院子里 vv van z iy l i\
+b曰 vv ve\
+b约 vv ve\
+b约翰 vv ve h an\
+b越 vv ve\
+b越冬 vv ve d ong\
+b越多 vv ve d uo\
+b越发 vv ve f a\
+b越好 vv ve h ao\
+b越界 vv ve j ie\
+b越来越 vv ve l ai vv ve\
+b越来越多 vv ve l ai vv ve d uo\
+b越来越少 vv ve l ai vv ve sh ao\
+b越来越远 vv ve l ai vv ve vv van\
+b越乱 vv ve l uan\
+b越南 vv ve n an\
+b越权 vv ve q van\
+b越野 vv ve ii ie\
+b越野车 vv ve ii ie ch e\
+b越早越好 vv ve z ao vv ve h ao\
+b跃然纸上 vv ve r an zh ix sh ang\
+b跃跃欲试 vv ve vv ve vv v sh ix\
+b钥匙 ii iao sh ix\
+b岳 vv ve\
+b岳飞 vv ve f ei\
+b岳林 vv ve l in\
+b粤 vv ve\
+b粤剧 vv ve j v\
+b月 vv ve\
+b月饼 vv ve b ing\
+b月底 vv ve d i\
+b月娥 vv ve ee e\
+b月付 vv ve f u\
+b月华 vv ve h ua\
+b月经 vv ve j ing\
+b月卡 vv ve k a\
+b月亮 vv ve l iang\
+b月末 vv ve m o\
+b月色 vv ve s e\
+b月山 vv ve sh an\
+b月收入 vv ve sh ou r u\
+b月牙 vv ve ii ia\
+b阅读 vv ve d u\
+b阅历 vv ve l i\
+b耘 vv vn\
+b云 vv vn\
+b云层 vv vn c eng\
+b云和 vv vn h e\
+b云母 vv vn m u\
+b云南 vv vn n an\
+b云团 vv vn t uan\
+b云雾 vv vn uu u\
+b云霞 vv vn x ia\
+b云雨 vv vn vv v\
+b云云 vv vn vv vn\
+b匀称 vv vn ch en\
+b允许 vv vn x v\
+b运 vv vn\
+b运城 vv vn ch eng\
+b运筹帷幄 vv vn ch ou uu ui uu uo\
+b运达 vv vn d a\
+b运动 vv vn d ong\
+b运动员 vv vn d ong vv van\
+b运动战 vv vn d ong zh an\
+b运力 vv vn l i\
+b运气好 vv vn q i h ao\
+b运输 vv vn sh u\
+b运输船 vv vn sh u ch uan\
+b运输量 vv vn sh u l iang\
+b运往 vv vn uu uang\
+b运行 vv vn x ing\
+b运营 vv vn ii ing\
+b运用 vv vn ii iong\
+b蕴 vv vn\
+b晕晕乎乎 vv vn vv vn h u h u\
+b韵 vv vn\
+b韵律 vv vn l v\
+b韵事 vv vn sh ix\
+b韵文 vv vn uu un\
+b孕妇 vv vn f u\
+b孕育 vv vn vv v\
+b砸 z a\
+b砸锅卖铁 z a g uo m ai t ie\
+b杂 z a\
+b杂文 z a uu un\
+b杂物 z a uu u\
+b杂志 z a zh ix\
+b杂志社 z a zh ix sh e\
+b杂质 z a zh ix\
+b栽 z ai\
+b灾 z ai\
+b灾害 z ai h ai\
+b灾民 z ai m in\
+b灾区 z ai q v\
+b载 z ai\
+b载 z ai\
+b再 z ai\
+b再次 z ai c iy\
+b再有 z ai ii iu\
+b在 z ai\
+b在此 z ai c iy\
+b在旁 z ai p ang\
+b在逃犯 z ai t ao f an\
+b在一起 z ai ii i q i\
+b在于 z ai vv v\
+b在这里 z ai zh e l i\
+b咱 z an\
+b暂 z an\
+b暂缺 z an q ve\
+b暂行 z an x ing\
+b赞 z an\
+b赞不绝口 z an b u j ve k ou\
+b赞成 z an ch eng\
+b赞美 z an m ei\
+b赞同 z an t ong\
+b赞誉 z an vv v\
+b赃 z ang\
+b赃款 z ang k uan\
+b赃物 z ang uu u\
+b脏兮兮 z ang x i x i\
+b葬 z ang\
+b葬身 z ang sh en\
+b遭 z ao\
+b遭到 z ao d ao\
+b藻 z ao\
+b早 z ao\
+b早被 z ao b ei\
+b早产 z ao ch an\
+b早稻 z ao d ao\
+b早婚 z ao h un\
+b早期 z ao q i\
+b早市 z ao sh ix\
+b早衰 z ao sh uai\
+b早已 z ao ii i\
+b早孕 z ao vv vn\
+b澡 z ao\
+b躁 z ao\
+b噪声 z ao sh eng\
+b造 z ao\
+b造成 z ao ch eng\
+b造林 z ao l in\
+b造型 z ao x ing\
+b责怪 z e g uai\
+b责令 z e l ing\
+b责任 z e r en\
+b则 z e\
+b怎么 z en m e\
+b怎奈 z en n ai\
+b怎样 z en ii iang\
+b增 z eng\
+b增长 z eng zh ang\
+b增幅 z eng f u\
+b增加 z eng j ia\
+b增强 z eng q iang\
+b增收 z eng sh ou\
+b增速 z eng s u\
+b增效 z eng x iao\
+b增援 z eng vv van\
+b增值税 z eng zh ix sh ui\
+b曾 c eng\
+b曾 z eng\
+b曾经 c eng j ing\
+b曾某 z eng m ou\
+b曾随 c eng s ui\
+b曾荫权 c eng ii in q van\
+b曾荫权 z eng ii in q van\
+b赠 z eng\
+b赠送 z eng s ong\
+b扎 z a\
+b扎 zh a\
+b扎 zh a\
+b扎哈 zh a h a\
+b扎基 zh a j i\
+b扎克 zh a k e\
+b扎伊尔 zh a ii i ee er\
+b渣 zh a\
+b札幌 zh a h uang\
+b眨 zh a\
+b榨菜 zh a c ai\
+b炸 zh a\
+b炸 zh a\
+b炸雷 zh a l ei\
+b炸药 zh a ii iao\
+b诈骗 zh a p ian\
+b诈骗犯 zh a p ian f an\
+b宅 zh ai\
+b窄 zh ai\
+b窄窄 zh ai zh ai\
+b债 zh ai\
+b债权 zh ai q van\
+b债权人 zh ai q van r en\
+b债券 zh ai q van\
+b债务 zh ai uu u\
+b寨 zh ai\
+b粘 n ian\
+b粘 zh an\
+b沾上 zh an sh ang\
+b沾上 zh an sh ang\
+b崭 zh an\
+b展开 zh an k ai\
+b展品 zh an p in\
+b展望 zh an uu uang\
+b占 zh an\
+b占领 zh an l ing\
+b战 zh an\
+b战场 zh an ch ang\
+b战斗 zh an d ou\
+b战火 zh an h uo\
+b战绩 zh an j i\
+b战军 zh an j vn\
+b战略 zh an l ve\
+b战胜 zh an sh eng\
+b战时 zh an sh ix\
+b战士 zh an sh ix\
+b战无不胜 zh an uu u b u sh eng\
+b战线 zh an x ian\
+b战争 zh an zh eng\
+b站 zh an\
+b站岗 zh an g ang\
+b樟树市 zh ang sh u sh ix\
+b张 zh ang\
+b张伯伦 zh ang b ai l un\
+b张伯伦 zh ang b o l un\
+b张翰 zh ang h an\
+b张慧 zh ang h ui\
+b张强 zh ang q iang\
+b张望 zh ang uu uang\
+b张牙舞爪 zh ang ii ia uu u zh ao\
+b张扬 zh ang ii iang\
+b张震 zh ang zh en\
+b掌握 zh ang uu uo\
+b涨 zh ang\
+b涨 zh ang\
+b丈 zh ang\
+b帐篷 zh ang p eng\
+b障碍 zh ang aa ai\
+b招标文件 zh ao b iao uu un j ian\
+b招待会 zh ao d ai h ui\
+b招收 zh ao sh ou\
+b昭 zh ao\
+b找 zh ao\
+b找不到 zh ao b u d ao\
+b赵 zh ao\
+b照 zh ao\
+b照顾 zh ao g u\
+b照镜子 zh ao j ing z iy\
+b照旧 zh ao j iu\
+b照片 zh ao p ian\
+b照片 zh ao p ian\
+b召 zh ao\
+b遮 zh e\
+b折 sh e\
+b折 zh e\
+b折射 zh e sh e\
+b哲 zh e\
+b哲学家 zh e x ve j ia\
+b者 zh e\
+b这 zh e\
+b这次 zh e c iy\
+b这儿 zh e ee er\
+b这个 zh e g e\
+b这个问题 zh e g e uu un t i\
+b这块 zh e k uai\
+b这里 zh e l i\
+b这位 zh e uu ui\
+b这项 zh e x iang\
+b这些 zh e x ie\
+b这些人 zh e x ie r en\
+b这样 zh e ii iang\
+b这样的 zh e ii iang d e\
+b这一步 zh e ii i b u\
+b这一年 zh e ii i n ian\
+b这一片 zh e ii i p ian\
+b这一切 zh e ii i q ie\
+b这支 zh e zh ix\
+b这种 zh e zh ong\
+b这种状况 zh e zh ong zh uang k uang\
+b浙江 zh e j iang\
+b浙江大学 zh e j iang d a x ve\
+b珍 zh en\
+b珍贵 zh en g ui\
+b斟酒 zh en j iu\
+b真 zh en\
+b真好玩 zh en h ao uu uan\
+b真名 zh en m ing\
+b真情 zh en q ing\
+b真是 zh en sh ix\
+b真正 zh en zh eng\
+b真正意义 zh en zh eng ii i ii i\
+b针药 zh en ii iao\
+b侦查员 zh en ch a vv van\
+b枕套 zh en t ao\
+b诊所 zh en s uo\
+b震颤 zh en ch an\
+b震撼力 zh en h an l i\
+b振 zh en\
+b振动 zh en d ong\
+b镇 zh en\
+b镇痛 zh en t ong\
+b阵 zh en\
+b阵容 zh en r ong\
+b阵营 zh en ii ing\
+b蒸 zh eng\
+b蒸汽浴 zh eng q i vv v\
+b挣扎 zh eng zh a\
+b征 zh eng\
+b征婚 zh eng h un\
+b征收 zh eng sh ou\
+b争夺 zh eng d uo\
+b争论 zh eng l un\
+b争抢 zh eng q iang\
+b争相 zh eng x iang\
+b争议 zh eng ii i\
+b怔 zh eng\
+b整 zh eng\
+b整地 zh eng d i\
+b整顿 zh eng d un\
+b整洁 zh eng j ie\
+b整齐 zh eng q i\
+b整容 zh eng r ong\
+b整修 zh eng x iu\
+b整整 zh eng zh eng\
+b正 zh eng\
+b正 zh eng\
+b正版 zh eng b an\
+b正常 zh eng ch ang\
+b正赶上 zh eng g an sh ang\
+b正好 zh eng h ao\
+b正确 zh eng q ve\
+b正式 zh eng sh ix\
+b正题 zh eng t i\
+b正文 zh eng uu un\
+b正月 zh eng vv ve\
+b政策 zh eng c e\
+b政府 zh eng f u\
+b政令 zh eng l ing\
+b政企 zh eng q i\
+b政委 zh eng uu ui\
+b政务院 zh eng uu u vv van\
+b政治 zh eng zh ix\
+b郑 zh eng\
+b郑成功 zh eng ch eng g ong\
+b郑军 zh eng j vn\
+b证 zh eng\
+b证明 zh eng m ing\
+b证券 zh eng q van\
+b证书 zh eng sh u\
+b枝 zh ix\
+b支 zh ix\
+b支部书记 zh ix b u sh u j i\
+b支持 zh ix ch ix\
+b支付 zh ix f u\
+b支农 zh ix n ong\
+b支委 zh ix uu ui\
+b支行 zh ix h ang\
+b支援 zh ix vv van\
+b知 zh ix\
+b知道 zh ix d ao\
+b知识 zh ix sh ix\
+b知音 zh ix ii in\
+b汁 zh ix\
+b之 zh ix\
+b之风 zh ix f eng\
+b之后 zh ix h ou\
+b之际 zh ix j i\
+b之间 zh ix j ian\
+b之苦 zh ix k u\
+b之类 zh ix l ei\
+b之外 zh ix uu uai\
+b之夜 zh ix ii ie\
+b之一 zh ix ii i\
+b之中 zh ix zh ong\
+b织 zh ix\
+b职工 zh ix g ong\
+b职务 zh ix uu u\
+b职业 zh ix ii ie\
+b职员 zh ix vv van\
+b直 zh ix\
+b直拨 zh ix b o\
+b直到 zh ix d ao\
+b直接 zh ix j ie\
+b直接进入 zh ix j ie j in r u\
+b植根于 zh ix g en vv v\
+b植物 zh ix uu u\
+b殖 zh ix\
+b执行主席 zh ix x ing zh u x i\
+b值班 zh ix b an\
+b值班室 zh ix b an sh ix\
+b值班室 zh ix b an sh ix\
+b值班员 zh ix b an vv van\
+b值此 zh ix c iy\
+b指 zh ix\
+b指标 zh ix b iao\
+b指出 zh ix ch u\
+b指导员 zh ix d ao vv van\
+b指挥 zh ix h ui\
+b指头 zh ix t ou\
+b趾 zh ix\
+b只 zh ix\
+b只 zh ix\
+b只好 zh ix h ao\
+b只见 zh ix j ian\
+b只能 zh ix n eng\
+b只是 zh ix sh ix\
+b只要 zh ix ii iao\
+b只用 zh ix ii iong\
+b只有 zh ix ii iu\
+b只缘 zh ix vv van\
+b纸 zh ix\
+b纸篓 zh ix l ou\
+b纸箱 zh ix x iang\
+b纸张 zh ix zh ang\
+b志气 zh ix q i\
+b至 zh ix\
+b至诚 zh ix ch eng\
+b至今 zh ix j in\
+b至少 zh ix sh ao\
+b至于 zh ix vv v\
+b致辞 zh ix c iy\
+b致死 zh ix s iy\
+b置若罔闻 zh ix r uo uu uang uu un\
+b置于 zh ix vv v\
+b制 zh ix\
+b制定 zh ix d ing\
+b制片 zh ix p ian\
+b制片 zh ix p ian\
+b制品厂 zh ix p in ch ang\
+b制药厂 zh ix ii iao ch ang\
+b制止 zh ix zh ix\
+b制作 zh ix z uo\
+b智慧 zh ix h ui\
+b智育 zh ix vv v\
+b秩序 zh ix x v\
+b质 zh ix\
+b质地 zh ix d i\
+b质量 zh ix l iang\
+b质朴 zh ix p u\
+b滞销 zh ix x iao\
+b治 zh ix\
+b治病 zh ix b ing\
+b治好 zh ix h ao\
+b治理 zh ix l i\
+b治平 zh ix p ing\
+b治学 zh ix x ve\
+b中 zh ong\
+b中 zh ong\
+b中标 zh ong b iao\
+b中等 zh ong d eng\
+b中方 zh ong f ang\
+b中国 zh ong g uo\
+b中国队 zh ong g uo d ui\
+b中国画 zh ong g uo h ua\
+b中国科学院 zh ong g uo k e x ve vv van\
+b中国政府 zh ong g uo zh eng f u\
+b中国足球 zh ong g uo z u q iu\
+b中华 zh ong h ua\
+b中华人民共和国 zh ong h ua r en m in g ong h e g uo\
+b中间 zh ong j ian\
+b中将 zh ong j iang\
+b中老年 zh ong l ao n ian\
+b中年 zh ong n ian\
+b中秋 zh ong q iu\
+b中文 zh ong uu un\
+b中午 zh ong uu u\
+b中小学 zh ong x iao x ve\
+b中心 zh ong x in\
+b中学 zh ong x ve\
+b中旬 zh ong x vn\
+b中央 zh ong ii iang\
+b中央军委 zh ong ii iang j vn uu ui\
+b中医 zh ong ii i\
+b中医药 zh ong ii i ii iao\
+b中原 zh ong vv van\
+b中州 zh ong zh ou\
+b钟 zh ong\
+b钟头 zh ong t ou\
+b终 zh ong\
+b终日 zh ong r iz\
+b终身 zh ong sh en\
+b终于 zh ong vv v\
+b终止 zh ong zh ix\
+b种 zh ong\
+b种 zh ong\
+b种草 zh ong c ao\
+b种果 zh ong g uo\
+b种养 zh ong ii iang\
+b种植 zh ong zh ix\
+b种种 zh ong zh ong\
+b种子 zh ong z iy\
+b种族 zh ong z u\
+b肿瘤 zh ong l iu\
+b重 ch ong\
+b重 zh ong\
+b重大 zh ong d a\
+b重点 zh ong d ian\
+b重开 ch ong k ai\
+b重量 zh ong l iang\
+b重庆 ch ong q ing\
+b重新 ch ong x in\
+b重心 zh ong x in\
+b重要意义 zh ong ii iao ii i ii i\
+b重要意义 zh ong ii iao ii i ii i\
+b重用 zh ong ii iong\
+b重于 zh ong vv v\
+b重檐 zh ong ii ian\
+b仲尼 zh ong n i\
+b众 zh ong\
+b众多 zh ong d uo\
+b众人 zh ong r en\
+b众生 zh ong sh eng\
+b舟山 zh ou sh an\
+b周 zh ou\
+b周边 zh ou b ian\
+b周末 zh ou m o\
+b周期 zh ou q i\
+b周岁 zh ou s ui\
+b周围 zh ou uu ui\
+b周维 zh ou uu ui\
+b周旋 zh ou x van\
+b周正 zh ou zh eng\
+b州 zh ou\
+b洲 zh ou\
+b洲际 zh ou j i\
+b粥 zh ou\
+b昼夜 zh ou ii ie\
+b骤起 zh ou q i\
+b珠 zh u\
+b珠峰 zh u f eng\
+b株 zh u\
+b朱 zh u\
+b朱自清 zh u z iy q ing\
+b猪 zh u\
+b猪场 zh u ch ang\
+b诸 zh u\
+b诸多 zh u d uo\
+b逐 zh u\
+b逐渐 zh u j ian\
+b竹 zh u\
+b竹器 zh u q i\
+b嘱 zh u\
+b主产 zh u ch an\
+b主持 zh u ch ix\
+b主动 zh u d ong\
+b主犯 zh u f an\
+b主峰 zh u f eng\
+b主管 zh u g uan\
+b主桥 zh u q iao\
+b主人 zh u r en\
+b主任 zh u r en\
+b主席 zh u x i\
+b主旋律 zh u x van l v\
+b主要 zh u ii iao\
+b主要原因 zh u ii iao vv van ii in\
+b主张 zh u zh ang\
+b著 zh u\
+b著称 zh u ch eng\
+b著名 zh u m ing\
+b助 zh u\
+b助兴 zh u x ing\
+b贮运 zh u vv vn\
+b住 zh u\
+b住进 zh u j in\
+b住院 zh u vv van\
+b住院治疗 zh u vv van zh ix l iao\
+b住宅区 zh u zh ai q v\
+b注射 zh u sh e\
+b注意 zh u ii i\
+b祝 zh u\
+b祝福 zh u f u\
+b驻 zh u\
+b驻地 zh u d i\
+b驻华 zh u h ua\
+b驻军 zh u j vn\
+b驻扎 zh u zh a\
+b抓 zh ua\
+b抓好 zh ua h ao\
+b抓获 zh ua h uo\
+b抓重点 zh ua zh ong d ian\
+b抓住 zh ua zh u\
+b抓走 zh ua z ou\
+b爪 zh ao\
+b爪 zh ua\
+b专程 zh uan ch eng\
+b专家 zh uan j ia\
+b专家组 zh uan j ia z u\
+b专款 zh uan k uan\
+b专栏 zh uan l an\
+b专利 zh uan l i\
+b专利权 zh uan l i q van\
+b专买 zh uan m ai\
+b专卖局 zh uan m ai j v\
+b专门 zh uan m en\
+b专题 zh uan t i\
+b专题组 zh uan t i z u\
+b专业 zh uan ii ie\
+b专业户 zh uan ii ie h u\
+b专业组 zh uan ii ie z u\
+b专营 zh uan ii ing\
+b专用 zh uan ii iong\
+b专用车 zh uan ii iong ch e\
+b砖 zh uan\
+b砖头 zh uan t ou\
+b砖瓦 zh uan uu ua\
+b转 zh uan\
+b转 zh uan\
+b转播 zh uan b o\
+b转达 zh uan d a\
+b转岗 zh uan g ang\
+b转换 zh uan h uan\
+b转基因 zh uan j i ii in\
+b转炉 zh uan l u\
+b转卖 zh uan m ai\
+b转圈 zh uan q van\
+b转入 zh uan r u\
+b转世 zh uan sh ix\
+b转为 zh uan uu ui\
+b转向 zh uan x iang\
+b转业 zh uan ii ie\
+b转一圈 zh uan ii i q van\
+b转阴 zh uan ii in\
+b撰写 zh uan x ie\
+b桩 zh uang\
+b庄 zh uang\
+b庄村 zh uang c un\
+b庄严 zh uang ii ian\
+b装 zh uang\
+b装船 zh uang ch uan\
+b装机容量 zh uang j i r ong l iang\
+b装满 zh uang m an\
+b装饰 zh uang sh ix\
+b装饰公司 zh uang sh ix g ong s iy\
+b装卸工 zh uang x ie g ong\
+b装载 zh uang z ai\
+b装载 zh uang z ai\
+b装置 zh uang zh ix\
+b装作 zh uang z uo\
+b撞 zh uang\
+b撞上 zh uang sh ang\
+b壮 zh uang\
+b壮观 zh uang g uan\
+b壮烈牺牲 zh uang l ie x i sh eng\
+b状 zh uang\
+b椎 zh ui\
+b追 zh ui\
+b追捕 zh ui b u\
+b追赶 zh ui g an\
+b追回 zh ui h ui\
+b追究 zh ui j iu\
+b追求 zh ui q iu\
+b追随 zh ui s ui\
+b追问 zh ui uu un\
+b追忆 zh ui ii i\
+b追踪 zh ui z ong\
+b准 zh un\
+b准备 zh un b ei\
+b准备好了 zh un b ei h ao l e\
+b准确 zh un q ve\
+b准尉 zh un uu ui\
+b准则 zh un z e\
+b捉 zh uo\
+b捉住 zh uo zh u\
+b卓 zh uo\
+b卓玛 zh uo m a\
+b卓越 zh uo vv ve\
+b桌上 zh uo sh ang\
+b琢磨 zh uo m o\
+b茁壮成长 zh uo zh uang ch eng zh ang\
+b着 zh ao\
+b着 zh ao\
+b着 zh e\
+b着 zh uo\
+b着地 zh ao d i\
+b着急 zh ao j i\
+b着急 zh ao j i\
+b着迷 zh ao m i\
+b着手 zh uo sh ou\
+b灼 zh uo\
+b兹 z iy\
+b咨询业 z iy x vn ii ie\
+b资产 z iy ch an\
+b资金 z iy j in\
+b资料 z iy l iao\
+b资源 z iy vv van\
+b仔 z ai\
+b仔 z iy\
+b子 z iy\
+b子弟兵 z iy d i b ing\
+b自 z iy\
+b自成一家 z iy ch eng ii i j ia\
+b自从 z iy c ong\
+b自动 z iy d ong\
+b自动化 z iy d ong h ua\
+b自负盈亏 z iy f u ii ing k ui\
+b自豪 z iy h ao\
+b自己 z iy j i\
+b自己的房间 z iy j i d e f ang j ian\
+b自立 z iy l i\
+b自然 z iy r an\
+b自然界 z iy r an j ie\
+b自然数 z iy r an sh u\
+b自然条件 z iy r an t iao j ian\
+b自如 z iy r u\
+b自杀 z iy sh a\
+b自身 z iy sh en\
+b自我 z iy uu uo\
+b自相矛盾 z iy x iang m ao d un\
+b自信 z iy x in\
+b自已 z iy ii i\
+b自由 z iy ii iu\
+b自由泳 z iy ii iu ii iong\
+b自愿 z iy vv van\
+b自主 z iy zh u\
+b自主经营 z iy zh u j ing ii ing\
+b字 z iy\
+b字母 z iy m u\
+b宗 z ong\
+b宗教 z ong j iao\
+b宗庆后 z ong q ing h ou\
+b综合 z ong h e\
+b总 z ong\
+b总额 z ong ee e\
+b总而言之 z ong ee er ii ian zh ix\
+b总公司 z ong g ong s iy\
+b总结会 z ong j ie h ui\
+b总经理 z ong j ing l i\
+b总理 z ong l i\
+b总能 z ong n eng\
+b总是 z ong sh ix\
+b总算 z ong s uan\
+b总体 z ong t i\
+b总统 z ong t ong\
+b纵 z ong\
+b纵横 z ong h eng\
+b纵身 z ong sh en\
+b走 z ou\
+b走出 z ou ch u\
+b走到 z ou d ao\
+b走访 z ou f ang\
+b走过 z ou g uo\
+b走红 z ou h ong\
+b走进 z ou j in\
+b走来 z ou l ai\
+b走廊 z ou l ang\
+b走路 z ou l u\
+b走马灯 z ou m a d eng\
+b走俏 z ou q iao\
+b走入 z ou r u\
+b走上 z ou sh ang\
+b走完 z ou uu uan\
+b走运 z ou vv vn\
+b走资派 z ou z iy p ai\
+b足 z u\
+b足额 z u ee e\
+b足迹 z u j i\
+b足球 z u q iu\
+b足坛 z u t an\
+b族 z u\
+b祖 z u\
+b祖母 z u m u\
+b祖母绿 z u m u l v\
+b阻塞 z u s e\
+b组 z u\
+b组长 z u zh ang\
+b组成 z u ch eng\
+b组织 z u zh ix\
+b钻 z uan\
+b钻 z uan\
+b钻出 z uan ch u\
+b钻进 z uan j in\
+b钻井 z uan j ing\
+b钻空子 z uan k ong z iy\
+b钻研 z uan ii ian\
+b嘴 z ui\
+b嘴唇 z ui ch un\
+b嘴里 z ui l i\
+b醉人 z ui r en\
+b最 z ui\
+b最长 z ui ch ang\
+b最大 z ui d a\
+b最方便 z ui f ang b ian\
+b最高 z ui g ao\
+b最高气温 z ui g ao q i uu un\
+b最古老 z ui g u l ao\
+b最后 z ui h ou\
+b最后的 z ui h ou d e\
+b最后一个 z ui h ou ii i g e\
+b最后一块 z ui h ou ii i k uai\
+b最佳 z ui j ia\
+b最近 z ui j in\
+b最为 z ui uu ui\
+b最终 z ui zh ong\
+b罪 z ui\
+b罪犯 z ui f an\
+b罪状 z ui zh uang\
+b尊 z un\
+b遵 z un\
+b遵化市 z un h ua sh ix\
+b遵义 z un ii i\
+b昨天 z uo t ian\
+b左 z uo\
+b左边 z uo b ian\
+b左拐 z uo g uai\
+b左手 z uo sh ou\
+b左下 z uo x ia\
+b左右 z uo ii iu\
+b佐 z uo\
+b做 z uo\
+b做菜 z uo c ai\
+b做成 z uo ch eng\
+b做官 z uo g uan\
+b做好 z uo h ao\
+b做人 z uo r en\
+b做为 z uo uu ui\
+b做做 z uo z uo\
+b做做 z uo z uo\
+b作 z uo\
+b作 z uo\
+b作案 z uo aa an\
+b作出 z uo ch u\
+b作答 z uo d a\
+b作对 z uo d ui\
+b作画 z uo h ua\
+b作家 z uo j ia\
+b作价 z uo j ia\
+b作美 z uo m ei\
+b作品 z uo p in\
+b作为 z uo uu ui\
+b作文 z uo uu un\
+b作业 z uo ii ie\
+b作业本 z uo ii ie b en\
+b作用 z uo ii iong\
+b坐 z uo\
+b坐上 z uo sh ang\
+b坐上 z uo sh ang\
+b坐镇 z uo zh en\
+b坐坐 z uo z uo\
+b座 z uo\
+b噩耗 ee e h ao\
+b匕首 b i sh ou\
+b亟待 j i d ai\
+b剌 l a\
+b伢子 ii ia z iy\
+b佤 uu ua\
+b佤族 uu ua z u\
+b佚 ii i\
+b佻 t iao\
+b侬 n ong\
+b倩 q ian\
+b倏 sh u\
+b偕 x ie\
+b傩 n uo\
+b讷河 n e h e\
+b邛 q iong\
+b邝 k uang\
+b郢 ii ing\
+b勰 x ie\
+b矍铄 j ve sh uo\
+b圩 uu ui\
+b坨 t uo\
+b坳 aa ao\
+b堀 k u\
+b芮 r ui\
+b荟萃 h ui c ui\
+b荀 x vn\
+b莺 ii ing\
+b莼 ch un\
+b萦 ii ing\
+b菰 g u\
+b葳 uu ui\
+b蕤 r ui\
+b蕃茄 f an q ie\
+b拚 p in\
+b拚搏 p in b o\
+b拚命 p an m ing\
+b揆 k ui\
+b摞 l uo\
+b摭 zh ix\
+b咔嚓 k a c a\
+b咔嚓 k a ch a\
+b哐啷 k uang l ang\
+b咧 l ie\
+b咧 l ie\
+b唠嗑 l ao k e\
+b哽咽 g eng ii ie\
+b唢呐 s uo n a\
+b嘟 d u\
+b嘈杂 c ao z a\
+b嘀咕 d i g u\
+b噌噌噌 c eng c eng c eng\
+b帙 zh ix\
+b帷幕 uu ui m u\
+b幔 m an\
+b崛 j ve\
+b嶙峋 l in x vn\
+b狎 x ia\
+b馍 m o\
+b庖 p ao\
+b庵 aa an\
+b膺 ii ing\
+b怡人 ii i r en\
+b惬意 q ie ii i\
+b惆怅 ch ou ch ang\
+b愣 l eng\
+b愣头 l eng t ou\
+b沐浴 m u vv v\
+b泠 l ing\
+b淦 g an\
+b潇洒 x iao s a\
+b濡 r u\
+b濡染 r u r an\
+b濮 p u\
+b濮阳 p u ii iang\
+b宸 ch en\
+b迥然不同 j iong r an b u t ong\
+b迨 d ai\
+b逍遥法外 x iao ii iao f a uu uai\
+b妃子 f ei z iy\
+b妩媚 uu u m ei\
+b姊妹 z iy m ei\
+b姒 s iy\
+b妾 q ie\
+b娅 ii ia\
+b媛媛 vv van vv van\
+b嫣 ii ian\
+b嬉 x i\
+b孥 n u\
+b骈文 p ian uu un\
+b绮 q i\
+b绾 uu uan\
+b缢 ii i\
+b缫 s ao\
+b瑛 ii ing\
+b琦 q i\
+b瑗 vv van\
+b枇杷 p i p a\
+b桠 ii ia\
+b桀纣 j ie zh ou\
+b槎 ch a\
+b樾 vv ve\
+b樵 q iao\
+b殡 b in\
+b殡仪馆 b in ii i g uan\
+b殡葬 b in z ang\
+b辍 ch uo\
+b戛然而止 j ia r an ee er zh ix\
+b臧克家 z ang k e j ia\
+b瓯海 oo ou h ai\
+b旮旯 g a l a\
+b昙花一现 t an h ua ii i x ian\
+b昵 n i\
+b贲 b i\
+b赈灾 zh en z ai\
+b胭脂 ii ian zh ix\
+b脍 k uai\
+b豚 t un\
+b腌 ii ian\
+b腌菜 ii ian c ai\
+b朦胧 m eng l ong\
+b炀 ii iang\
+b炖 d un\
+b炫 x van\
+b烨 ii ie\
+b祯 zh en\
+b忐忑 t an t e\
+b恙 ii iang\
+b砀山 d ang sh an\
+b碣 j ie\
+b瞠目结舌 ch eng m u j ie sh e\
+b罹 l i\
+b钿 d ian\
+b铍 p i\
+b铎 d uo\
+b铿锵 k eng q iang\
+b镯子 zh uo z iy\
+b鸾凤 l uan f eng\
+b疖 j ie\
+b瘾 ii in\
+b癖 p i\
+b窦 d ou\
+b窦太后 d ou t ai h ou\
+b虬 q iu\
+b蚯蚓 q iu ii in\
+b蜿蜒 uu uan ii ian\
+b螯 aa ao\
+b螃蟹 p ang x ie\
+b罂粟 ii ing s u\
+b罅隙 x ia x i\
+b笠 l i\
+b袅 n iao\
+b袅袅 n iao n iao\
+b裘 q iu\
+b糁 s an\
+b趄 j v\
+b趄 q ie\
+b趔 l ie\
+b趔趄 l ie q ie\
+b跻身 j i sh en\
+b踹 ch uai\
+b訾 z iy\
+b隽 j van\
+b鎏 l iu\
+b鲈鱼 l u vv v\
+b鲨鱼 sh a vv v\
+b鳄 ee e\
+b鳄鱼 ee e vv v\
+b鳊鱼 b ian vv v\
+b鳝鱼 sh an vv v\
+b鳟鱼 z un vv v\
+b魅力 m ei l i\
+b鏖战 aa ao zh an\
+b黢 q v\
+b四百二十三 s iy b ai er sh ix s an\
+b三百一十 s an b ai ii i sh ix\
+b二百九十一 ee er b ai j iu sh ix ii i \
+b二百五十五 ee er b ai uu u sh ix uu u\
+b三百五十三 s an b ai uu u sh ix s an\
+b五千四百五十 uu u q ian s iy b ai uu u sh ix\
+b二零零零 ee er l ing l ing l ing\
+b一千二百二十七 ii i q ian ee er b ai er sh ix q i \
+b六百三十 l iu b ai s an sh ix\
+b五万五千五百五十五 uu u uu uan uu u q ian uu u b ai uu u sh ix uu u\
+b一百三十三 ii i b ai s an sh ix s an\
+b两千三百 l iang q ian s an b ai\
+b四千五百七十 s iy q ian uu u b ai q i sh ix  \
+b一九四一 ii i j iu s iy ii i\
+b一百三十四 ii i b ai s an sh ix s iy\
+b一百七十四 ii i b ai q i sh ix s iy\
+b一九六二 ii i j iu l iu er\
+b一九二二 ii i j iu er er\
+b一九五零 ii i j iu uu u l ing\
+b三千四百五十 s an q ian s iy b ai uu u sh ix\
+b二百零四 ee er b ai l ing s iy\

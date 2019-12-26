@@ -1,0 +1,82 @@
+WARNING: no script file dict/dict3.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+       dict3      7197       7197       7267       7267
+   dict3_tri      7197       7197       7267       7267
+
+7197 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. sil   :     1
+  2. ii    :  1213
+  3. i     :  1073
+  4. sp    :  7266
+  5. uu    :   734
+  6. uan   :   320
+  7. d     :   744
+  8. uo    :   405
+  9. x     :   772
+ 10. ia    :   230
+ 11. z     :   400
+ 12. iy    :   259
+ 13. l     :   749
+ 14. iang  :   309
+ 15. g     :   597
+ 16. e     :   482
+ 17. r     :   312
+ 18. en    :   369
+ 19. b     :   667
+ 20. an    :   637
+ 21. vv    :   507
+ 22. ve    :   204
+ 23. m     :   504
+ 24. in    :   377
+ 25. u     :  1037
+ 26. ch    :   505
+ 27. j     :   898
+ 28. v     :   407
+ 29. iu    :   330
+ 30. ee    :   185
+ 31. er    :   145
+ 32. n     :   338
+ 33. ian   :   637
+ 34. s     :   360
+ 35. ie    :   314
+ 36. ai    :   509
+ 37. h     :   638
+ 38. ui    :   458
+ 39. t     :   507
+ 40. q     :   553
+ 41. ao    :   487
+ 42. ong   :   476
+ 43. sh    :   916
+ 44. ix    :   546
+ 45. zh    :   792
+ 46. ing   :   570
+ 47. k     :   323
+ 48. uai   :   127
+ 49. eng   :   439
+ 50. ou    :   359
+ 51. iao   :   352
+ 52. f     :   386
+ 53. uang  :   251
+ 54. p     :   290
+ 55. iong  :   102
+ 56. ang   :   484
+ 57. un    :   249
+ 58. ei    :   225
+ 59. c     :   251
+ 60. a     :   429
+ 61. vn    :   157
+ 62. van   :   254
+ 63. iz    :    37
+ 64. o     :   114
+ 65. aa    :   147
+ 66. ua    :   138
+ 67. oo    :    14
+ 68. ueng  :     6
+
+Dictionary dict/dict3_tri created

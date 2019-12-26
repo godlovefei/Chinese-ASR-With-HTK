@@ -1,0 +1,318 @@
+RO 100.0 stats
+TR 0
+QS  "R_NonBoundary"	{ *+* }
+QS  "R_Silence"		{ *+sil }
+QS  "R_Stop"		{ *+p,*+pd,*+b,*+t,*+td,*+d,*+dd,*+k,*+kd,*+g }
+QS  "R_Nasal"		{ *+m,*+n,*+en,*+ng }
+QS  "R_Fricative"	{ *+s,*+sh,*+z,*+f,*+v,*+ch,*+jh,*+th,*+dh }
+QS  "R_Liquid"		{ *+l,*+el,*+r,*+w,*+y,*+hh }
+QS  "R_Vowel"		{ *+eh,*+ih,*+ao,*+aa,*+uw,*+ah,*+ax,*+er,*+ay,*+oy,*+ey,*+iy,*+ow }
+QS  "R_C-Front"		{ *+p,*+pd,*+b,*+m,*+f,*+v,*+w }
+QS  "R_C-Central"	{ *+t,*+td,*+d,*+dd,*+en,*+n,*+s,*+z,*+sh,*+th,*+dh,*+l,*+el,*+r }
+QS  "R_C-Back"		{ *+sh,*+ch,*+jh,*+y,*+k,*+kd,*+g,*+ng,*+hh }
+QS  "R_V-Front"		{ *+iy,*+ih,*+eh }
+QS  "R_V-Central"	{ *+eh,*+aa,*+er,*+ao }
+QS  "R_V-Back"		{ *+uw,*+aa,*+ax,*+uh }
+QS  "R_Front"		{ *+p,*+pd,*+b,*+m,*+f,*+v,*+w,*+iy,*+ih,*+eh }
+QS  "R_Central"		{ *+t,*+td,*+d,*+dd,*+en,*+n,*+s,*+z,*+sh,*+th,*+dh,*+l,*+el,*+r,*+eh,*+aa,*+er,*+ao }
+QS  "R_Back"		{ *+sh,*+ch,*+jh,*+y,*+k,*+kd,*+g,*+ng,*+hh,*+aa,*+uw,*+ax,*+uh }
+QS  "R_Fortis"		{ *+p,*+pd,*+t,*+td,*+k,*+kd,*+f,*+th,*+s,*+sh,*+ch }
+QS  "R_Lenis"		{ *+b,*+d,*+dd,*+g,*+v,*+dh,*+z,*+sh,*+jh }
+QS  "R_UnFortLenis"	{ *+m,*+n,*+en,*+ng,*+hh,*+l,*+el,*+r,*+y,*+w }
+QS  "R_Coronal"		{ *+t,*+td,*+d,*+dd,*+n,*+en,*+th,*+dh,*+s,*+z,*+sh,*+ch,*+jh,*+l,*+el,*+r }
+QS  "R_NonCoronal"	{ *+p,*+pd,*+b,*+m,*+k,*+kd,*+g,*+ng,*+f,*+v,*+hh,*+y,*+w }
+QS  "R_Anterior"	{ *+p,*+pd,*+b,*+m,*+t,*+td,*+d,*+dd,*+n,*+en,*+f,*+v,*+th,*+dh,*+s,*+z,*+l,*+el,*+w }
+QS  "R_NonAnterior"	{ *+k,*+kd,*+g,*+ng,*+sh,*+hh,*+ch,*+jh,*+r,*+y }
+QS  "R_Continuent"	{ *+m,*+n,*+en,*+ng,*+f,*+v,*+th,*+dh,*+s,*+z,*+sh,*+hh,*+l,*+el,*+r,*+y,*+w }
+QS  "R_NonContinuent"	{ *+p,*+pd,*+b,*+t,*+td,*+d,*+dd,*+k,*+kd,*+g,*+ch,*+jh }
+QS  "R_Strident"	{ *+s,*+z,*+sh,*+ch,*+jh }
+QS  "R_NonStrident"	{ *+f,*+v,*+th,*+dh,*+hh }
+QS  "R_UnStrident"	{ *+p,*+pd,*+b,*+m,*+t,*+td,*+d,*+dd,*+n,*+en,*+k,*+kd,*+g,*+ng,*+l,*+el,*+r,*+y,*+w }
+QS  "R_Glide"		{ *+hh,*+l,*+el,*+r,*+y,*+w }
+QS  "R_Syllabic"	{ *+en,*+m,*+l,*+el,*+er }
+QS  "R_Unvoiced-Cons"	{ *+p,*+pd,*+t,*+td,*+k,*+kd,*+s,*+sh,*+f,*+th,*+hh,*+ch }
+QS  "R_Voiced-Cons"	{ *+jh,*+b,*+d,*+dd,*+dh,*+g,*+y,*+l,*+el,*+m,*+n,*+en,*+ng,*+r,*+v,*+w,*+z }
+QS  "R_Unvoiced-All"	{ *+p,*+pd,*+t,*+td,*+k,*+kd,*+s,*+sh,*+f,*+th,*+hh,*+ch,*+sil }
+QS  "R_Long"		{ *+iy,*+aa,*+ow,*+ao,*+uw,*+en,*+m,*+l,*+el }
+QS  "R_Short"		{ *+eh,*+ey,*+aa,*+ih,*+ay,*+oy,*+ah,*+ax,*+uh }
+QS  "R_Dipthong"	{ *+ey,*+ay,*+oy,*+aa,*+er,*+en,*+m,*+l,*+el }
+QS  "R_Front-Start"	{ *+ey,*+aa,*+er }
+QS  "R_Fronting"	{ *+ay,*+ey,*+oy }
+QS  "R_High"		{ *+ih,*+uw,*+aa,*+ax,*+iy }
+QS  "R_Medium"		{ *+ey,*+er,*+aa,*+ax,*+eh,*+en,*+m,*+l,*+el }
+QS  "R_Low"		{ *+eh,*+ay,*+aa,*+aw,*+ao,*+oy }
+QS  "R_Rounded"		{ *+ao,*+uw,*+aa,*+ax,*+oy,*+w }
+QS  "R_Unrounded"	{ *+eh,*+ih,*+aa,*+er,*+ay,*+ey,*+iy,*+aw,*+ah,*+ax,*+en,*+m,*+hh,*+l,*+el,*+r,*+y }
+QS  "R_NonAffricate"	{ *+s,*+sh,*+z,*+f,*+v,*+th,*+dh }
+QS  "R_Affricate"	{ *+ch,*+jh }
+QS  "R_IVowel"		{ *+ih,*+iy }
+QS  "R_EVowel"		{ *+eh,*+ey }
+QS  "R_AVowel"		{ *+eh,*+aa,*+er,*+ay,*+aw }
+QS  "R_OVowel"		{ *+ao,*+oy,*+aa }
+QS  "R_UVowel"		{ *+aa,*+ax,*+en,*+m,*+l,*+el,*+uw }
+QS  "R_Voiced-Stop"	{ *+b,*+d,*+dd,*+g }
+QS  "R_Unvoiced-Stop"	{ *+p,*+pd,*+t,*+td,*+k,*+kd }
+QS  "R_Front-Stop"	{ *+p,*+pd,*+b }
+QS  "R_Central-Stop"	{ *+t,*+td,*+d,*+dd }
+QS  "R_Back-Stop"	{ *+k,*+kd,*+g }
+QS  "R_Voiced-Fric"	{ *+z,*+sh,*+dh,*+ch,*+v }
+QS  "R_Unvoiced-Fric"	{ *+s,*+sh,*+th,*+f,*+ch }
+QS  "R_Front-Fric"	{ *+f,*+v }
+QS  "R_Central-Fric"	{ *+s,*+z,*+th,*+dh }
+QS  "R_Back-Fric"	{ *+sh,*+ch,*+jh }
+QS  "R_aa"		{ *+aa }
+QS  "R_ae"		{ *+ae }
+QS  "R_ah"		{ *+ah }
+QS  "R_ao"		{ *+ao }
+QS  "R_aw"		{ *+aw }
+QS  "R_ax"		{ *+ax }
+QS  "R_ay"		{ *+ay }
+QS  "R_b"		{ *+b }
+QS  "R_ch"		{ *+ch }
+QS  "R_d"		{ *+d }
+QS  "R_dd"		{ *+dd }
+QS  "R_dh"		{ *+dh }
+QS  "R_dx"		{ *+dx }
+QS  "R_eh"		{ *+eh }
+QS  "R_el"		{ *+el }
+QS  "R_en"		{ *+en }
+QS  "R_er"		{ *+er }
+QS  "R_ey"		{ *+ey }
+QS  "R_f"		{ *+f }
+QS  "R_g"		{ *+g }
+QS  "R_hh"		{ *+hh }
+QS  "R_ih"		{ *+ih }
+QS  "R_iy"		{ *+iy }
+QS  "R_jh"		{ *+jh }
+QS  "R_k"		{ *+k }
+QS  "R_kd"		{ *+kd }
+QS  "R_l"		{ *+l }
+QS  "R_m"		{ *+m }
+QS  "R_n"		{ *+n }
+QS  "R_ng"		{ *+ng }
+QS  "R_ow"		{ *+ow }
+QS  "R_oy"		{ *+oy }
+QS  "R_p"		{ *+p }
+QS  "R_pd"		{ *+pd }
+QS  "R_r"		{ *+r }
+QS  "R_s"		{ *+s }
+QS  "R_sh"		{ *+sh }
+QS  "R_t"		{ *+t }
+QS  "R_td"		{ *+td }
+QS  "R_th"		{ *+th }
+QS  "R_ts"		{ *+ts }
+QS  "R_uh"		{ *+uh }
+QS  "R_uw"		{ *+uw }
+QS  "R_v"		{ *+v }
+QS  "R_w"		{ *+w }
+QS  "R_y"		{ *+y }
+QS  "R_z"		{ *+z }
+TR 2 
+TB 350.0 "ii_s2" {("ii","*-ii+*","ii+*","*-ii").state[2]}
+TB 350.0 "i_s2" {("i","*-i+*","i+*","*-i").state[2]}
+TB 350.0 "sp_s2" {("sp","*-sp+*","sp+*","*-sp").state[2]}
+TB 350.0 "uu_s2" {("uu","*-uu+*","uu+*","*-uu").state[2]}
+TB 350.0 "uan_s2" {("uan","*-uan+*","uan+*","*-uan").state[2]}
+TB 350.0 "d_s2" {("d","*-d+*","d+*","*-d").state[2]}
+TB 350.0 "uo_s2" {("uo","*-uo+*","uo+*","*-uo").state[2]}
+TB 350.0 "x_s2" {("x","*-x+*","x+*","*-x").state[2]}
+TB 350.0 "ia_s2" {("ia","*-ia+*","ia+*","*-ia").state[2]}
+TB 350.0 "z_s2" {("z","*-z+*","z+*","*-z").state[2]}
+TB 350.0 "iy_s2" {("iy","*-iy+*","iy+*","*-iy").state[2]}
+TB 350.0 "l_s2" {("l","*-l+*","l+*","*-l").state[2]}
+TB 350.0 "iang_s2" {("iang","*-iang+*","iang+*","*-iang").state[2]}
+TB 350.0 "g_s2" {("g","*-g+*","g+*","*-g").state[2]}
+TB 350.0 "e_s2" {("e","*-e+*","e+*","*-e").state[2]}
+TB 350.0 "r_s2" {("r","*-r+*","r+*","*-r").state[2]}
+TB 350.0 "en_s2" {("en","*-en+*","en+*","*-en").state[2]}
+TB 350.0 "b_s2" {("b","*-b+*","b+*","*-b").state[2]}
+TB 350.0 "an_s2" {("an","*-an+*","an+*","*-an").state[2]}
+TB 350.0 "vv_s2" {("vv","*-vv+*","vv+*","*-vv").state[2]}
+TB 350.0 "ve_s2" {("ve","*-ve+*","ve+*","*-ve").state[2]}
+TB 350.0 "m_s2" {("m","*-m+*","m+*","*-m").state[2]}
+TB 350.0 "in_s2" {("in","*-in+*","in+*","*-in").state[2]}
+TB 350.0 "u_s2" {("u","*-u+*","u+*","*-u").state[2]}
+TB 350.0 "ch_s2" {("ch","*-ch+*","ch+*","*-ch").state[2]}
+TB 350.0 "j_s2" {("j","*-j+*","j+*","*-j").state[2]}
+TB 350.0 "v_s2" {("v","*-v+*","v+*","*-v").state[2]}
+TB 350.0 "iu_s2" {("iu","*-iu+*","iu+*","*-iu").state[2]}
+TB 350.0 "ee_s2" {("ee","*-ee+*","ee+*","*-ee").state[2]}
+TB 350.0 "er_s2" {("er","*-er+*","er+*","*-er").state[2]}
+TB 350.0 "n_s2" {("n","*-n+*","n+*","*-n").state[2]}
+TB 350.0 "ian_s2" {("ian","*-ian+*","ian+*","*-ian").state[2]}
+TB 350.0 "s_s2" {("s","*-s+*","s+*","*-s").state[2]}
+TB 350.0 "ie_s2" {("ie","*-ie+*","ie+*","*-ie").state[2]}
+TB 350.0 "ai_s2" {("ai","*-ai+*","ai+*","*-ai").state[2]}
+TB 350.0 "h_s2" {("h","*-h+*","h+*","*-h").state[2]}
+TB 350.0 "ui_s2" {("ui","*-ui+*","ui+*","*-ui").state[2]}
+TB 350.0 "t_s2" {("t","*-t+*","t+*","*-t").state[2]}
+TB 350.0 "q_s2" {("q","*-q+*","q+*","*-q").state[2]}
+TB 350.0 "ao_s2" {("ao","*-ao+*","ao+*","*-ao").state[2]}
+TB 350.0 "ong_s2" {("ong","*-ong+*","ong+*","*-ong").state[2]}
+TB 350.0 "sh_s2" {("sh","*-sh+*","sh+*","*-sh").state[2]}
+TB 350.0 "ix_s2" {("ix","*-ix+*","ix+*","*-ix").state[2]}
+TB 350.0 "zh_s2" {("zh","*-zh+*","zh+*","*-zh").state[2]}
+TB 350.0 "ing_s2" {("ing","*-ing+*","ing+*","*-ing").state[2]}
+TB 350.0 "k_s2" {("k","*-k+*","k+*","*-k").state[2]}
+TB 350.0 "uai_s2" {("uai","*-uai+*","uai+*","*-uai").state[2]}
+TB 350.0 "eng_s2" {("eng","*-eng+*","eng+*","*-eng").state[2]}
+TB 350.0 "ou_s2" {("ou","*-ou+*","ou+*","*-ou").state[2]}
+TB 350.0 "iao_s2" {("iao","*-iao+*","iao+*","*-iao").state[2]}
+TB 350.0 "f_s2" {("f","*-f+*","f+*","*-f").state[2]}
+TB 350.0 "uang_s2" {("uang","*-uang+*","uang+*","*-uang").state[2]}
+TB 350.0 "p_s2" {("p","*-p+*","p+*","*-p").state[2]}
+TB 350.0 "iong_s2" {("iong","*-iong+*","iong+*","*-iong").state[2]}
+TB 350.0 "ang_s2" {("ang","*-ang+*","ang+*","*-ang").state[2]}
+TB 350.0 "un_s2" {("un","*-un+*","un+*","*-un").state[2]}
+TB 350.0 "ei_s2" {("ei","*-ei+*","ei+*","*-ei").state[2]}
+TB 350.0 "c_s2" {("c","*-c+*","c+*","*-c").state[2]}
+TB 350.0 "a_s2" {("a","*-a+*","a+*","*-a").state[2]}
+TB 350.0 "vn_s2" {("vn","*-vn+*","vn+*","*-vn").state[2]}
+TB 350.0 "van_s2" {("van","*-van+*","van+*","*-van").state[2]}
+TB 350.0 "iz_s2" {("iz","*-iz+*","iz+*","*-iz").state[2]}
+TB 350.0 "o_s2" {("o","*-o+*","o+*","*-o").state[2]}
+TB 350.0 "aa_s2" {("aa","*-aa+*","aa+*","*-aa").state[2]}
+TB 350.0 "ua_s2" {("ua","*-ua+*","ua+*","*-ua").state[2]}
+TB 350.0 "oo_s2" {("oo","*-oo+*","oo+*","*-oo").state[2]}
+TB 350.0 "ueng_s2" {("ueng","*-ueng+*","ueng+*","*-ueng").state[2]}
+TB 350.0 "sil_s2" {("sil","*-sil+*","sil+*","*-sil").state[2]}
+TB 350.0 "ii_s3" {("ii","*-ii+*","ii+*","*-ii").state[3]}
+TB 350.0 "i_s3" {("i","*-i+*","i+*","*-i").state[3]}
+TB 350.0 "sp_s3" {("sp","*-sp+*","sp+*","*-sp").state[3]}
+TB 350.0 "uu_s3" {("uu","*-uu+*","uu+*","*-uu").state[3]}
+TB 350.0 "uan_s3" {("uan","*-uan+*","uan+*","*-uan").state[3]}
+TB 350.0 "d_s3" {("d","*-d+*","d+*","*-d").state[3]}
+TB 350.0 "uo_s3" {("uo","*-uo+*","uo+*","*-uo").state[3]}
+TB 350.0 "x_s3" {("x","*-x+*","x+*","*-x").state[3]}
+TB 350.0 "ia_s3" {("ia","*-ia+*","ia+*","*-ia").state[3]}
+TB 350.0 "z_s3" {("z","*-z+*","z+*","*-z").state[3]}
+TB 350.0 "iy_s3" {("iy","*-iy+*","iy+*","*-iy").state[3]}
+TB 350.0 "l_s3" {("l","*-l+*","l+*","*-l").state[3]}
+TB 350.0 "iang_s3" {("iang","*-iang+*","iang+*","*-iang").state[3]}
+TB 350.0 "g_s3" {("g","*-g+*","g+*","*-g").state[3]}
+TB 350.0 "e_s3" {("e","*-e+*","e+*","*-e").state[3]}
+TB 350.0 "r_s3" {("r","*-r+*","r+*","*-r").state[3]}
+TB 350.0 "en_s3" {("en","*-en+*","en+*","*-en").state[3]}
+TB 350.0 "b_s3" {("b","*-b+*","b+*","*-b").state[3]}
+TB 350.0 "an_s3" {("an","*-an+*","an+*","*-an").state[3]}
+TB 350.0 "vv_s3" {("vv","*-vv+*","vv+*","*-vv").state[3]}
+TB 350.0 "ve_s3" {("ve","*-ve+*","ve+*","*-ve").state[3]}
+TB 350.0 "m_s3" {("m","*-m+*","m+*","*-m").state[3]}
+TB 350.0 "in_s3" {("in","*-in+*","in+*","*-in").state[3]}
+TB 350.0 "u_s3" {("u","*-u+*","u+*","*-u").state[3]}
+TB 350.0 "ch_s3" {("ch","*-ch+*","ch+*","*-ch").state[3]}
+TB 350.0 "j_s3" {("j","*-j+*","j+*","*-j").state[3]}
+TB 350.0 "v_s3" {("v","*-v+*","v+*","*-v").state[3]}
+TB 350.0 "iu_s3" {("iu","*-iu+*","iu+*","*-iu").state[3]}
+TB 350.0 "ee_s3" {("ee","*-ee+*","ee+*","*-ee").state[3]}
+TB 350.0 "er_s3" {("er","*-er+*","er+*","*-er").state[3]}
+TB 350.0 "n_s3" {("n","*-n+*","n+*","*-n").state[3]}
+TB 350.0 "ian_s3" {("ian","*-ian+*","ian+*","*-ian").state[3]}
+TB 350.0 "s_s3" {("s","*-s+*","s+*","*-s").state[3]}
+TB 350.0 "ie_s3" {("ie","*-ie+*","ie+*","*-ie").state[3]}
+TB 350.0 "ai_s3" {("ai","*-ai+*","ai+*","*-ai").state[3]}
+TB 350.0 "h_s3" {("h","*-h+*","h+*","*-h").state[3]}
+TB 350.0 "ui_s3" {("ui","*-ui+*","ui+*","*-ui").state[3]}
+TB 350.0 "t_s3" {("t","*-t+*","t+*","*-t").state[3]}
+TB 350.0 "q_s3" {("q","*-q+*","q+*","*-q").state[3]}
+TB 350.0 "ao_s3" {("ao","*-ao+*","ao+*","*-ao").state[3]}
+TB 350.0 "ong_s3" {("ong","*-ong+*","ong+*","*-ong").state[3]}
+TB 350.0 "sh_s3" {("sh","*-sh+*","sh+*","*-sh").state[3]}
+TB 350.0 "ix_s3" {("ix","*-ix+*","ix+*","*-ix").state[3]}
+TB 350.0 "zh_s3" {("zh","*-zh+*","zh+*","*-zh").state[3]}
+TB 350.0 "ing_s3" {("ing","*-ing+*","ing+*","*-ing").state[3]}
+TB 350.0 "k_s3" {("k","*-k+*","k+*","*-k").state[3]}
+TB 350.0 "uai_s3" {("uai","*-uai+*","uai+*","*-uai").state[3]}
+TB 350.0 "eng_s3" {("eng","*-eng+*","eng+*","*-eng").state[3]}
+TB 350.0 "ou_s3" {("ou","*-ou+*","ou+*","*-ou").state[3]}
+TB 350.0 "iao_s3" {("iao","*-iao+*","iao+*","*-iao").state[3]}
+TB 350.0 "f_s3" {("f","*-f+*","f+*","*-f").state[3]}
+TB 350.0 "uang_s3" {("uang","*-uang+*","uang+*","*-uang").state[3]}
+TB 350.0 "p_s3" {("p","*-p+*","p+*","*-p").state[3]}
+TB 350.0 "iong_s3" {("iong","*-iong+*","iong+*","*-iong").state[3]}
+TB 350.0 "ang_s3" {("ang","*-ang+*","ang+*","*-ang").state[3]}
+TB 350.0 "un_s3" {("un","*-un+*","un+*","*-un").state[3]}
+TB 350.0 "ei_s3" {("ei","*-ei+*","ei+*","*-ei").state[3]}
+TB 350.0 "c_s3" {("c","*-c+*","c+*","*-c").state[3]}
+TB 350.0 "a_s3" {("a","*-a+*","a+*","*-a").state[3]}
+TB 350.0 "vn_s3" {("vn","*-vn+*","vn+*","*-vn").state[3]}
+TB 350.0 "van_s3" {("van","*-van+*","van+*","*-van").state[3]}
+TB 350.0 "iz_s3" {("iz","*-iz+*","iz+*","*-iz").state[3]}
+TB 350.0 "o_s3" {("o","*-o+*","o+*","*-o").state[3]}
+TB 350.0 "aa_s3" {("aa","*-aa+*","aa+*","*-aa").state[3]}
+TB 350.0 "ua_s3" {("ua","*-ua+*","ua+*","*-ua").state[3]}
+TB 350.0 "oo_s3" {("oo","*-oo+*","oo+*","*-oo").state[3]}
+TB 350.0 "ueng_s3" {("ueng","*-ueng+*","ueng+*","*-ueng").state[3]}
+TB 350.0 "sil_s3" {("sil","*-sil+*","sil+*","*-sil").state[3]}
+TB 350.0 "ii_s4" {("ii","*-ii+*","ii+*","*-ii").state[4]}
+TB 350.0 "i_s4" {("i","*-i+*","i+*","*-i").state[4]}
+TB 350.0 "sp_s4" {("sp","*-sp+*","sp+*","*-sp").state[4]}
+TB 350.0 "uu_s4" {("uu","*-uu+*","uu+*","*-uu").state[4]}
+TB 350.0 "uan_s4" {("uan","*-uan+*","uan+*","*-uan").state[4]}
+TB 350.0 "d_s4" {("d","*-d+*","d+*","*-d").state[4]}
+TB 350.0 "uo_s4" {("uo","*-uo+*","uo+*","*-uo").state[4]}
+TB 350.0 "x_s4" {("x","*-x+*","x+*","*-x").state[4]}
+TB 350.0 "ia_s4" {("ia","*-ia+*","ia+*","*-ia").state[4]}
+TB 350.0 "z_s4" {("z","*-z+*","z+*","*-z").state[4]}
+TB 350.0 "iy_s4" {("iy","*-iy+*","iy+*","*-iy").state[4]}
+TB 350.0 "l_s4" {("l","*-l+*","l+*","*-l").state[4]}
+TB 350.0 "iang_s4" {("iang","*-iang+*","iang+*","*-iang").state[4]}
+TB 350.0 "g_s4" {("g","*-g+*","g+*","*-g").state[4]}
+TB 350.0 "e_s4" {("e","*-e+*","e+*","*-e").state[4]}
+TB 350.0 "r_s4" {("r","*-r+*","r+*","*-r").state[4]}
+TB 350.0 "en_s4" {("en","*-en+*","en+*","*-en").state[4]}
+TB 350.0 "b_s4" {("b","*-b+*","b+*","*-b").state[4]}
+TB 350.0 "an_s4" {("an","*-an+*","an+*","*-an").state[4]}
+TB 350.0 "vv_s4" {("vv","*-vv+*","vv+*","*-vv").state[4]}
+TB 350.0 "ve_s4" {("ve","*-ve+*","ve+*","*-ve").state[4]}
+TB 350.0 "m_s4" {("m","*-m+*","m+*","*-m").state[4]}
+TB 350.0 "in_s4" {("in","*-in+*","in+*","*-in").state[4]}
+TB 350.0 "u_s4" {("u","*-u+*","u+*","*-u").state[4]}
+TB 350.0 "ch_s4" {("ch","*-ch+*","ch+*","*-ch").state[4]}
+TB 350.0 "j_s4" {("j","*-j+*","j+*","*-j").state[4]}
+TB 350.0 "v_s4" {("v","*-v+*","v+*","*-v").state[4]}
+TB 350.0 "iu_s4" {("iu","*-iu+*","iu+*","*-iu").state[4]}
+TB 350.0 "ee_s4" {("ee","*-ee+*","ee+*","*-ee").state[4]}
+TB 350.0 "er_s4" {("er","*-er+*","er+*","*-er").state[4]}
+TB 350.0 "n_s4" {("n","*-n+*","n+*","*-n").state[4]}
+TB 350.0 "ian_s4" {("ian","*-ian+*","ian+*","*-ian").state[4]}
+TB 350.0 "s_s4" {("s","*-s+*","s+*","*-s").state[4]}
+TB 350.0 "ie_s4" {("ie","*-ie+*","ie+*","*-ie").state[4]}
+TB 350.0 "ai_s4" {("ai","*-ai+*","ai+*","*-ai").state[4]}
+TB 350.0 "h_s4" {("h","*-h+*","h+*","*-h").state[4]}
+TB 350.0 "ui_s4" {("ui","*-ui+*","ui+*","*-ui").state[4]}
+TB 350.0 "t_s4" {("t","*-t+*","t+*","*-t").state[4]}
+TB 350.0 "q_s4" {("q","*-q+*","q+*","*-q").state[4]}
+TB 350.0 "ao_s4" {("ao","*-ao+*","ao+*","*-ao").state[4]}
+TB 350.0 "ong_s4" {("ong","*-ong+*","ong+*","*-ong").state[4]}
+TB 350.0 "sh_s4" {("sh","*-sh+*","sh+*","*-sh").state[4]}
+TB 350.0 "ix_s4" {("ix","*-ix+*","ix+*","*-ix").state[4]}
+TB 350.0 "zh_s4" {("zh","*-zh+*","zh+*","*-zh").state[4]}
+TB 350.0 "ing_s4" {("ing","*-ing+*","ing+*","*-ing").state[4]}
+TB 350.0 "k_s4" {("k","*-k+*","k+*","*-k").state[4]}
+TB 350.0 "uai_s4" {("uai","*-uai+*","uai+*","*-uai").state[4]}
+TB 350.0 "eng_s4" {("eng","*-eng+*","eng+*","*-eng").state[4]}
+TB 350.0 "ou_s4" {("ou","*-ou+*","ou+*","*-ou").state[4]}
+TB 350.0 "iao_s4" {("iao","*-iao+*","iao+*","*-iao").state[4]}
+TB 350.0 "f_s4" {("f","*-f+*","f+*","*-f").state[4]}
+TB 350.0 "uang_s4" {("uang","*-uang+*","uang+*","*-uang").state[4]}
+TB 350.0 "p_s4" {("p","*-p+*","p+*","*-p").state[4]}
+TB 350.0 "iong_s4" {("iong","*-iong+*","iong+*","*-iong").state[4]}
+TB 350.0 "ang_s4" {("ang","*-ang+*","ang+*","*-ang").state[4]}
+TB 350.0 "un_s4" {("un","*-un+*","un+*","*-un").state[4]}
+TB 350.0 "ei_s4" {("ei","*-ei+*","ei+*","*-ei").state[4]}
+TB 350.0 "c_s4" {("c","*-c+*","c+*","*-c").state[4]}
+TB 350.0 "a_s4" {("a","*-a+*","a+*","*-a").state[4]}
+TB 350.0 "vn_s4" {("vn","*-vn+*","vn+*","*-vn").state[4]}
+TB 350.0 "van_s4" {("van","*-van+*","van+*","*-van").state[4]}
+TB 350.0 "iz_s4" {("iz","*-iz+*","iz+*","*-iz").state[4]}
+TB 350.0 "o_s4" {("o","*-o+*","o+*","*-o").state[4]}
+TB 350.0 "aa_s4" {("aa","*-aa+*","aa+*","*-aa").state[4]}
+TB 350.0 "ua_s4" {("ua","*-ua+*","ua+*","*-ua").state[4]}
+TB 350.0 "oo_s4" {("oo","*-oo+*","oo+*","*-oo").state[4]}
+TB 350.0 "ueng_s4" {("ueng","*-ueng+*","ueng+*","*-ueng").state[4]}
+TB 350.0 "sil_s4" {("sil","*-sil+*","sil+*","*-sil").state[4]}
+TR 1
+CO list/tiedlist
+AU list/fulllist
+ST "trees"

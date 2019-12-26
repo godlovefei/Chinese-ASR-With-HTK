@@ -1,0 +1,18 @@
+mkdir holmes.0
+LNewMap -f WFC Holmes empty.wmap
+LGPrep -T 1 -a 100000 -b 200000 -d holmes.0 -n 4 -s 'my'  empty.wmap data/train/*.txt
+LGList holmes.0/wmap holmes.0/gram.2 >log/log1
+mkdir holmes.1
+LGCopy -T 1 -b 200000 -d holmes.1 holmes.0/wmap holmes
+mkdir lm_5k
+LGCopy -T 1 -o -m lm_5k/5k.wmap -b 200000 -d lm_5k -w 5k.wlist holmes.0/wmap holmes.1/data.*
+LGList lm_5k/5k.wmap lm_5k/data.0>log/OOVfile_log
+#LSubset -T 1 holmes.0/wmap 5k.wlist lm_5k/5k.wmap
+LFoF -T 1 -n 4 -f 32 lm_5k/5k.wmap lm_5k/5k.fof holmes.1/data.* lm_5k/data.*
+#LFoF -C config -T 1 -n 4 -f 32 lm_5k/5k.wmap lm_5k/5k.fof
+一元模型
+LBuild -T 1 -n 1 lm_5k/5k.wmap lm_5k/ug holmes.1/data.* lm_5k/data.*
+二元模型
+LBuild -C config -T 1 -t lm_5k/5k.fof -c 2 1 -n 2 -l lm_5k/ug lm_5k/5k.wmap lm_5k/bg1 holmes.1/data.* lm_5k/data.*
+三元模型
+LBuild -T 1 -c 3 1 -n 3 -l lm_5k/bg1 lm_5k/5k.wmap lm_5k/tg1_1 holmes.1/data.* lm_5k/data.*
